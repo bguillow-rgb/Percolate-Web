@@ -1,0 +1,114 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import QuickAnswer from '../components/QuickAnswer.astro';
+import Footer from '../components/Footer.astro';
+import PersonSchema from '../components/schema/PersonSchema.astro';
+import AboutPageSchema from '../components/schema/AboutPageSchema.astro';
+import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import { SITE } from '../consts';
+
+const quickAnswer =
+  'Percolate is an iOS app for specialty coffee drinkers, built and run by ' +
+  'one independent developer. It catalogs your shelf, logs every cup, ' +
+  'and recommends bags you already own. It is not a roaster, not a ' +
+  'scraper of competitor sites, and not an ad platform. Percolate is free; ' +
+  'it makes money only from disclosed roaster affiliate links.';
+---
+<BaseLayout
+  title="About"
+  description="About Percolate — who runs it, what it is, what it isn't, and how it makes money."
+  path="/about"
+>
+  <Fragment slot="head">
+    <AboutPageSchema />
+    <PersonSchema />
+    <BreadcrumbSchema crumbs={[{ name: 'About', url: `${SITE.url}/about` }]} />
+  </Fragment>
+
+  <p class="brand">{SITE.name}</p>
+  <h1>About Percolate</h1>
+  <p class="effective">A drinker's coffee shelf and cupping log — built and run by one person.</p>
+
+  <QuickAnswer text={quickAnswer} />
+
+  <h2>Who runs Percolate?</h2>
+  <p>
+    Percolate is built and operated by <strong>{SITE.founder.name}</strong>,
+    an independent developer and longtime specialty-coffee drinker, and published by
+    {SITE.legalEntity}, the developer's own company. There is no outside
+    investor and no advertising network behind the app.
+    Decisions about features, privacy, and direction are made by one person,
+    and that person answers the email at
+    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+  </p>
+
+  <h2>What is Percolate?</h2>
+  <p>
+    Percolate is an iOS app for specialty coffee drinkers. It does four things
+    well: catalog your shelf with status, origin, process, and roast; log every
+    cup with a structured cupping note for aroma, acidity, body, and flavor;
+    build a taste profile from your real shelf and the cups you brew; and
+    suggest what to brew today from bags you already own. A yearly
+    Year in Coffee recap closes the loop with the stats only your own data
+    can produce.
+  </p>
+
+  <h2>What Percolate is not</h2>
+  <ul>
+    <li>It is <strong>not a roaster</strong>. The app does not sell or roast coffee. When you want to buy, we link out to roasters and specialty retailers and may earn a small commission.</li>
+    <li>It is <strong>not a scraper</strong> of other coffee sites. Our catalog comes from roaster product data and manual curation.</li>
+    <li>It is <strong>not a marketplace</strong>. There are no buy/sell flows, no auctions, no green-bean exchange.</li>
+    <li>It does <strong>not show ads</strong>. There are no ads anywhere in the app or on this site.</li>
+    <li>It does <strong>not sell or share your data</strong> for cross-user ad targeting. Your shelf and cupping log are private by default. See the <a href="/privacy">privacy policy</a> for the full breakdown.</li>
+  </ul>
+
+  <h2>How Percolate makes money</h2>
+  <p>
+    Percolate is <strong>free</strong> to download and use &mdash; there is no
+    subscription, no paywall, and no Pro tier. Every feature is included:
+    building your shelf, logging cupping notes, scanning labels, the flavor
+    quiz, and the Year in Coffee recap. There are no ads and we never sell
+    your data.
+  </p>
+  <p>
+    The only revenue stream is transparent. Coffee detail pages may include
+    <strong>&ldquo;Buy from&rdquo;</strong> links to the roaster or to
+    specialty retailers. When you use one of those links and purchase, we may
+    earn a small commission at no cost to you. This is disclosed on the page
+    where the link appears and in the <a href="/terms">Terms of Service</a>.
+    The price you pay is the same.
+  </p>
+
+  <h2>Why an independent developer built this</h2>
+  <p>
+    The coffee internet has not been served well. The most-cited reference
+    sites are dated, ad-heavy, and treat the drinker like a row in a database.
+    Newer entrants are feature-thin and focused on discovery for shoppers, not
+    on drinkers who already keep a half-dozen bags on the shelf and want to
+    actually dial them in. Percolate is built for the drinker who needs a shelf,
+    a cupping log, and a private taste profile in one place &mdash; without ads,
+    without scraping, and without being pushed toward the next purchase.
+  </p>
+
+  <h2>Editorial standards</h2>
+  <p>
+    Articles published on this site are written by {SITE.founder.name} based
+    on first-hand experience as a coffee drinker and on cited primary sources
+    (roaster notes, the SCA cupping protocol, processing and roasting references,
+    and other public sources). When a fact comes from somewhere other than direct
+    experience, it is linked. When something is an opinion, it is labeled.
+  </p>
+  <p>
+    Articles are dated, and the date is updated only when the content
+    actually changes &mdash; not just to make the page look fresh.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Press, partnership, or product feedback:
+    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+    There is no DM channel &mdash; email is the canonical contact.
+  </p>
+
+  <Footer />
+</BaseLayout>

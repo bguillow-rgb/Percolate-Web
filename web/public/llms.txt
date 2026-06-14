@@ -1,0 +1,20 @@
+# Percolate
+
+> Percolate is an iOS app for specialty coffee drinkers. It builds your coffee
+> shelf (owned / wishlist / finished), logs structured cupping notes on every
+> bag, scans a label to identify any coffee, gives a flavor quiz for roast and
+> origin matches from beans you'd actually like, and builds a personal taste
+> profile from what you brew. The app does not sell coffee. It links out to
+> roaster and retailer pages when users want to buy. Affiliate links are disclosed.
+
+## Site
+- [Home](https://percolateapp.com/): app overview, features, FAQ
+- [About](https://percolateapp.com/about): who runs Percolate, editorial standards, what the app is and is not
+- [Articles](https://percolateapp.com/articles): guides for coffee drinkers (cupping, roast levels, processing methods, brew dialing, origin)
+- [Support](https://percolateapp.com/support): adding coffees, the free model, data export, account deletion, troubleshooting
+- [Privacy Policy](https://percolateapp.com/privacy): data collection and handling
+- [Terms of Service](https://percolateapp.com/terms): account, the free model, affiliate disclosure
+- [Delete Account](https://percolateapp.com/delete-account): how to permanently delete your account and data
+
+## Optional
+- [Sitemap](https://percolateapp.com/sitemap-index.xml): full URL index updated on every build

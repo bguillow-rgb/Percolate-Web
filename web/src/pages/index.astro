@@ -1,0 +1,159 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import QuickAnswer from '../components/QuickAnswer.astro';
+import FAQ from '../components/FAQ.astro';
+import Footer from '../components/Footer.astro';
+import SoftwareApplicationSchema from '../components/schema/SoftwareApplicationSchema.astro';
+import { SITE } from '../consts';
+
+// Latest 3 published articles for the homepage "From the Blog" teaser.
+// Drafts are excluded automatically because they have published:false.
+const latestArticles = (
+  await getCollection('articles', ({ data }) => data.published)
+)
+  .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf())
+  .slice(0, 3);
+
+const quickAnswer =
+  'Percolate is an iOS app for specialty coffee drinkers. Build a shelf of the ' +
+  'bags you own, log structured cupping notes on every coffee, scan a label to ' +
+  'identify any bag, and take a flavor quiz that matches you to roasts and ' +
+  'origins you\u2019ll actually like. A personal taste profile is built from the ' +
+  'beans you brew. Percolate is not a roaster; we never sell coffee.';
+
+const faqs = [
+  {
+    q: 'What is Percolate?',
+    a:
+      'Percolate is an iOS app for specialty coffee drinkers. You build a shelf of the bags you own, log a structured cupping note on every coffee, and get matched to new beans by roast, origin, process, and flavor — drawn from a personal taste profile built from what you actually brew, not just a quiz.',
+  },
+  {
+    q: 'Is Percolate a roaster or coffee shop?',
+    a:
+      'No. Percolate does not sell or roast coffee. When you want to buy a bag, the app links out to the roaster or retailer. We may earn a small commission on those links at no cost to you, and this is disclosed in the Terms.',
+  },
+  {
+    q: 'Is Percolate free?',
+    a:
+      'Yes. Percolate is free to download and use — building your shelf, logging cupping notes, scanning labels, and taking the flavor quiz are all included. There are no ads and no data selling. When you choose to buy a coffee, the app links out to the roaster and may earn a small affiliate commission.',
+  },
+  {
+    q: 'How does the cupping log work?',
+    a:
+      'Open a bag on your shelf and tap to log a cup. Percolate records the date and walks you through a structured tasting — aroma, acidity, body, flavor, and an overall score — plus free-text notes. Rate the same coffee across multiple brews to see how your impression changes as the bag rests and you dial in your grind.',
+  },
+  {
+    q: 'What does the label scan do?',
+    a:
+      'Point your camera at a coffee bag and Percolate reads the label to identify the roaster, origin, process, and roast so you can add it to your shelf or learn more in a couple of taps — no typing out a long Ethiopian washed natural by hand.',
+  },
+  {
+    q: 'Is my shelf data private?',
+    a:
+      'Yes. Your shelf, cupping notes, ratings, and taste profile are private by default. Nothing is shared, sold, or used for cross-user ad targeting. A rating becomes part of the community average only when you choose to publish it. See the Privacy Policy for the full breakdown.',
+  },
+  {
+    q: 'Will there be an Android version?',
+    a:
+      'Percolate launches on iOS first. An Android release is on the roadmap but not yet scheduled.',
+  },
+];
+---
+<BaseLayout
+  title={SITE.name}
+  description={SITE.description}
+  path="/"
+>
+  <Fragment slot="head">
+    <SoftwareApplicationSchema />
+    <link rel="apple-touch-icon" href="/icon.png" />
+    <meta property="og:image" content={`${SITE.url}/icon.png`} />
+  </Fragment>
+
+  <section class="hero">
+    <img src="/icon.png" alt="Percolate app icon" class="hero-icon" width="80" height="80" />
+    <h1>{SITE.tagline}</h1>
+    <p class="hero-tagline">Build your coffee shelf. Log every cup.<br/>Find your next favorite bag.</p>
+
+    <p class="badge">Coming soon to the App Store</p>
+    <p class="hero-trust">No ads &middot; Your shelf stays yours &middot; iOS first</p>
+
+    <img
+      src="/assets/screenshots/04-shelf.png"
+      alt="Percolate shelf screen showing your coffee bags organized by owned, wishlist, and finished"
+      class="hero-shot"
+      loading="eager"
+      width="280"
+    />
+  </section>
+
+  <QuickAnswer text={quickAnswer} />
+
+  <section class="features">
+    <h2 class="section-title">Built for coffee drinkers</h2>
+
+    <div class="feature-grid">
+      <div class="feature">
+        <div class="feature-icon" aria-hidden="true">&#9826;</div>
+        <h3>Your shelf, organized</h3>
+        <p>Every bag by roaster, origin, and status &mdash; owned, wishlist, finished. Roast, process, and elevation tracked per coffee so your shelf reads like a cupping table.</p>
+      </div>
+
+      <div class="feature">
+        <div class="feature-icon" aria-hidden="true">&#9998;</div>
+        <h3>A cupping log that remembers</h3>
+        <p>Tap to log a cup. Score aroma, acidity, body, and flavor on a structured scale, add notes, and rate the same bag across brews as you dial it in.</p>
+      </div>
+
+      <div class="feature">
+        <div class="feature-icon" aria-hidden="true">&#9788;</div>
+        <h3>A pick for what to brew</h3>
+        <p>Tell Percolate what you&rsquo;re in the mood for and it suggests a coffee from your shelf &mdash; or your next bag &mdash; matched to roast, origin, and flavor.</p>
+      </div>
+
+      <div class="feature">
+        <div class="feature-icon" aria-hidden="true">&#10038;</div>
+        <h3>A taste profile from your cups</h3>
+        <p>Take the flavor quiz, then watch your palate sharpen with every cupping note you log. Built from real behavior, not a five-question quiz.</p>
+      </div>
+    </div>
+
+    <p class="features-link"><a href="/features">See every feature &rarr;</a></p>
+  </section>
+
+  <h2>How does Percolate make money?</h2>
+  <p>
+    Percolate is free to download and use. When a coffee&rsquo;s detail page shows
+    a &ldquo;Buy from&rdquo; link to a roaster or retailer, we may earn a small
+    commission if you use it &mdash; at no cost to you. There are no ads and no
+    data selling. We do not sell or roast coffee.
+  </p>
+
+  <div class="cta-row">
+    {SITE.appStoreUrl ? (
+      <a class="btn" href={SITE.appStoreUrl}>Download on iOS</a>
+    ) : (
+      <span class="btn btn--disabled">App Store — Coming Soon</span>
+    )}
+  </div>
+
+  {latestArticles.length > 0 && (
+    <section class="blog-teaser">
+      <h2 class="section-title">From the Blog</h2>
+      <ul class="blog-list">
+        {latestArticles.map((a) => (
+          <li>
+            <a href={`/articles/${a.slug}`}>{a.data.title}</a>
+            <p>{a.data.description}</p>
+          </li>
+        ))}
+      </ul>
+      <p class="features-link"><a href="/articles">All articles &rarr;</a></p>
+    </section>
+  )}
+
+  <FAQ faqs={faqs} />
+
+  <Footer />
+</BaseLayout>
