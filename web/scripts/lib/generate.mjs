@@ -1,15 +1,15 @@
 // Shared article generation against the Claude API + web search. Used by
 // daily-post.mjs (one detail article/day) and seed-content.mjs (one-shot batch).
 // Keeps the prompt and validation in one place so both produce schema-compliant,
-// AEO-optimized content. Tuned for the Perfume Picks vertical.
+// AEO-optimized content. Tuned for the Percolate vertical.
 import { readFileSync } from 'node:fs';
 
 // The audience + niche this site writes for. Baked here (not in consts.ts)
 // because the generation voice is editorial, not site config.
 const VERTICAL =
-  'perfume and fragrance collecting — building, organizing, wearing, and curating a personal fragrance wardrobe';
+  'specialty coffee — choosing, brewing, tasting, storing, and building a personal coffee shelf of beans and roasts';
 const AUDIENCE =
-  'fragrance collectors and enthusiasts who own multiple bottles and want to get more out of their collection';
+  'specialty coffee drinkers who buy multiple bags, brew at home, and want to get more out of the beans they own';
 
 // Read this site's identity from consts.ts so the script stays portable.
 export function loadSite(constsPath) {
@@ -38,10 +38,10 @@ MANDATORY article structure:
 - Under about half the H2 sections (not all — that reads templated), open with a short italicized framing lead-in, ROTATING among phrasings like "*A question we hear often:*", "*Readers frequently ask:*", "*This one comes up a lot:*". NEVER invent a person's name, persona, quote, or fake testimonial.
 - VARY answer depth: most sections answer completely in ~134-167 self-contained words, but some sections should run two full paragraphs (roughly 250-320 words) where the topic deserves it. Do not make every section the same length.
 - At least one comparison table (GitHub-flavored markdown)${pillar ? ' (pillars should have 2-3 tables)' : ''}.
-- A concrete stat, number, or cited fact roughly every 150-200 words. Attribute sources in prose (e.g. "according to fragrance industry data").
+- A concrete stat, number, or cited fact roughly every 150-200 words. Attribute sources in prose (e.g. "according to specialty coffee industry data").
 - ${pillar ? '8+' : '5+'} FAQs (these become the faqs field for FAQPage schema).
 - ${pillar ? '3000-5000 words for a comprehensive PILLAR overview that links down to every subtopic' : '1000-1600 words total for a detail/cluster article'}. Original wording only — never copy phrasing from sources.
-- Where it fits naturally, mention how ${site.name} (the fragrance-wardrobe app) helps with the task — but keep it light and never salesy; the article must stand on its own as useful content.
+- Where it fits naturally, mention how ${site.name} (the coffee-shelf app) helps with the task — but keep it light and never salesy; the article must stand on its own as useful content.
 - Internal-link naturally in prose to relevant existing pages on this site when it makes sense.`;
 }
 

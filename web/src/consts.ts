@@ -19,7 +19,7 @@ export const SITE = {
   appStoreUrl: '', // e.g. 'https://apps.apple.com/app/percolate/id0000000000'
   bundleId: 'com.percolate.app',
   appleTeamId: 'ZNS5TNLB2D',
-  // Founder / publisher \u2014 used for Person and Organization schema. The
+  // Founder / publisher, used for Person and Organization schema. The
   // /about page is the canonical entity anchor.
   founder: {
     name: 'Bob Guillow',
@@ -31,7 +31,7 @@ export const SITE = {
       // 'https://x.com/...',
     ],
   },
-  // Organization-level sameAs — canonical identifiers for the brand entity.
+  // Organization-level sameAs, canonical identifiers for the brand entity.
   // Used in OrganizationSchema. Add a Wikidata QID when the entity is minted.
   orgSameAs: [],
   // Analytics + tracking. All values come from env vars at build time so
@@ -41,7 +41,7 @@ export const SITE = {
     gscVerification: import.meta.env.PUBLIC_GSC_VERIFICATION ?? '',
     indexNowKey: import.meta.env.PUBLIC_INDEXNOW_KEY ?? '',
   },
-  // Brand colors \u2014 espresso & cream. Mirrors the in-app palette in
+  // Brand colors, espresso & cream. Mirrors the in-app palette in
   // config/verticals/percolate.ts. Cream dominates as negative space; espresso
   // ink is the high-contrast hero; gold is rationed to the recommender's voice.
   theme: {

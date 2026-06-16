@@ -15,10 +15,10 @@ import tls from 'node:tls';
 
 const args = process.argv.slice(2);
 const urlArg = args.includes('--url') ? args[args.indexOf('--url') + 1] : null;
-const SITE = (urlArg || process.env.SITE_URL || 'https://perfumepicks.app').replace(/\/$/, '');
+const SITE = (urlArg || process.env.SITE_URL || 'https://percolateapp.com').replace(/\/$/, '');
 const CERT_WARN_DAYS = Number(process.env.CERT_WARN_DAYS || 21);
 const MAX_CONCURRENCY = 8;
-const UA = 'PerfumePicks-Monitor/1.0 (+health-check)';
+const UA = 'Percolate-Monitor/1.0 (+health-check)';
 
 const fails = [];
 const warns = [];

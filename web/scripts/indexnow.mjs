@@ -6,8 +6,8 @@ import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, resolve } from 'node:path';
 
-const KEY = '6459c4aceebc6ca8fcb832a1df09ad12';
-const HOST = 'perfumepicks.app';
+const KEY = 'a1bd4c28b9e72e851b47924c817d962b';
+const HOST = 'percolateapp.com';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const sitemap = readFileSync(resolve(__dirname, '../dist/sitemap-0.xml'), 'utf8');

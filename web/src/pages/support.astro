@@ -5,7 +5,7 @@ import Footer from '../components/Footer.astro';
 import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
 import { SITE } from '../consts';
 
-// Support FAQs for Percolate — phrased as coffee-drinker questions, structured
+// Support FAQs for Percolate, phrased as coffee-drinker questions, structured
 // as H2 extraction targets, and emitted with FAQPage schema by the FAQ
 // component.
 const faqs = [
@@ -22,7 +22,7 @@ const faqs = [
   {
     q: 'Is Percolate free, and is there anything to cancel?',
     a:
-      'Percolate is completely free — there is no subscription, no Pro tier, and nothing to cancel. Every feature is included, and there are no ads. The only revenue is a small affiliate commission when you choose to buy a bag through a roaster link, at no extra cost to you. If you ever want your account and data removed, see how to delete your account below or email support.',
+      'Percolate is completely free, there is no subscription, no Pro tier, and nothing to cancel. Every feature is included, and there are no ads. The only revenue is a small affiliate commission when you choose to buy a bag through a roaster link, at no extra cost to you. If you ever want your account and data removed, see how to delete your account below or email support.',
   },
   {
     q: 'How do I export my cupping history?',
@@ -48,7 +48,7 @@ const faqs = [
 ---
 <BaseLayout
   title="Support"
-  description="Percolate support — adding coffees to your shelf, missing bags, the free model, data export, account deletion, and contact."
+  description="Percolate support, adding coffees to your shelf, missing bags, the free model, data export, account deletion, and contact."
   path="/support"
 >
   <Fragment slot="head">
@@ -66,7 +66,7 @@ const faqs = [
   </p>
   <p>
     Please include your account email, your iOS version, and your app version
-    (found at the bottom of the Profile tab) &mdash; it helps trace issues faster.
+    (found at the bottom of the Profile tab), it helps trace issues faster.
   </p>
 
   <FAQ faqs={faqs} heading="Common Questions" />

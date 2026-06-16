@@ -4,12 +4,12 @@ import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 // Tokens too generic to signal topical relatedness on this site — every article
-// is about fragrance/perfume collecting, so those words carry no signal.
+// is about specialty coffee, so those words carry no signal.
 const STOP = new Set([
   'the', 'a', 'an', 'and', 'or', 'to', 'of', 'in', 'on', 'for', 'with',
   'you', 'your', 'how', 'can', 'get', 'is', 'are', 'do', 'does', 'no',
   'what', 'why', 'when', 'who', 'will', 'us', 'usa', 'guide', '2026',
-  'without', 'best', 'perfume', 'perfumes', 'fragrance', 'fragrances', 'scent',
+  'without', 'best', 'coffee', 'coffees', 'bean', 'beans', 'brew', 'roast',
 ]);
 
 function tokens(s) {

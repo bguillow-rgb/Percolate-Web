@@ -15,7 +15,7 @@ if [ -z "${PUBLIC_INDEXNOW_KEY:-}" ]; then
   exit 1
 fi
 
-SITE="https://perfumepicks.app"
+SITE="https://percolateapp.com"
 SITEMAP="dist/sitemap-0.xml"
 
 if [ ! -f "$SITEMAP" ]; then
@@ -28,7 +28,7 @@ URLS=$(grep -oE '<loc>[^<]+</loc>' "$SITEMAP" | sed -E 's|<loc>([^<]+)</loc>|"\1
 
 PAYLOAD=$(cat <<EOF
 {
-  "host": "perfumepicks.app",
+  "host": "percolateapp.com",
   "key": "$PUBLIC_INDEXNOW_KEY",
   "keyLocation": "$SITE/$PUBLIC_INDEXNOW_KEY.txt",
   "urlList": [$URLS]
