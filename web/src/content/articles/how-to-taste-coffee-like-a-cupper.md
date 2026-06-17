@@ -11,6 +11,7 @@ quickAnswer: "Cupping is the standardized way professionals taste coffee. You sm
 publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
+  - "single-origin-coffee-flavor-by-country"
   - "coffee-roast-levels-explained"
   - "washed-vs-natural-vs-honey-process"
 faqs:

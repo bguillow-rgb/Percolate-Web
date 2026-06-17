@@ -15,6 +15,7 @@ author: "Percolate"
 relatedSlugs:
   - "coffee-roast-levels-explained"
   - "how-to-taste-coffee-like-a-cupper"
+  - "single-origin-coffee-flavor-by-country"
   - "washed-vs-natural-vs-honey-process"
 faqs:
   - q: "How long do coffee beans stay fresh after roasting?"
