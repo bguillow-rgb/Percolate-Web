@@ -12,6 +12,7 @@ publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
   - "coffee-roast-levels-explained"
+  - "how-long-to-rest-coffee-after-roasting"
   - "how-to-taste-coffee-like-a-cupper"
   - "single-origin-coffee-flavor-by-country"
 faqs:
