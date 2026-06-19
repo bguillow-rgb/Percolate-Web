@@ -14,6 +14,7 @@ publishedAt: "2026-06-17"
 author: "Percolate"
 relatedSlugs:
   - "how-to-taste-coffee-like-a-cupper"
+  - "coffee-grind-size-by-brew-method"
   - "coffee-roast-levels-explained"
   - "washed-vs-natural-vs-honey-process"
 faqs:

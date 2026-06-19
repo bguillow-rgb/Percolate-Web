@@ -14,6 +14,7 @@ publishedAt: "2026-06-18"
 author: "Percolate"
 relatedSlugs:
   - "how-to-store-coffee-beans-fresh"
+  - "coffee-grind-size-by-brew-method"
   - "coffee-roast-levels-explained"
   - "washed-vs-natural-vs-honey-process"
 faqs:

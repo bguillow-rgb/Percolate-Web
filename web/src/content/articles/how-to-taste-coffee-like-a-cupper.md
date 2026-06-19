@@ -12,6 +12,7 @@ publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
   - "single-origin-coffee-flavor-by-country"
+  - "coffee-grind-size-by-brew-method"
   - "coffee-roast-levels-explained"
   - "washed-vs-natural-vs-honey-process"
 faqs:

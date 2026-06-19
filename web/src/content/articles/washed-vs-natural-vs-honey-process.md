@@ -12,9 +12,9 @@ publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
   - "coffee-roast-levels-explained"
+  - "coffee-grind-size-by-brew-method"
   - "how-long-to-rest-coffee-after-roasting"
   - "how-to-taste-coffee-like-a-cupper"
-  - "single-origin-coffee-flavor-by-country"
 faqs:
   - q: "What does washed process mean on a coffee bag?"
     a: "It means the fruit (mucilage) was removed with water before the bean dried, usually after fermentation. The result is a clean cup that shows the coffee's acidity and origin character without added fruity sweetness from the cherry."
