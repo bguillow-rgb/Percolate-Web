@@ -71,15 +71,16 @@ const currentPath = path;
     <div class="container">
       <header class="site-header">
         <a href="/" class="site-wordmark">{SITE.name}</a>
+        <nav class="site-nav" aria-label="Main navigation">
+          {NAV.map((item) => (
+            <a
+              href={item.href}
+              aria-current={currentPath === item.href ? 'page' : undefined}
+            >{item.label}</a>
+          ))}
+        </nav>
       </header>
-      <nav class="site-nav" aria-label="Main navigation">
-        {NAV.map((item) => (
-          <a
-            href={item.href}
-            aria-current={currentPath === item.href ? 'page' : undefined}
-          >{item.label}</a>
-        ))}
-      </nav>
+      <div class="seam" aria-hidden="true"></div>
       <slot />
     </div>
   </body>

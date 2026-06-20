@@ -72,20 +72,39 @@ const faqs = [
   </Fragment>
 
   <section class="hero">
-    <img src="/icon.png" alt="Percolate app icon" class="hero-icon" width="80" height="80" />
-    <h1>{SITE.tagline}</h1>
-    <p class="hero-tagline">Build your coffee shelf. Log every cup.<br/>Find your next favorite bag.</p>
+    <div class="hero-copy">
+      <p class="eyebrow">Specialty coffee &middot; iOS</p>
+      <h1>Know what you&rsquo;re <em>brewing.</em></h1>
+      <p class="hero-tagline">Build a shelf of the bags you own, log a structured cupping note on every cup, and get matched to roasts and origins you&rsquo;ll actually like, from the beans you really brew.</p>
 
-    <p class="badge">Coming soon to the App Store</p>
-    <p class="hero-trust">No ads &middot; Your shelf stays yours &middot; iOS first</p>
+      <p class="badge">Coming soon to the App Store</p>
 
-    <img
-      src="/assets/screenshots/04-shelf.png"
-      alt="Percolate shelf screen showing your coffee bags organized by owned, wishlist, and finished"
-      class="hero-shot"
-      loading="eager"
-      width="280"
-    />
+      <p class="hero-trust">
+        <span>No ads</span>
+        <span>Your shelf stays yours</span>
+        <span>iOS first</span>
+      </p>
+    </div>
+
+    <aside class="baglabel" aria-label="Example coffee match">
+      <p class="baglabel-top">Matched to your palate</p>
+      <p class="baglabel-name">Ethiopia Guji</p>
+      <p class="baglabel-sub">Washed &middot; Heirloom &middot; 1,950 MASL</p>
+
+      <div class="roast">
+        <div class="roast-scale"><span>Light</span><span>Medium</span><span>Dark</span></div>
+        <div class="roast-track"><span class="roast-pip"></span></div>
+      </div>
+
+      <div class="notes">
+        <span class="note">Jasmine</span>
+        <span class="note">Bergamot</span>
+        <span class="note">Stone fruit</span>
+        <span class="note">Honey</span>
+      </div>
+
+      <p class="baglabel-foot"><span>Palate match</span><strong>94</strong></p>
+    </aside>
   </section>
 
   <QuickAnswer text={quickAnswer} />
@@ -95,25 +114,25 @@ const faqs = [
 
     <div class="feature-grid">
       <div class="feature">
-        <div class="feature-icon" aria-hidden="true">&#9826;</div>
+        <div class="feature-icon" aria-hidden="true">01 &middot; Shelf</div>
         <h3>Your shelf, organized</h3>
         <p>Every bag by roaster, origin, and status, owned, wishlist, finished. Roast, process, and elevation tracked per coffee so your shelf reads like a cupping table.</p>
       </div>
 
       <div class="feature">
-        <div class="feature-icon" aria-hidden="true">&#9998;</div>
+        <div class="feature-icon" aria-hidden="true">02 &middot; Cup</div>
         <h3>A cupping log that remembers</h3>
         <p>Tap to log a cup. Score aroma, acidity, body, and flavor on a structured scale, add notes, and rate the same bag across brews as you dial it in.</p>
       </div>
 
       <div class="feature">
-        <div class="feature-icon" aria-hidden="true">&#9788;</div>
+        <div class="feature-icon" aria-hidden="true">03 &middot; Brew</div>
         <h3>A pick for what to brew</h3>
         <p>Tell Percolate what you&rsquo;re in the mood for and it suggests a coffee from your shelf, or your next bag, matched to roast, origin, and flavor.</p>
       </div>
 
       <div class="feature">
-        <div class="feature-icon" aria-hidden="true">&#10038;</div>
+        <div class="feature-icon" aria-hidden="true">04 &middot; Palate</div>
         <h3>A taste profile from your cups</h3>
         <p>Take the flavor quiz, then watch your palate sharpen with every cupping note you log. Built from real behavior, not a five-question quiz.</p>
       </div>
