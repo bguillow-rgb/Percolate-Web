@@ -14,6 +14,7 @@ publishedAt: "2026-06-17"
 author: "Percolate"
 relatedSlugs:
   - "how-long-to-rest-coffee-after-roasting"
+  - "what-is-coffee-bloom-and-why-it-matters"
   - "coffee-grind-size-by-brew-method"
 faqs:
   - q: "How long do coffee beans stay fresh after roasting?"
