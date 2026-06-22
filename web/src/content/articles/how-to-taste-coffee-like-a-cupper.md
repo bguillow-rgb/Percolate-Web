@@ -14,7 +14,7 @@ relatedSlugs:
   - "single-origin-coffee-flavor-by-country"
   - "coffee-grind-size-by-brew-method"
   - "coffee-roast-levels-explained"
-  - "washed-vs-natural-vs-honey-process"
+  - "coffee-to-water-ratio-guide"
 faqs:
   - q: "What is coffee cupping?"
     a: "Cupping is a standardized tasting method roasters and buyers use to evaluate coffee. Ground coffee is steeped in hot water in identical cups, the crust is broken and smelled, and the liquid is slurped and scored on fixed attributes so different coffees can be compared fairly."
