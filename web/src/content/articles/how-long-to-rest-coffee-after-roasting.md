@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "how-to-store-coffee-beans-fresh"
   - "what-is-coffee-bloom-and-why-it-matters"
+  - "brew-water-temperature-guide"
   - "coffee-grind-size-by-brew-method"
-  - "coffee-roast-levels-explained"
 faqs:
   - q: "Can I brew coffee the same day it was roasted?"
     a: "Technically yes, but you'll get a noticeably worse cup. The extreme CO₂ pressure inside just-roasted beans interferes with water penetration, resulting in uneven extraction, a sour or flat taste, and erratic bloom. Waiting even 48 hours makes a meaningful difference; waiting the full recommended rest period for your roast level makes a dramatic one."

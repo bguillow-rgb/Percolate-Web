@@ -12,9 +12,9 @@ publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
   - "washed-vs-natural-vs-honey-process"
+  - "brew-water-temperature-guide"
   - "coffee-growing-altitude-flavor-guide"
   - "coffee-grind-size-by-brew-method"
-  - "how-long-to-rest-coffee-after-roasting"
 faqs:
   - q: "Is dark roast stronger than light roast?"
     a: "Not in caffeine. Roast level barely changes caffeine content. Dark roast tastes bolder and more bitter, but by weight light and dark roasts have very similar caffeine. Brew strength is driven mostly by your coffee-to-water ratio, not the roast."

@@ -13,10 +13,10 @@ quickAnswer: "Grind size should match your brew method's contact time: extra-coa
 publishedAt: "2026-06-19"
 author: "Percolate"
 relatedSlugs:
+  - "brew-water-temperature-guide"
   - "coffee-to-water-ratio-guide"
   - "how-long-to-rest-coffee-after-roasting"
   - "what-is-coffee-bloom-and-why-it-matters"
-  - "coffee-growing-altitude-flavor-guide"
 faqs:
   - q: "What happens if my grind is too fine for my brew method?"
     a: "Over-extraction occurs -- water contacts too much surface area for too long and pulls bitter, harsh compounds from the coffee. You'll taste astringency, dryness, or a flat, heavy bitterness. Grind coarser in small steps (2-3 clicks at a time on a burr grinder) until the cup tastes balanced and sweet."

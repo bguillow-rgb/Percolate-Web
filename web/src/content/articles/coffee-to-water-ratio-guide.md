@@ -14,6 +14,7 @@ publishedAt: "2026-06-22"
 author: "Percolate"
 relatedSlugs:
   - "coffee-grind-size-by-brew-method"
+  - "brew-water-temperature-guide"
   - "what-is-coffee-bloom-and-why-it-matters"
   - "how-to-taste-coffee-like-a-cupper"
 faqs:
