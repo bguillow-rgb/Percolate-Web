@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "can-you-freeze-coffee-beans"
   - "how-long-to-rest-coffee-after-roasting"
+  - "what-is-coffee-degassing"
   - "what-is-coffee-bloom-and-why-it-matters"
-  - "brew-water-temperature-guide"
 faqs:
   - q: "How long do coffee beans stay fresh after roasting?"
     a: "Peak flavor typically falls between days 4 and 21 after roasting. After roughly 30 days the aroma and complexity fade noticeably. The beans remain safe to drink for months, but the specialty-grade brightness you paid for is largely gone by the six-week mark without freezer storage."
