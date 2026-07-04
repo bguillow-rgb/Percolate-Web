@@ -11,7 +11,7 @@ export const SITE = {
   tagline: 'Know What You\u2019re Brewing',
   description:
     'Percolate is an iOS app for specialty coffee drinkers. Build your coffee shelf, log structured cupping notes on every bag, scan a label to identify any coffee, take a flavor quiz for roast and origin matches, and get a personal taste profile from the beans you brew.',
-  url: 'https://percolateapp.com',
+  url: 'https://www.percolateapp.com',
   locale: 'en-US',
   supportEmail: 'support@percolateapp.com',
   // Set when the App Store listing is live. Until then, /download routes to a

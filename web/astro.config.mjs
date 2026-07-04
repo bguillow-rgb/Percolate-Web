@@ -4,7 +4,7 @@ import mdx from '@astrojs/mdx';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://percolateapp.com',
+  site: 'https://www.percolateapp.com',
   trailingSlash: 'never',
   build: {
     format: 'file',
