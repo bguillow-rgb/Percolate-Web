@@ -14,9 +14,9 @@ publishedAt: "2026-06-19"
 author: "Percolate"
 relatedSlugs:
   - "brew-water-temperature-guide"
+  - "burr-grinder-vs-blade-grinder"
   - "coffee-to-water-ratio-guide"
   - "what-is-coffee-degassing"
-  - "coffee-varieties-explained"
 faqs:
   - q: "What happens if my grind is too fine for my brew method?"
     a: "Over-extraction occurs -- water contacts too much surface area for too long and pulls bitter, harsh compounds from the coffee. You'll taste astringency, dryness, or a flat, heavy bitterness. Grind coarser in small steps (2-3 clicks at a time on a burr grinder) until the cup tastes balanced and sweet."

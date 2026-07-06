@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "how-to-store-coffee-beans-fresh"
   - "how-long-to-rest-coffee-after-roasting"
+  - "burr-grinder-vs-blade-grinder"
   - "coffee-grind-size-by-brew-method"
-  - "coffee-to-water-ratio-guide"
 faqs:
   - q: "How long do coffee beans last in the freezer?"
     a: "Properly vacuum-sealed or tightly sealed whole beans maintain peak flavor for roughly 3-6 months in the freezer. They remain safe to brew beyond that, but aromatic complexity fades. Once thawed, use the beans within 5-7 days, they stale faster after a freeze-thaw cycle than freshly roasted beans stored at room temperature."
