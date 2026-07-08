@@ -13,10 +13,10 @@ quickAnswer: "Acidity is a bright, tangy sensation felt on the front of the tong
 publishedAt: "2026-07-07"
 author: "Percolate"
 relatedSlugs:
+  - "arabica-vs-robusta-coffee"
   - "coffee-extraction-yield-explained"
   - "how-to-taste-coffee-like-a-cupper"
   - "burr-grinder-vs-blade-grinder"
-  - "coffee-growing-altitude-flavor-guide"
 faqs:
   - q: "Is coffee acidity the same as the coffee being sour?"
     a: "Not exactly. Specialty-coffee acidity is a positive brightness -- think lemon zest or green apple -- that adds complexity. Sourness usually means under-extraction or stale beans, where that brightness has turned sharp and unpleasant. You want some acidity; you don't want sourness."
