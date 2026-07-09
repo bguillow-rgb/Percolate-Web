@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-grind-size-by-brew-method"
   - "brew-water-temperature-guide"
   - "coffee-extraction-yield-explained"
-  - "what-is-coffee-bloom-and-why-it-matters"
+  - "how-to-read-a-coffee-bag-label"
 faqs:
   - q: "What is the golden ratio for coffee?"
     a: "The SCA Golden Cup Standard recommends 55 grams of coffee per liter of water, roughly a 1:18 ratio, targeting a balanced extraction yield of 18-22% and 1.15-1.35% TDS. In practice, most specialty coffee brewers find 1:15 to 1:17 produces a richer, more satisfying cup at home, especially with single-origin or light-roast beans."

@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-roast-levels-explained"
   - "coffee-varieties-explained"
   - "coffee-growing-altitude-flavor-guide"
-  - "washed-vs-natural-vs-honey-process"
+  - "how-to-read-a-coffee-bag-label"
 faqs:
   - q: "Are the tasting notes on a coffee bag added flavors?"
     a: "No. Unless a bag is explicitly sold as 'flavored coffee,' the notes you see, blueberry, chocolate, citrus, jasmine, are naturally occurring. They describe aromatic and flavor compounds already present in the bean, shaped by origin, processing, variety, and roast. Nothing is added to a specialty coffee bag to produce those descriptors."
