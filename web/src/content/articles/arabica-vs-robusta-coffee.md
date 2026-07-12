@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-acidity-vs-bitterness"
   - "coffee-growing-altitude-flavor-guide"
   - "coffee-varieties-explained"
-  - "burr-grinder-vs-blade-grinder"
+  - "how-is-decaf-coffee-made"
 faqs:
   - q: "Is arabica coffee better than robusta?"
     a: "For most specialty home brewing, arabica delivers more flavor nuance, fruity, floral, and sweet notes that reward a good grinder and careful brewing. Robusta isn't 'worse,' but its best use cases are espresso blends (where it adds crema and punch) and high-caffeine contexts. Quality within each species matters as much as the species itself."
