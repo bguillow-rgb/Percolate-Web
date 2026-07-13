@@ -14,9 +14,9 @@ publishedAt: "2026-06-23"
 author: "Percolate"
 relatedSlugs:
   - "single-origin-coffee-flavor-by-country"
+  - "what-is-anaerobic-coffee-processing"
   - "arabica-vs-robusta-coffee"
   - "burr-grinder-vs-blade-grinder"
-  - "coffee-varieties-explained"
 faqs:
   - q: "What does MASL mean on a coffee bag?"
     a: "MASL stands for 'meters above sea level.' It tells you the elevation at which the coffee was grown. Specialty roasters print it as a transparency signal, the higher the number, the slower the bean developed and, generally, the more complex the flavor."

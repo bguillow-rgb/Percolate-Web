@@ -11,10 +11,10 @@ quickAnswer: "Processing is how the coffee cherry's fruit is removed from the se
 publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
+  - "what-is-anaerobic-coffee-processing"
   - "coffee-roast-levels-explained"
   - "coffee-varieties-explained"
   - "how-is-decaf-coffee-made"
-  - "what-do-coffee-tasting-notes-mean"
 faqs:
   - q: "What does washed process mean on a coffee bag?"
     a: "It means the fruit (mucilage) was removed with water before the bean dried, usually after fermentation. The result is a clean cup that shows the coffee's acidity and origin character without added fruity sweetness from the cherry."
