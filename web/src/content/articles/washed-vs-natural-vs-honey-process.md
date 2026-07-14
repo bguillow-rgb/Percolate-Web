@@ -13,8 +13,8 @@ author: "Bob Guillow"
 relatedSlugs:
   - "what-is-anaerobic-coffee-processing"
   - "coffee-roast-levels-explained"
+  - "what-is-carbonic-maceration-coffee"
   - "coffee-varieties-explained"
-  - "how-is-decaf-coffee-made"
 faqs:
   - q: "What does washed process mean on a coffee bag?"
     a: "It means the fruit (mucilage) was removed with water before the bean dried, usually after fermentation. The result is a clean cup that shows the coffee's acidity and origin character without added fruity sweetness from the cherry."
