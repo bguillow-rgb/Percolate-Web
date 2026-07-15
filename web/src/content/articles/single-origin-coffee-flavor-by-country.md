@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "coffee-growing-altitude-flavor-guide"
   - "how-to-taste-coffee-like-a-cupper"
+  - "water-hardness-coffee-flavor-guide"
   - "what-is-anaerobic-coffee-processing"
-  - "arabica-vs-robusta-coffee"
 faqs:
   - q: "Why does coffee taste different depending on where it's grown?"
     a: "Coffee cherry development is shaped by altitude, soil chemistry, temperature swings between day and night, rainfall patterns, and the varietals planted on each farm. Higher elevations slow cherry maturation, concentrating sugars and acids into more complex flavor compounds. Processing method (washed, natural, honey) then locks in or strips those compounds before roasting even begins. The combination of those variables is what makes an Ethiopian Yirgacheffe taste nothing like a Brazilian Sul de Minas."
