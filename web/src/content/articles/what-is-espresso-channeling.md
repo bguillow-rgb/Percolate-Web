@@ -16,6 +16,7 @@ relatedSlugs:
   - "coffee-extraction-yield-explained"
   - "coffee-grind-size-by-brew-method"
   - "what-is-coffee-degassing"
+  - "what-is-espresso-pre-infusion"
 faqs:
   - q: "What does channeling taste like in espresso?"
     a: "A channeled shot typically tastes sour and bitter at the same time, sourness from the under-extracted areas water rushed past, and bitterness from the over-extracted channels it blasted through. The shot often lacks sweetness and feels thin or hollow in body."

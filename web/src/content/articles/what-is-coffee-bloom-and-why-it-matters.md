@@ -13,10 +13,10 @@ quickAnswer: "Coffee bloom is the rapid release of CO₂ that occurs when hot wa
 publishedAt: "2026-06-21"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-espresso-pre-infusion"
   - "how-long-to-rest-coffee-after-roasting"
   - "what-is-coffee-degassing"
   - "arabica-vs-robusta-coffee"
-  - "brew-water-temperature-guide"
 faqs:
   - q: "How long should I let my coffee bloom?"
     a: "Most brews benefit from a 30, 45 second bloom. Fresh, lightly roasted beans may need up to 60 seconds because they retain more CO₂. Extending the bloom beyond 60 seconds yields diminishing returns and can cool the coffee bed too much, which hurts extraction."
