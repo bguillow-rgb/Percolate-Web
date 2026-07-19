@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "arabica-vs-robusta-coffee"
   - "coffee-varieties-explained"
+  - "light-roast-vs-dark-roast-caffeine"
   - "washed-vs-natural-vs-honey-process"
-  - "brew-water-temperature-guide"
 faqs:
   - q: "Does decaf coffee still have caffeine?"
     a: "Yes. The FDA allows coffee labeled 'decaf' to retain up to 3% of its original caffeine. In practice, most decaf cups contain 2-15 mg of caffeine, compared to 95-165 mg in a regular 8 oz cup. Swiss Water Process removes 99.9% of caffeine; solvent methods typically remove 96-98%."
