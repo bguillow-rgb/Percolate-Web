@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-varieties-explained"
   - "coffee-growing-altitude-flavor-guide"
   - "what-do-coffee-tasting-notes-mean"
-  - "coffee-roast-date-freshness-window"
+  - "what-is-a-coffee-cupping-score"
 faqs:
   - q: "What is the difference between a roast date and a best-by date on a coffee bag?"
     a: "A roast date tells you when the coffee was actually roasted, that's the freshness clock that matters for flavor. A best-by date is a food-safety marker, typically set 12-24 months after roasting. Coffee can be perfectly safe to drink well past the roast date yet taste stale and flat. Always prioritize the roast date. If a bag only shows a best-by date with no roast date, you have no way to know how fresh the coffee really is."
