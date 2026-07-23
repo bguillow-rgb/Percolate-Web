@@ -14,9 +14,9 @@ publishedAt: "2026-07-06"
 author: "Percolate"
 relatedSlugs:
   - "coffee-grind-size-by-brew-method"
+  - "paper-vs-metal-vs-cloth-coffee-filter"
   - "coffee-growing-altitude-flavor-guide"
   - "water-hardness-coffee-flavor-guide"
-  - "arabica-vs-robusta-coffee"
 faqs:
   - q: "Can I use a blade grinder for pour-over or espresso?"
     a: "Technically yes, but results will be poor. Blade grinders can't produce the fine, even grind that espresso demands, and uneven particles cause water to flow through pour-over unevenly, creating flat, sour, or harsh cups. For any method beyond basic drip, a burr grinder is strongly recommended."

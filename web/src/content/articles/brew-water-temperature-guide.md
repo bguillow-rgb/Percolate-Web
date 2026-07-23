@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "coffee-grind-size-by-brew-method"
   - "coffee-to-water-ratio-guide"
+  - "paper-vs-metal-vs-cloth-coffee-filter"
   - "water-hardness-coffee-flavor-guide"
-  - "what-is-coffee-degassing"
 faqs:
   - q: "What is the ideal water temperature for brewing coffee?"
     a: "The Specialty Coffee Association recommends 195°F to 205°F (90, 96°C). Most home brewers aim for 200°F (93°C) as a reliable middle point. The best temperature within this range depends on your roast level and brew method."
