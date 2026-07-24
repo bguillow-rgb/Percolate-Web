@@ -13,10 +13,10 @@ quickAnswer: "Coffee extraction yield (EY) is the percentage of a coffee ground'
 publishedAt: "2026-06-27"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-a-coffee-refractometer"
   - "coffee-acidity-vs-bitterness"
   - "coffee-to-water-ratio-guide"
   - "paper-vs-metal-vs-cloth-coffee-filter"
-  - "how-to-taste-coffee-like-a-cupper"
 faqs:
   - q: "What is TDS in coffee?"
     a: "TDS stands for Total Dissolved Solids -- the percentage of your brewed coffee that is dissolved coffee material rather than water. A typical filter coffee lands between 1.15% and 1.45% TDS. It measures strength (concentration), not quality or extraction efficiency on its own."
