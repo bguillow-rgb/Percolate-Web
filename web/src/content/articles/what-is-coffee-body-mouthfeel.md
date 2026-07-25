@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-roast-levels-explained"
   - "what-is-a-coffee-cupping-score"
   - "coffee-varieties-explained"
-  - "washed-vs-natural-vs-honey-process"
+  - "espresso-brew-ratio-explained"
 faqs:
   - q: "Is coffee body the same as coffee strength?"
     a: "No. Strength refers to how concentrated the brew is (the ratio of dissolved solids to water), while body is the tactile sensation of weight and texture in the mouth. A strong coffee can feel thin if brewed through a paper filter; a lower-concentration French press can still feel full-bodied."
