@@ -77,7 +77,11 @@ const faqs = [
       <h1>Know what you&rsquo;re <em>brewing.</em></h1>
       <p class="hero-tagline">Build a shelf of the bags you own, log a structured cupping note on every cup, and get matched to roasts and origins you&rsquo;ll actually like, from the beans you really brew.</p>
 
-      <p class="badge">Coming soon to the App Store</p>
+      {SITE.appStoreUrl ? (
+        <p class="hero-cta"><a class="btn" href={SITE.appStoreUrl}>Download on the App Store</a></p>
+      ) : (
+        <p class="badge">Coming soon to the App Store</p>
+      )}
 
       <p class="hero-trust">
         <span>No ads</span>

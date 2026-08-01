@@ -16,7 +16,7 @@ export const SITE = {
   supportEmail: 'support@percolateapp.com',
   // Set when the App Store listing is live. Until then, /download routes to a
   // \u201Ccoming soon\u201D state.
-  appStoreUrl: '', // e.g. 'https://apps.apple.com/app/percolate/id0000000000'
+  appStoreUrl: 'https://apps.apple.com/us/app/percolate-specialty-coffee/id6786252100',
   bundleId: 'com.percolate.app',
   appleTeamId: 'ZNS5TNLB2D',
   // Founder / publisher, used for Person and Organization schema. The
