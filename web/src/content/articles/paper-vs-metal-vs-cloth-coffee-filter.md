@@ -13,10 +13,10 @@ quickAnswer: "Paper filters trap coffee oils and fine particles, producing a bri
 publishedAt: "2026-07-23"
 author: "Percolate"
 relatedSlugs:
+  - "immersion-vs-percolation-coffee-brewing"
   - "burr-grinder-vs-blade-grinder"
   - "arabica-vs-robusta-coffee"
   - "brew-water-temperature-guide"
-  - "coffee-grind-size-by-brew-method"
 faqs:
   - q: "Does changing my coffee filter really make a noticeable taste difference?"
     a: "Yes, dramatically so. Switching from paper to metal on the same beans and grind can shift the cup from light and crisp to heavy and oil-rich. The filter controls which compounds reach your cup, so it functions as a flavor dial between clarity and body."

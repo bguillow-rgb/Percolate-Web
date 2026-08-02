@@ -13,10 +13,10 @@ quickAnswer: "Bypass brewing means extracting a concentrated coffee with less wa
 publishedAt: "2026-07-20"
 author: "Percolate"
 relatedSlugs:
+  - "immersion-vs-percolation-coffee-brewing"
   - "coffee-grind-size-by-brew-method"
   - "brew-water-temperature-guide"
   - "coffee-to-water-ratio-guide"
-  - "what-is-coffee-bloom-and-why-it-matters"
 faqs:
   - q: "Does bypass brewing dilute the flavor of my coffee?"
     a: "Not if done correctly. Because you brew a more concentrated extract first, adding bypass water brings the cup to your target strength without stripping out flavor. Think of it like adding a splash of water to whisky, it opens the cup rather than flattening it."
