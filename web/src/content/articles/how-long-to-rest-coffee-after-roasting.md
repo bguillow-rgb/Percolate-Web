@@ -11,7 +11,9 @@ relatedQueries:
   - "coffee off-gassing one-way valve"
 quickAnswer: "Most specialty coffee needs 3, 14 days of rest after roasting before brewing. Dark roasts are ready in 3, 5 days; medium roasts in 5, 10 days; light roasts in 7, 14 days; espresso benefits from up to 21 days. Brewing too soon traps CO₂ that blocks extraction, producing sour, uneven cups."
 publishedAt: "2026-06-18"
+updatedAt: "2026-08-03"
 author: "Percolate"
+affiliate: true
 relatedSlugs:
   - "how-to-store-coffee-beans-fresh"
   - "what-is-coffee-degassing"
@@ -108,3 +110,29 @@ For specialty whole-bean coffee stored correctly (sealed bag, room temperature, 
 - **Beyond 45 days:** Stale territory for most specialty coffees
 
 The best habit is to buy in quantities you'll finish within three to four weeks of the roast date, rather than stocking up. Buying one 250g bag every ten days generally outperforms buying a 1kg bag once a month -- both in flavor and in getting to try more coffees. Apps like Percolate let you log your coffee shelf and track roast dates so you always know which bag is in its peak window and which one to brew first.
+
+## Where can I buy coffee that actually arrives inside the rest window?
+
+Everything above assumes you know the roast date, and that's the catch. A grocery-store bag has usually been sitting in a warehouse well past its rest window before you ever pick it up, and plenty of bags don't print a roast date at all. Mail order from a roaster that roasts after you order is the reliable way to receive coffee on day two or three, with the whole rest curve still ahead of it. Two we link to below; prices are what each roaster charged when we checked in early August 2026.
+
+Fresh Roasted Coffee roasts the day your order ships. Their light Kenya AA is a good test case for the long end of the table above. It's a dense, high-grown coffee that genuinely tastes better after a full week of rest than it does on day four.
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Fresh Roasted Coffee Light Kenya AA, 12 oz whole bean</p>
+    <p class="buy-meta">Light roast &middot; Bungoma County, Kenya &middot; rest 7 to 14 days</p>
+  </div>
+  <a data-buy="frc-light-kenya-aa" data-retailer="freshroasted" href="https://www.kqzyfj.com/click-101804271-15735914?url=https%3A%2F%2Fwww.freshroastedcoffee.com%2Fproducts%2Flight-roast-kenya-aa-roasted-coffee&sid=pcweb_rest" target="_blank" rel="sponsored noopener">$18 at Fresh Roasted Coffee</a>
+</div>
+
+If you drink dark roasts, the wait is shorter and Peet's stamps a roast date on every bag. Major Dickason's has been their best seller for about fifty years, and as a dark roast it's ready to brew a few days off roast.
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Peet's Major Dickason's Blend, whole bean</p>
+    <p class="buy-meta">Dark roast &middot; roast date on the bag &middot; rest 3 to 5 days</p>
+  </div>
+  <a data-buy="peets-major-dickasons" data-retailer="peets" href="https://www.kqzyfj.com/click-101804271-15734720?url=https%3A%2F%2Fwww.peets.com%2Fproducts%2Fmajor-dickasons&sid=pcweb_rest" target="_blank" rel="sponsored noopener">$22 at Peet's</a>
+</div>
+
+Whichever way you buy, log the roast date the day the bag arrives, so the table above has something to count from.

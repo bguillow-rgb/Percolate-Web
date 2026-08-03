@@ -11,7 +11,9 @@ relatedQueries:
   - "how to develop coffee tasting skills"
 quickAnswer: "Building a coffee palate means actively paying attention to what you taste: start by learning the four basic sensations (sweetness, acidity, bitterness, body), taste coffees side by side, reference a flavor wheel, and log your notes after every brew. Consistency over weeks beats intensity over one session."
 publishedAt: "2026-07-26"
+updatedAt: "2026-08-03"
 author: "Percolate"
+affiliate: true
 relatedSlugs:
   - "how-to-taste-coffee-like-a-cupper"
   - "burr-grinder-vs-blade-grinder"
@@ -70,6 +72,16 @@ Tasted separately, they all might just taste like coffee.
 4. After three or four rounds, compare your notes. The contrast between the two cups will sharpen both descriptions.
 
 Pick coffees that differ meaningfully: a washed Ethiopian next to a natural Brazilian, or a light roast next to a medium from the same origin. Processing and roast level create the sharpest contrasts for beginners. You don't need a formal cupping setup -- two mugs, a notebook, and intentional attention are enough to start.
+
+The awkward part is sourcing: buying six full bags to compare origins gets expensive fast, and half of them will go stale before you finish. A sampler fixes that. Fresh Roasted Coffee sells a six-pack of organic single origins all roasted to the same medium level, which happens to make it a clean comparison set, since the roast is held constant and origin is the only thing changing cup to cup. Each pack is 2.5 ounces, about two side-by-side sessions per coffee. It was $29 when we checked in early August 2026.
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Fresh Roasted Six Pack Sampler, Organic Single-Origin Medium Roasts</p>
+    <p class="buy-meta">Six origins &middot; 2.5 oz each &middot; whole bean</p>
+  </div>
+  <a data-buy="frc-six-pack-single-origin" data-retailer="freshroasted" href="https://www.kqzyfj.com/click-101804271-15735914?url=https%3A%2F%2Fwww.freshroastedcoffee.com%2Fproducts%2Fsix-from-the-middle-roasted-coffee-sampler&sid=pcweb_palate" target="_blank" rel="sponsored noopener">$29 at Fresh Roasted Coffee</a>
+</div>
 
 ---
 

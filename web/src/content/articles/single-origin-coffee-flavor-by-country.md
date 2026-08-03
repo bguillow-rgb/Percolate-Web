@@ -11,7 +11,9 @@ relatedQueries:
   - "how does growing region affect coffee flavor"
 quickAnswer: "Single-origin coffee flavor varies dramatically by country: Ethiopia delivers floral, jasmine-like brightness; Kenya punches with blackcurrant and winey acidity; Colombia balances caramel and citrus; Brazil runs chocolaty and low-acid; Sumatra pours earthy and full-bodied. Growing altitude, soil, climate, and processing method all shape what ends up in your cup."
 publishedAt: "2026-06-17"
+updatedAt: "2026-08-03"
 author: "Percolate"
+affiliate: true
 relatedSlugs:
   - "what-is-coffee-terroir"
   - "coffee-growing-altitude-flavor-guide"
@@ -61,6 +63,16 @@ Ethiopia is unique in that it has its own "Heirloom" varieties of coffee plants,
 
 **Best brewed as:** pour-over (V60, Chemex) or filter. The clarity of a paper filter lets delicate florals and fruit acids read cleanly. Avoid dark roasting, it obliterates what makes Ethiopian coffee worth buying.
 
+If you want to taste what natural processing does to an Ethiopian, Bean Box carries Pedestrian Coffee's Lalesa, a natural that lands on berry and red grape with some cantaloupe underneath. (Prices in this article are what each retailer charged when we checked in early August 2026.)
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Pedestrian Coffee Ethiopia Lalesa Natural</p>
+    <p class="buy-meta">Natural process &middot; berry, red grape, cantaloupe</p>
+  </div>
+  <a data-buy="bb-pedestrian-ethiopia-lalesa" data-retailer="beanbox" href="https://www.awin1.com/pclick.php?p=45149906498&a=2931103&m=88885&clickref=pcweb_origins" target="_blank" rel="sponsored noopener">$25 at Bean Box</a>
+</div>
+
 ---
 
 ## What makes Kenyan coffee so different from everything else?
@@ -74,6 +86,16 @@ Why so bold? Kenya has the golden combination of rich volcanic soil, high altitu
 Many specialty coffee roasters worldwide carry Kenyan coffee on their roster at least a couple of times per year, which makes it a useful benchmark. If you want to understand what "high acidity" means in a complimentary sense, a Kenyan AA is the reference point.
 
 **Best brewed as:** pour-over or Aeropress at a slightly higher temperature. African coffees tend to dial better at higher temperatures with finer grinds when pulled as espresso, useful if you want a fruit-forward shot.
+
+The blackcurrant descriptor is easy to verify for yourself. Broadcast Coffee's Kenya Swara AB, a Seattle roaster sold through Bean Box, cups about as close to the textbook profile as it gets: black currant up front, poached pear behind it.
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Broadcast Coffee Kenya Swara AB</p>
+    <p class="buy-meta">Washed &middot; black currant, poached pear</p>
+  </div>
+  <a data-buy="bb-broadcast-kenya-swara-ab" data-retailer="beanbox" href="https://www.awin1.com/pclick.php?p=41882852166&a=2931103&m=88885&clickref=pcweb_origins" target="_blank" rel="sponsored noopener">$21 at Bean Box</a>
+</div>
 
 ---
 
@@ -125,6 +147,16 @@ The simplest framework: map what you already enjoy onto the acidity and flavor t
 - **Prefer sweet, balanced, approachable?** Colombia, Guatemala, or Costa Rica. Colombia's diverse climates and mountainous terrains provide ideal growing conditions, and the range of flavor between its regions makes it a versatile choice that appeals to a wide array of palates.
 - **Want low acid and nutty-chocolatey richness?** Brazil first, then Sumatra if you want to push into earthy territory. For a French press, look for coffees with a fuller body like Brazil, Costa Rica, Honduras, Mexico, and Colombia.
 - **Want something elegant and underexplored?** Rwanda and Burundi, Rwanda and Burundi deliver orange, red apple, caramel, and black tea notes with an elegant, sweet profile.
+
+One origin the table above leaves out: Hawaii. Kona sits firmly in the sweet-and-balanced lane, mild acidity with a chocolate sweetness. It's also the only origin on this page grown on US soil. It has never been cheap, because Kona land and Hawaiian labor aren't. Hula Daddy farms at high elevation on the Kona coast, and Hale is their entry bottling.
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Hula Daddy Hale, 100% Kona</p>
+    <p class="buy-meta">High elevation &middot; sweet, chocolate, mild</p>
+  </div>
+  <a data-buy="hd-hale-kona" data-retailer="huladaddy" href="https://www.awin1.com/cread.php?awinmid=122368&awinaffid=2931103&clickref=pcweb_origins&ued=https%3A%2F%2Fwww.huladaddy.com%2Fproducts%2Fhula-daddy-hale-coffee" target="_blank" rel="sponsored noopener">$50 at Hula Daddy</a>
+</div>
 
 The critical move is *writing it down*. Most specialty drinkers cycle through dozens of bags a year but retain only vague impressions, "I liked that fruity one", without a record to act on. Logging your bags in [Percolate](https://percolateapp.com) attaches origin, process, roast level, and your own cupping notes to each coffee, so over time your taste profile emerges from the actual data of what you've brewed. Instead of guessing at your next purchase, you can see patterns: "I rate every washed Ethiopian highly" or "I consistently score naturals below my average."
 
