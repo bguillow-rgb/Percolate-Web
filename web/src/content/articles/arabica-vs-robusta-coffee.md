@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "immersion-vs-percolation-coffee-brewing"
   - "light-roast-vs-dark-roast-caffeine"
+  - "pour-over-vs-french-press-coffee"
   - "single-origin-vs-coffee-blend"
-  - "paper-vs-metal-vs-cloth-coffee-filter"
 faqs:
   - q: "Is arabica coffee better than robusta?"
     a: "For most specialty home brewing, arabica delivers more flavor nuance, fruity, floral, and sweet notes that reward a good grinder and careful brewing. Robusta isn't 'worse,' but its best use cases are espresso blends (where it adds crema and punch) and high-caffeine contexts. Quality within each species matters as much as the species itself."

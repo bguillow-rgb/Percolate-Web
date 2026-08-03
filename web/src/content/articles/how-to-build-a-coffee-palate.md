@@ -16,7 +16,7 @@ relatedSlugs:
   - "how-to-taste-coffee-like-a-cupper"
   - "burr-grinder-vs-blade-grinder"
   - "paper-vs-metal-vs-cloth-coffee-filter"
-  - "water-hardness-coffee-flavor-guide"
+  - "pour-over-vs-french-press-coffee"
 faqs:
   - q: "How long does it take to develop a coffee palate?"
     a: "Most people notice real improvement within 4, 8 weeks of intentional daily tasting. Full vocabulary development is ongoing, even professional Q Graders refine their palate continuously."

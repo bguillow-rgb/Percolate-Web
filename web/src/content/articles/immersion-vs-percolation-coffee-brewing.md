@@ -13,10 +13,10 @@ quickAnswer: "Immersion brewing steeps coffee grounds in water until you separat
 publishedAt: "2026-08-02"
 author: "Percolate"
 relatedSlugs:
+  - "pour-over-vs-french-press-coffee"
   - "coffee-grind-size-by-brew-method"
   - "paper-vs-metal-vs-cloth-coffee-filter"
   - "arabica-vs-robusta-coffee"
-  - "brew-water-temperature-guide"
 faqs:
   - q: "What is the main difference between immersion and percolation coffee brewing?"
     a: "In immersion, grounds sit in water for the entire brew and extraction slows as the water becomes saturated. In percolation, fresh water continuously flows through the coffee bed, keeping extraction efficiency high throughout, producing a cleaner, brighter cup."

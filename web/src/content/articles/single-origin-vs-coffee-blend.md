@@ -13,10 +13,10 @@ quickAnswer: "Single origin coffee showcases the distinct flavors of one farm or
 publishedAt: "2026-07-18"
 author: "Percolate"
 relatedSlugs:
+  - "pour-over-vs-french-press-coffee"
   - "arabica-vs-robusta-coffee"
   - "immersion-vs-percolation-coffee-brewing"
   - "coffee-grind-size-by-brew-method"
-  - "paper-vs-metal-vs-cloth-coffee-filter"
 faqs:
   - q: "Is single origin coffee always higher quality than a blend?"
     a: "Not necessarily. Single origin means the coffee comes from one place, which says nothing about quality. A poorly processed single origin can be far worse than a carefully crafted blend. Premium single origins from top farms represent some of the best coffee available, but so do great espresso blends from roasters who source carefully."
