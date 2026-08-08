@@ -13,10 +13,10 @@ quickAnswer: "Espresso puck prep is everything you do between grinding your coff
 publishedAt: "2026-07-27"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-wdt-weiss-distribution-technique"
   - "what-is-espresso-channeling"
   - "what-is-a-coffee-refractometer"
   - "espresso-brew-ratio-explained"
-  - "how-to-build-a-coffee-palate"
 faqs:
   - q: "What is espresso puck prep?"
     a: "Puck prep is the full sequence of steps -- dosing, distributing, and tamping -- that you perform on your ground coffee inside the portafilter before brewing. It determines how evenly water flows through the puck during extraction."
