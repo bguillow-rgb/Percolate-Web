@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "immersion-vs-percolation-coffee-brewing"
   - "single-origin-vs-coffee-blend"
+  - "v60-vs-chemex-vs-kalita-wave"
   - "coffee-grind-size-by-brew-method"
-  - "coffee-to-water-ratio-guide"
 faqs:
   - q: "Does pour over or French press make stronger coffee?"
     a: "French press generally feels stronger because retained coffee oils add body and weight. Pour over can achieve similar or higher extraction yield but tastes cleaner and lighter by comparison. 'Strong' is partly about body, not just caffeine or extraction percentage."
