@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Footer from '../components/Footer.astro';
+
+// MCP discovery page: how AI agents and MCP clients connect to the Percolate
+// database. Human-readable and indexable; the machine-readable surface is
+// the MCP endpoint itself plus llms.txt.
+---
+
+<BaseLayout
+  title="Percolate MCP Server — Specialty Coffee Data for AI Agents"
+  description="Connect Claude, ChatGPT, Cursor, or any MCP client to the Percolate coffee database: 1,100+ curated coffees with tasting profiles and per-coffee brew recipes."
+  path="/mcp"
+>
+  <main class="page">
+    <h1>Percolate for AI agents (MCP)</h1>
+
+    <p>The Percolate MCP server gives AI assistants read-only access to our specialty coffee database: 1,100+ curated coffees with roast, body, acidity, and sweetness profiles, flavor notes, and curated brew recipes (ratio, temperature, grind) per coffee. Ask your AI for coffee recommendations, brewing guidance for a specific bag, or beans similar to ones you love &mdash; and it can answer from real catalog data instead of guessing.</p>
+
+    <h2>Connect in one minute</h2>
+    <p><strong>Claude Desktop</strong> (and other clients that launch local servers) &mdash; add to your MCP config:</p>
+    <pre is:raw><code>{
+  "mcpServers": {
+    "percolate": { "command": "npx", "args": ["-y", "percolate-mcp"] }
+  }
+}</code></pre>
+    <p><strong>Remote clients</strong> (web agents, Cursor, anything that takes a URL) &mdash; use the hosted endpoint, no install or API key:</p>
+    <pre><code>https://wmpiabzlcaqyrzxvfihi.supabase.co/functions/v1/mcp</code></pre>
+
+    <h2>What tools does the Percolate MCP server provide?</h2>
+    <table>
+      <thead><tr><th>Tool</th><th>What it does</th></tr></thead>
+      <tbody>
+        <tr><td><code>search_coffees</code></td><td>Search by name, category, roast, brew method, and price</td></tr>
+        <tr><td><code>get_coffee</code></td><td>Full tasting profile, pairings, and retailers for one coffee</td></tr>
+        <tr><td><code>find_similar</code></td><td>Coffees with a similar profile</td></tr>
+        <tr><td><code>get_recommendations</code></td><td>Picks from flavors, budget, roast, and your brew gear</td></tr>
+        <tr><td><code>compare_coffees</code></td><td>Side-by-side comparison</td></tr>
+        <tr><td><code>trending_coffees</code></td><td>What users are adding to collections right now</td></tr>
+        <tr><td><code>dial_in_suggestion</code></td><td>Curated brew recipe for a specific coffee</td></tr>
+        <tr><td><code>what_to_brew</code></td><td>A coffee for right now — evenings lean decaf</td></tr>
+      </tbody>
+    </table>
+
+    <h2>What can an AI answer with it?</h2>
+    <ul>
+      <li>&ldquo;Recommend a medium roast with chocolate and nutty notes.&rdquo;</li>
+      <li>&ldquo;How should I brew Onyx Monarch on a V60?&rdquo;</li>
+      <li>&ldquo;What coffee works for espresso under $20?&rdquo;</li>
+      <li>&ldquo;What should I brew tonight?&rdquo;</li>
+    </ul>
+
+    <h2>Access, privacy, and attribution</h2>
+    <p>All tools are read-only and public &mdash; no account, API key, or authentication is required. Requests are rate-limited to 60 calls per minute. Every response includes source attribution and data freshness dates; quote freely with attribution to Percolate (percolateapp.com). Anonymous usage telemetry (tool name, arguments, client name, timing) is logged to operate the service and purged after 90 days; no user identity or conversation content is collected.</p>
+
+    <h2>For developers</h2>
+    <ul>
+      <li>npm package: <a href="https://www.npmjs.com/package/percolate-mcp">percolate-mcp</a></li>
+      <li>GitHub (README, examples): <a href="https://github.com/bguillow-rgb/percolate-mcp">bguillow-rgb/percolate-mcp</a></li>
+      <li>Official MCP registry: <code>io.github.bguillow-rgb/percolate</code></li>
+      <li>Smithery listing: <a href="https://smithery.ai/servers/bguillow/percolate">smithery.ai/servers/bguillow/percolate</a></li>
+    </ul>
+  </main>
+  <Footer />
+</BaseLayout>
