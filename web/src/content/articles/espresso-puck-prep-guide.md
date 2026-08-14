@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "what-is-wdt-weiss-distribution-technique"
   - "what-is-espresso-channeling"
+  - "how-to-set-up-a-home-coffee-cupping"
   - "what-is-a-coffee-refractometer"
-  - "espresso-brew-ratio-explained"
 faqs:
   - q: "What is espresso puck prep?"
     a: "Puck prep is the full sequence of steps -- dosing, distributing, and tamping -- that you perform on your ground coffee inside the portafilter before brewing. It determines how evenly water flows through the puck during extraction."
