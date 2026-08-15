@@ -13,10 +13,10 @@ quickAnswer: "Choose coffee beans by narrowing four variables in order: roast le
 publishedAt: "2026-08-11"
 author: "Percolate"
 relatedSlugs:
+  - "how-to-choose-a-specialty-coffee-subscription"
   - "aeropress-vs-moka-pot"
   - "how-to-build-a-coffee-palate"
   - "pour-over-vs-french-press-coffee"
-  - "coffee-grind-size-by-brew-method"
 faqs:
   - q: "What roast level should a beginner start with?"
     a: "Medium roast is the most forgiving starting point. It balances brightness and body, is easier to dial in across most brew methods, and tends to taste closer to what most people expect coffee to taste like before they develop a preference for lighter or darker ends of the spectrum."
