@@ -16,9 +16,9 @@ author: "Percolate"
 affiliate: true
 relatedSlugs:
   - "how-to-keep-a-coffee-journal"
+  - "what-is-coffee-triangulation"
   - "how-to-choose-coffee-beans"
   - "how-to-taste-coffee-like-a-cupper"
-  - "aeropress-vs-moka-pot"
 faqs:
   - q: "How long does it take to develop a coffee palate?"
     a: "Most people notice real improvement within 4, 8 weeks of intentional daily tasting. Full vocabulary development is ongoing, even professional Q Graders refine their palate continuously."
