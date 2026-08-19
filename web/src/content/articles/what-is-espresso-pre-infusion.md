@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-is-coffee-bloom-and-why-it-matters"
   - "how-long-to-rest-coffee-after-roasting"
   - "coffee-roast-levels-explained"
-  - "aeropress-vs-moka-pot"
+  - "what-is-coffee-aftertaste-finish"
 faqs:
   - q: "How long should espresso pre-infusion last?"
     a: "Most baristas use 3, 8 seconds as a starting range. Light roasts benefit from longer pre-infusion (6, 10 seconds) because dense beans need more time to saturate evenly. Dark roasts do well with shorter pre-infusion (2, 4 seconds) since they're more porous and extract faster."
