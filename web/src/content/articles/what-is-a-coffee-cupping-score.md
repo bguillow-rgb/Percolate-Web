@@ -13,10 +13,10 @@ quickAnswer: "A coffee cupping score is a number from 0, 100 assigned by trained
 publishedAt: "2026-07-21"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-specialty-grade-coffee"
   - "coffee-varieties-explained"
   - "what-is-coffee-triangulation"
   - "how-to-read-a-coffee-bag-label"
-  - "what-do-coffee-tasting-notes-mean"
 faqs:
   - q: "What score does a coffee need to be called 'specialty'?"
     a: "It must score 80 points or above on the SCA 100-point cupping scale and have zero primary physical defects in a 350g green-bean sample. Anything below 80 is classified as commodity or commercial grade."
