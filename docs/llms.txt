@@ -20,4 +20,4 @@
 - [Sitemap](https://percolateapp.com/sitemap-index.xml): full URL index updated on every build
 
 ## For AI agents (MCP)
-- [MCP server](https://percolateapp.com/mcp): connect any MCP client to the Percolate database — read-only, no API key. Remote endpoint: https://wmpiabzlcaqyrzxvfihi.supabase.co/functions/v1/mcp — npm: percolate-mcp — registry: io.github.bguillow-rgb/percolate
+- [MCP server](https://percolateapp.com/mcp): connect any MCP client to the Percolate database — read-only, no API key. Remote endpoint: https://mcp.percolateapp.com — npm: percolate-mcp — registry: io.github.bguillow-rgb/percolate
