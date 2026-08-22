@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "how-to-build-a-coffee-palate"
   - "what-is-a-coffee-cupping-score"
+  - "what-is-a-coffee-flight"
   - "burr-grinder-vs-blade-grinder"
-  - "how-to-taste-coffee-like-a-cupper"
 faqs:
   - q: "What is coffee triangulation?"
     a: "Coffee triangulation (also called a triangle test or triangular cupping) is a structured tasting exercise in which three cups of coffee are served, two from the same sample and one that is different, and the taster must identify which cup is the odd one out, relying solely on sensory perception."

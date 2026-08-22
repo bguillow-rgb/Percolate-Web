@@ -13,10 +13,10 @@ quickAnswer: "To set up a home coffee cupping, you need 2-4 same-size ceramic cu
 publishedAt: "2026-08-14"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-a-coffee-flight"
   - "espresso-puck-prep-guide"
   - "how-to-build-a-coffee-palate"
   - "how-to-taste-coffee-like-a-cupper"
-  - "coffee-to-water-ratio-guide"
 faqs:
   - q: "How many coffees should I cup in one session?"
     a: "Two to four coffees is ideal for beginners. Fewer than two gives you nothing to compare; more than four overwhelms the palate and makes note-taking unreliable. Pick coffees with genuine differences -- different origins, processes, or roast levels -- so the contrasts are clear."
