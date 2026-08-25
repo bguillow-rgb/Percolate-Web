@@ -14,9 +14,9 @@ publishedAt: "2026-07-25"
 author: "Percolate"
 relatedSlugs:
   - "how-to-dial-in-espresso"
+  - "what-is-coffee-dose"
   - "ristretto-vs-lungo-vs-espresso"
   - "coffee-extraction-yield-explained"
-  - "what-is-a-coffee-refractometer"
 faqs:
   - q: "What is a 1:2 espresso brew ratio?"
     a: "A 1:2 ratio means every gram of dry ground coffee in the portafilter produces 2 grams of liquid espresso in the cup. An 18 g dose yields 36 g of espresso. It's the baseline used by most specialty cafés and the SCA espresso standard."

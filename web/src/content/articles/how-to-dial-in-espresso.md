@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "espresso-brew-ratio-explained"
   - "coffee-extraction-yield-explained"
+  - "what-is-coffee-dose"
   - "coffee-acidity-vs-bitterness"
-  - "coffee-grind-size-by-brew-method"
 faqs:
   - q: "How long does it take to dial in espresso?"
     a: "Most home baristas can find a balanced shot in 3-5 attempts once they have a solid baseline recipe. With practice, the process narrows to 2-3 shots per new bag."
