@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "coffee-grind-size-by-brew-method"
   - "how-to-make-cold-brew-coffee-at-home"
+  - "what-is-espresso-pressure-profiling"
   - "burr-grinder-vs-blade-grinder"
-  - "espresso-puck-prep-guide"
 faqs:
   - q: "What is a turbo shot espresso?"
     a: "A turbo shot is an espresso pulled with a coarser grind, around 6 bar of pressure, and a short extraction time of roughly 15 seconds. The result is a sweeter, brighter shot with high extraction yield and lower bitterness compared to a traditional 9-bar, 25-35 second pull."
