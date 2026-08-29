@@ -13,10 +13,10 @@ quickAnswer: "Sweetness in coffee is a natural flavor quality produced by sugars
 publishedAt: "2026-08-16"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-coffee-brix"
   - "coffee-acidity-vs-bitterness"
   - "coffee-growing-altitude-flavor-guide"
   - "light-roast-vs-dark-roast-caffeine"
-  - "paper-vs-metal-vs-cloth-coffee-filter"
 faqs:
   - q: "Does coffee actually contain sugar?"
     a: "Yes. Green coffee beans contain carbohydrates, including sucrose, glucose, and fructose, that make up roughly 30, 40% of the bean's dry weight. Most of these sugars are transformed during roasting into aromatic compounds that your brain perceives as sweet, rather than remaining as simple sugars in the cup."
