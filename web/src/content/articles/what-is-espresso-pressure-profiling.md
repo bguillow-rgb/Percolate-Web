@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "burr-grinder-vs-blade-grinder"
   - "espresso-puck-prep-guide"
+  - "what-is-grind-retention-coffee"
   - "water-hardness-coffee-flavor-guide"
-  - "what-is-a-turbo-shot-espresso"
 faqs:
   - q: "Do I need a special machine to pressure profile espresso?"
     a: "Yes. Pressure profiling requires either a machine with a built-in profiling feature (like the Lelit Bianca V3 or Decent DE1), a flow-control paddle add-on, a manual lever machine, or an aftermarket dimmer-switch mod on compatible machines like the Gaggia Classic. Standard pump machines hold a fixed 9 bar and cannot vary pressure mid-shot."
