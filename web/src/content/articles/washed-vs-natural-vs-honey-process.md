@@ -9,7 +9,7 @@ relatedQueries:
   - "natural process coffee flavor"
 quickAnswer: "Processing is how the coffee cherry's fruit is removed from the seed before roasting. Washed coffees taste clean and bright with clear acidity; natural (dry) coffees taste fruity, heavy, and sweet from drying inside the whole cherry; honey process sits in between, keeping some fruit while staying cleaner than a natural."
 publishedAt: "2026-06-14"
-author: "Bob Guillow"
+author: "Percolate"
 relatedSlugs:
   - "what-is-anaerobic-coffee-processing"
   - "coffee-roast-levels-explained"

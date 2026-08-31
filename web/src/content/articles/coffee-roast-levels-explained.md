@@ -9,7 +9,7 @@ relatedQueries:
   - "how roast level changes coffee flavor"
 quickAnswer: "Coffee roast level describes how long and how hot green beans were roasted. Lighter roasts keep more origin character, brighter acidity, and lighter body; darker roasts trade acidity for heavier body, bitterness, and roasty flavor. Roast is a spectrum set by the roaster, not a fixed grade, so taste it rather than trusting the label alone."
 publishedAt: "2026-06-14"
-author: "Bob Guillow"
+author: "Percolate"
 relatedSlugs:
   - "washed-vs-natural-vs-honey-process"
   - "what-do-coffee-tasting-notes-mean"

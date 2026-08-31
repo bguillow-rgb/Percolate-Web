@@ -9,7 +9,7 @@ relatedQueries:
   - "what is coffee cupping"
 quickAnswer: "Cupping is the standardized way professionals taste coffee. You smell the dry and wet grounds, break the crust, then slurp and score four axes, aroma, acidity, body, and flavor, plus an overall score. Doing it the same way every time turns vague impressions into a repeatable taste profile you can trust."
 publishedAt: "2026-06-14"
-author: "Bob Guillow"
+author: "Percolate"
 relatedSlugs:
   - "how-to-build-a-coffee-palate"
   - "what-is-minerality-in-coffee"
