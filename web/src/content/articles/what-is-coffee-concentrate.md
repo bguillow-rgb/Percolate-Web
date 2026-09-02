@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "how-to-make-cold-brew-coffee-at-home"
   - "can-you-freeze-coffee-beans"
+  - "how-long-does-ground-coffee-stay-fresh"
   - "what-is-coffee-aftertaste-finish"
-  - "what-is-coffee-bloom-and-why-it-matters"
 faqs:
   - q: "What is the difference between coffee concentrate and cold brew?"
     a: "Cold brew describes the brewing method, steeping grounds in cold water for 12, 24 hours. Concentrate describes the strength, a high coffee-to-water ratio meant to be diluted. Most homemade cold brew is concentrate by default, but concentrate can also be made with hot water, and not all cold brew is strong enough to count as concentrate."
