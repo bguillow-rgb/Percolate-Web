@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "how-to-dial-in-espresso"
   - "what-is-a-coffee-refractometer"
+  - "why-does-coffee-taste-salty"
   - "coffee-acidity-vs-bitterness"
-  - "coffee-to-water-ratio-guide"
 faqs:
   - q: "What is TDS in coffee?"
     a: "TDS stands for Total Dissolved Solids -- the percentage of your brewed coffee that is dissolved coffee material rather than water. A typical filter coffee lands between 1.15% and 1.45% TDS. It measures strength (concentration), not quality or extraction efficiency on its own."

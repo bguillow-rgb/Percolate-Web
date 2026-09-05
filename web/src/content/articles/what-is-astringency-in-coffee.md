@@ -13,10 +13,10 @@ quickAnswer: "Astringency in coffee is a dry, puckering, or roughening sensation
 publishedAt: "2026-09-01"
 author: "Percolate"
 relatedSlugs:
+  - "why-does-coffee-taste-salty"
   - "coffee-acidity-vs-bitterness"
   - "how-to-dial-in-espresso"
   - "ristretto-vs-lungo-vs-espresso"
-  - "coffee-extraction-yield-explained"
 faqs:
   - q: "Is astringency the same as bitterness in coffee?"
     a: "No. Bitterness is a taste registered by your taste buds, it's sharp and immediate. Astringency is a tactile mouthfeel: a dry, puckering, or tightening sensation on the tongue, gums, and cheeks caused by polyphenols binding to saliva proteins. You can have one without the other."
