@@ -1,0 +1,119 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Footer from '../../components/Footer.astro';
+import coffees from '../../data/brews.json';
+
+// One page per coffee that has a curated brew recipe. The recipe (ratio,
+// grind, method) plus the reason it suits that specific coffee is the part
+// that doesn't exist elsewhere — generic "how to use a V60" content can't
+// answer for a named bag.
+export function getStaticPaths() {
+  return coffees.map((c) => ({ params: { slug: c.id }, props: { c } }));
+}
+const { c } = Astro.props;
+const a = c.attributes || {};
+const ROAST = ['', 'light', 'medium-light', 'medium', 'medium-dark', 'dark'];
+const roast = a.roast >= 1 && a.roast <= 5 ? ROAST[Math.round(a.roast)] : null;
+const flav = (a.flavors || []).map((f) => f.replace(/_/g, ' '));
+const brews = (c.pairings || []).filter((p) => p.category === 'brew');
+const foods = (c.pairings || []).filter((p) => p.category !== 'brew');
+const usd = c.price_cents ? `$${(c.price_cents / 100).toFixed(2)}` : null;
+const title = c.full_name || c.title;
+const best = brews[0];
+
+const quick = `For ${title}, start with ${best.item.toLowerCase()} — ${best.reason.toLowerCase().replace(/\.$/, '')}. ` +
+  `It is a ${roast || 'medium'} roast tasting of ${flav.join(', ')}${usd ? `, around ${usd}` : ''}.`;
+
+const related = coffees
+  .filter((o) => o.id !== c.id)
+  .map((o) => ({ o, n: ((o.attributes || {}).flavors || []).filter((f) => (a.flavors || []).includes(f)).length }))
+  .sort((x, y) => y.n - x.n)
+  .slice(0, 6);
+
+const faqs = [
+  { q: `How should I brew ${title}?`, a: `${brews.map((b) => b.item).join('; ')}. ${best.reason}` },
+  { q: `What does ${title} taste like?`,
+    a: `${flav.join(', ')}. On the Percolate 1-5 scales it reads body ${a.body ?? '—'}, acidity ${a.acidity ?? '—'}, sweetness ${a.sweetness ?? '—'}${roast ? `, at a ${roast} roast` : ''}${a.process ? `, ${a.process} processed` : ''}.` },
+  { q: `What should I eat with it?`,
+    a: foods.length ? `${foods[0].item} — ${foods[0].reason}` : `Keep the food simple; a ${roast || 'medium'} roast with ${flav[0]} notes is easiest alongside plain pastry rather than anything sweet enough to compete.` },
+];
+const jsonld = { '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) };
+---
+<BaseLayout
+  title={`How to Brew ${title} — Ratio, Grind & Method`}
+  description={`Brew guide for ${title}: curated recipe with ratio and grind, why it suits this coffee, its tasting profile and food pairings.`}
+  path={`/brew/${c.id}`}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+  <main class="page">
+    <p><a href="/brew">Brew guides</a> → {title}</p>
+    <h1>How to brew {title}</h1>
+    <p><strong>{quick}</strong></p>
+
+    <h2>Recipes for {title}</h2>
+    <table>
+      <thead><tr><th>Method</th><th>Why it suits this coffee</th></tr></thead>
+      <tbody>
+        {brews.map((b) => (<tr><td><strong>{b.item}</strong>{b.deepCut ? ' (deep cut)' : ''}</td><td>{b.reason}</td></tr>))}
+      </tbody>
+    </table>
+
+    <h2>What {title} tastes like</h2>
+    <p>
+      {c.producer ? `${c.producer} roasts this` : 'This is roasted'}
+      {roast ? ` to a ${roast} level` : ''}
+      {a.process ? `, ${a.process} processed` : ''}
+      {c.category ? `, in the ${c.category.replace(/_/g, ' ')} category` : ''}
+      {usd ? `, around ${usd}` : ''}. Expect {flav.join(', ')}.
+    </p>
+    <ul>
+      {a.body != null && <li><strong>Body:</strong> {a.body}/5</li>}
+      {a.acidity != null && <li><strong>Acidity:</strong> {a.acidity}/5</li>}
+      {a.sweetness != null && <li><strong>Sweetness:</strong> {a.sweetness}/5</li>}
+      {a.brews?.length > 0 && <li><strong>Suits:</strong> {a.brews.join(', ')}</li>}
+      {a.formats?.length > 0 && <li><strong>Formats:</strong> {a.formats.join(', ')}</li>}
+    </ul>
+    {c.description && <p>{c.description}</p>}
+
+    <h2>Dialling it in</h2>
+    <p>
+      Treat the recipe above as the starting point, then adjust on taste rather than on numbers.
+      {a.acidity >= 4 ? ' This one is bright, so if it reads sour rather than sweet, grind finer or raise the water temperature before you touch the ratio.' : ''}
+      {a.acidity != null && a.acidity <= 2 ? ' Acidity is low here, so a coarser grind or cooler water will keep it from turning flat and bitter.' : ''}
+      {a.body >= 4 ? ' The heavy body means it tolerates a longer contact time than a delicate cup would.' : ''}
+      {roast === 'dark' || roast === 'medium-dark' ? ' Darker roasts extract fast — pull back before you push further.' : ''}
+      {roast === 'light' ? ' Light roasts are dense; hotter water and a longer ratio open them up.' : ''}
+    </p>
+
+    {foods.length > 0 && (
+      <>
+        <h2>What to eat with it</h2>
+        <ul>{foods.map((f) => (<li><strong>{f.item}</strong> — {f.reason}</li>))}</ul>
+      </>
+    )}
+
+    <h2>Common questions</h2>
+    {faqs.map((f) => (<div><h3>{f.q}</h3><p>{f.a}</p></div>))}
+
+    <h2>Where this comes from</h2>
+    <p>
+      Recipes and pairings are curated per coffee in the Percolate catalog with the reasoning
+      recorded alongside them, rather than generated on request. Roast, body, acidity and
+      sweetness are structured catalog values. AI assistants can query this dataset directly
+      through the <a href="/mcp">Percolate MCP server</a>.
+    </p>
+
+    <h2>Coffees with a similar profile</h2>
+    <ul>
+      {related.map(({ o, n }) => (
+        <li>
+          <a href={`/brew/${o.id}`}>How to brew {o.full_name || o.title}</a>
+          {n > 0 ? ` — shares ${n} flavor note${n > 1 ? 's' : ''} with this one` : ''}
+        </li>
+      ))}
+      <li><a href="/brew">All brew guides</a></li>
+    </ul>
+  </main>
+  <Footer />
+</BaseLayout>

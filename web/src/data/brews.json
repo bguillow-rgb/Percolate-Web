@@ -1,0 +1,2567 @@
+[
+ {
+  "id": "xb-bean-bean-coffee-roasters-downtown-blend-organic",
+  "full_name": "Bean & Bean Coffee Roasters Downtown Blend - Organic & Fair Trade",
+  "title": "Downtown Blend - Organic & Fair Trade",
+  "producer": "Bean & Bean Coffee Roasters",
+  "category": "espresso",
+  "price_cents": 2200,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "espresso",
+    "drip"
+   ],
+   "roast": 3,
+   "origin": "Blend",
+   "acidity": 4,
+   "flavors": [
+    "floral",
+    "citrus",
+    "chocolate",
+    "earthy"
+   ],
+   "formats": [
+    "beans"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Honey-ricotta toast",
+    "reason": "lifts the floral top notes without covering them",
+    "category": "food"
+   },
+   {
+    "item": "Espresso, 1:2 in ~28s",
+    "reason": "concentrates the sweetness and body",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Roast Level: Medium Tasting notes: Roasted nuts, cedar, sweet herbs *Great for espresso! Organic + Fair Trade Certified. Created and perfected since 2008 when we opened our first shop in Downtown Manhattan, Bean Bean Downtown Blend coffee is a blend of beans f\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-bean-bean-coffee-roasters-honduras-santa-lucia-c",
+  "full_name": "Bean & Bean Coffee Roasters Honduras Santa Lucia Casona Gesha Washed",
+  "title": "Honduras Santa Lucia Casona Gesha Washed",
+  "producer": "Bean & Bean Coffee Roasters",
+  "category": "single_origin",
+  "price_cents": 2600,
+  "attributes": {
+   "body": 2,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Honduras",
+   "acidity": 4,
+   "flavors": [
+    "floral",
+    "berry",
+    "caramel",
+    "winey"
+   ],
+   "formats": [
+    "beans"
+   ],
+   "process": "washed",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Honey-ricotta toast",
+    "reason": "lifts the floral top notes without covering them",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Roast Level: Light Tasting Notes: Jasmine, brown sugar, fresh berries, crisp acidity The Casona plot, meaning \u201cBig House,\u201d is Santa Lucia\u2019s first Gesha planting. Planted in 2014 using Gesha seed sourced from Francisco Serracin of Panama\u2019s Don Pachi Estate, thi\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-bean-bean-coffee-roasters-rio-nights",
+  "full_name": "Bean & Bean Coffee Roasters Rio Nights",
+  "title": "Rio Nights",
+  "producer": "Bean & Bean Coffee Roasters",
+  "category": "dark",
+  "price_cents": 2000,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 5,
+   "origin": "Colombia",
+   "acidity": 3,
+   "flavors": [
+    "chocolate",
+    "nutty",
+    "molasses"
+   ],
+   "formats": [
+    "beans"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Flourless chocolate cake",
+    "reason": "doubles down on the cocoa depth",
+    "category": "food"
+   },
+   {
+    "item": "French press, 1:15, 4-min steep",
+    "reason": "full immersion carries the heavy body",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Roast Level: Medium-Dark Roast Tasting notes: Chocolate, Raisin, Toasted Nuts, Roasty This blend brings together women-produced coffees from Panama, Brazil, and Colombia for a plush, rich-bodied cup with tons of fudgy sweetness, reminiscent of dark chocolate p\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-bean-bean-fancy-diner-coffee",
+  "full_name": "Bean & Bean Fancy Diner Coffee",
+  "title": "Fancy Diner Coffee",
+  "producer": "Bean & Bean",
+  "category": "blend",
+  "price_cents": 1800,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "origin": "Blend",
+   "acidity": 2,
+   "flavors": [
+    "molasses"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 3
+  },
+  "pairings": [
+   {
+    "item": "Sticky date pudding",
+    "reason": "matches the dark-sugar, dried-fruit depth",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Remember sipping coffee in a cozy diner with friends or family? Well, we've bottled up that feeling of nostalgia and poured it into every cup of Fancy Diner Coffee. Bean Bean\u2019s darkest and most daring roast is a tribute to the comforting coffee that you want t\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-bean-bean-hachi-panama-gin-enzyflow-washed",
+  "full_name": "Bean & Bean HACHI Panama \"GIN\" \u9280 Enzyflow Washed",
+  "title": "HACHI Panama \"GIN\" \u9280 Enzyflow Washed",
+  "producer": "Bean & Bean",
+  "category": "single_origin",
+  "price_cents": 2600,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Panama",
+   "acidity": 4,
+   "flavors": [
+    "citrus",
+    "stonefruit"
+   ],
+   "formats": [
+    "beans"
+   ],
+   "process": "washed",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Lemon-glazed shortbread",
+    "reason": "plays straight into the citrus brightness",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "If you're looking for a coffee that showcases advanced processing and how far the caturra varietal can be pushed look no further! This is a loud and expressive presenting coffee from HACHI that has structured stonefruit and citrus acidity with a high sweetness\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-bean-bean-bean-bean-seasonal-finca-lerida-catuai",
+  "full_name": "Bean & Bean Seasonal - Finca Lerida Catuai Honey",
+  "title": "Bean & Bean Seasonal - Finca Lerida Catuai Honey",
+  "producer": "Bean & Bean",
+  "category": "single_origin",
+  "price_cents": 1800,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "acidity": 4,
+   "flavors": [
+    "floral",
+    "caramel"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Honey-ricotta toast",
+    "reason": "lifts the floral top notes without covering them",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Founded in NYC by a mother-daughter duo of certified Q Graders, Bean Bean is built on a deep obsession with coffee quality. This subscription features a rotating selection of their most exceptional seasonal finds, from vibrant organic single-origins to award-w\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-black-white-lychee-berry-lemonade",
+  "full_name": "Black & White Lychee Berry Lemonade",
+  "title": "Lychee Berry Lemonade",
+  "producer": "Black & White",
+  "category": "blend",
+  "price_cents": 2200,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Blend",
+   "acidity": 4,
+   "flavors": [
+    "berry",
+    "citrus",
+    "stonefruit",
+    "tropical"
+   ],
+   "formats": [
+    "beans",
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "A square of 70% dark chocolate",
+    "reason": "echoes the berry and rounds off the acidity",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "We\u2019ve partnered with our friends at Black White to create this crazy blend of coffees we\u2019re calling Lychee Berry Lemonade! This blend is made of Baolian Lychee Peach which brings a distinctive lychee candy note and tea notes alongside Sebastian Ramirez\u2019s Red F\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-black-white-the-future-seasonal-strawberry-short",
+  "full_name": "Black & White The Future Seasonal - Strawberry Shortcake",
+  "title": "The Future Seasonal - Strawberry Shortcake",
+  "producer": "Black & White",
+  "category": "single_origin",
+  "price_cents": 2000,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "acidity": 3,
+   "flavors": [
+    "berry"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 3
+  },
+  "pairings": [
+   {
+    "item": "A square of 70% dark chocolate",
+    "reason": "echoes the berry and rounds off the acidity",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "The Future has been a beloved staple on Black and White\u2019s menu, showcasing excellence in advanced processing techniques. Expect exotic expressive flavors. Each iteration is unlike anything else out there, We\u2019ve partnered with Black White to create an xBloom Ex\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-black-white-the-future-strawberry-shortcake",
+  "full_name": "Black & White The Future: Strawberry Shortcake",
+  "title": "The Future: Strawberry Shortcake",
+  "producer": "Black & White",
+  "category": "blend",
+  "price_cents": 2000,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "origin": "Blend",
+   "acidity": 4,
+   "flavors": [
+    "berry",
+    "citrus"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "A square of 70% dark chocolate",
+    "reason": "echoes the berry and rounds off the acidity",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "This is another crazy edition of The Future from our friends at Black White! It's indulgent, fruity, sweet, and creamy bursting with notes of strawberry, lemon zest, whipped cream and more! This is a blend made of five advanced processed coffees each bringing \u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-black-white-the-traditional",
+  "full_name": "Black & White The Traditional",
+  "title": "The Traditional",
+  "producer": "Black & White",
+  "category": "dark",
+  "price_cents": 1600,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 5,
+   "acidity": 3,
+   "flavors": [
+    "chocolate",
+    "nutty"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Flourless chocolate cake",
+    "reason": "doubles down on the cocoa depth",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "This coffee is B W's interpretation of a familiar coffee concept, executed with the same ethical sourcing and attentive roasting practices they are known for. Unlike typical dark roasts where the original bean characteristics are often overshadowed by the roas\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-caffe-lusso-roastery-classic-drip",
+  "full_name": "Caff\u00e8 Lusso Roastery Classic Drip",
+  "title": "Classic Drip",
+  "producer": "Caff\u00e8 Lusso Roastery",
+  "category": "blend",
+  "price_cents": 2100,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 3,
+   "origin": "Blend",
+   "acidity": 4,
+   "flavors": [
+    "citrus"
+   ],
+   "formats": [
+    "beans"
+   ],
+   "process": "washed",
+   "sweetness": 3
+  },
+  "pairings": [
+   {
+    "item": "Lemon-glazed shortbread",
+    "reason": "plays straight into the citrus brightness",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Crafted with the timeless joy of a classic morning drip in mind, Classic Drip is a harmonious blend of washed Central American coffees, designed to offer a lively, citrusy finish from its carefully curated light-medium roast. True to Caff\u00e8 Lusso's signature ro\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-caffe-lusso-roastery-costa-rica-la-manita",
+  "full_name": "Caff\u00e8 Lusso Roastery Costa Rica La Manita",
+  "title": "Costa Rica La Manita",
+  "producer": "Caff\u00e8 Lusso Roastery",
+  "category": "single_origin",
+  "price_cents": 2500,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Costa Rica",
+   "acidity": 3,
+   "flavors": [
+    "citrus",
+    "chocolate"
+   ],
+   "formats": [
+    "beans"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Lemon-glazed shortbread",
+    "reason": "plays straight into the citrus brightness",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "La Minita, meaning \u201cthe small mine,\u201d carries a legacy as rich as the land itself. According to local legend, pre-Columbian indigenous people once searched these hills for gold. Today, that treasure takes the form of coffee. True to its name, La Minita is a gem\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-caffe-lusso-roastery-gran-miscela-carmo-espresso",
+  "full_name": "Caff\u00e8 Lusso Roastery Gran Miscela Carmo - Espresso Blend",
+  "title": "Gran Miscela Carmo - Espresso Blend",
+  "producer": "Caff\u00e8 Lusso Roastery",
+  "category": "espresso",
+  "price_cents": 2100,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "espresso",
+    "drip"
+   ],
+   "roast": 4,
+   "origin": "Brazil",
+   "acidity": 3,
+   "flavors": [
+    "berry",
+    "chocolate",
+    "caramel"
+   ],
+   "formats": [
+    "beans"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "A square of 70% dark chocolate",
+    "reason": "echoes the berry and rounds off the acidity",
+    "category": "food"
+   },
+   {
+    "item": "Espresso, 1:2 in ~28s",
+    "reason": "concentrates the sweetness and body",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "The Gran Miscela Carmo Espresso Blend is composed of three coffees from the Carmo de Minas region in Southeast Brazil, a hidden gem gaining prominence. Pulling notes of caramel from the Canaan Estate and roasted nuts from the Condado Estate , this sumptuous bl\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-caffe-lusso-roastery-guatemala-finca-florencia",
+  "full_name": "Caff\u00e8 Lusso Roastery Guatemala Finca Florencia",
+  "title": "Guatemala Finca Florencia",
+  "producer": "Caff\u00e8 Lusso Roastery",
+  "category": "single_origin",
+  "price_cents": 2300,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Guatemala",
+   "acidity": 2,
+   "flavors": [
+    "floral",
+    "citrus",
+    "chocolate",
+    "caramel"
+   ],
+   "formats": [
+    "beans"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Honey-ricotta toast",
+    "reason": "lifts the floral top notes without covering them",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "This small-farm Guatemalan coffee highlights the chocolate and floral notes archetypical of the region. As our most popular coffee brewed using the drip method, it is balanced and complex with layers of baking chocolate, orange peel, and honeysuckle. From the \u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-chromatic-opus",
+  "full_name": "Chromatic Opus",
+  "title": "Opus",
+  "producer": "Chromatic",
+  "category": "dark",
+  "price_cents": 1600,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "drip"
+   ],
+   "roast": 5,
+   "origin": "Honduras",
+   "acidity": 3,
+   "flavors": [
+    "chocolate",
+    "caramel"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Flourless chocolate cake",
+    "reason": "doubles down on the cocoa depth",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Sweet, bold, big body and mouthfeel! This is Chromatic Coffee's Opus which features a blend of coffees from Honduran producers. We find this coffee to be the perfect daily driver for those looking for a strong cup to wake them up in the morning. Enjoy black or\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-flower-child-chelbesa",
+  "full_name": "Flower Child Chelbesa",
+  "title": "Chelbesa",
+  "producer": "Flower Child",
+  "category": "single_origin",
+  "price_cents": 2000,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "origin": "Ethiopia",
+   "acidity": 4,
+   "flavors": [
+    "floral",
+    "berry",
+    "stonefruit",
+    "tropical"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Honey-ricotta toast",
+    "reason": "lifts the floral top notes without covering them",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "This expression of Chelbessa is bursting with bright strawberries, pear, nectarines, and wonderful florals all tied to a high clarity cup. We taste a red fruit strawberry-like acidity that is harmoniously tied to a bright tropical acidity with layered sweetnes\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-flower-child-flower-child-seasonal-chelbesa",
+  "full_name": "Flower Child Seasonal - Chelbesa",
+  "title": "Flower Child Seasonal - Chelbesa",
+  "producer": "Flower Child",
+  "category": "single_origin",
+  "price_cents": 1900,
+  "attributes": {
+   "body": 2,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "acidity": 4,
+   "flavors": [
+    "floral"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Honey-ricotta toast",
+    "reason": "lifts the floral top notes without covering them",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Oakland\u2019s Flower Child is a small-batch project dedicated to absolute clarity. Founded on years of industry expertise, they specialize in \"fully developed light roasts\", a meticulous style that preserves the delicate florals and juicy acidity of the bean while\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-frequent-coffee-decaf-finca-el-paraiso-lychee-pe",
+  "full_name": "Frequent Coffee Decaf Finca El Para\u00edso Lychee Peach",
+  "title": "Decaf Finca El Para\u00edso Lychee Peach",
+  "producer": "Frequent Coffee",
+  "category": "decaf",
+  "price_cents": 2500,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Colombia",
+   "acidity": 4,
+   "flavors": [
+    "stonefruit",
+    "tropical",
+    "caramel"
+   ],
+   "formats": [
+    "beans"
+   ],
+   "process": "anaerobic",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Almond croissant",
+    "reason": "marzipan meets the stone-fruit sweetness",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "This Castillo decaf from Finca El Para\u00edso in Cauca, Colombia is a bright, tropical expression built around clarity and sweetness. Produced by Diego Samuel Berm\u00fadez and his family, this lot follows a highly controlled process using YN-09 yeast inoculation, anae\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "xb-frequent-coffee-decaf-wilton-benitez-red-bourbon",
+  "full_name": "Frequent Coffee Decaf Wilton Ben\u00edtez Red Bourbon Colombia",
+  "title": "Decaf Wilton Ben\u00edtez Red Bourbon Colombia",
+  "producer": "Frequent Coffee",
+  "category": "decaf",
+  "price_cents": 2500,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Colombia",
+   "acidity": 4,
+   "flavors": [
+    "floral",
+    "stonefruit",
+    "caramel",
+    "spice"
+   ],
+   "formats": [
+    "beans"
+   ],
+   "process": "anaerobic",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Honey-ricotta toast",
+    "reason": "lifts the floral top notes without covering them",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "This Red Bourbon decaf from Wilton Ben\u00edtez earned a 94-point score from Coffee Review (April 2026), the highest ever awarded to a decaffeinated coffee. Grown at 1,900 meters in Piendam\u00f3, Cauca, and produced at Para\u00edso 92, it reflects a precise, highly controll\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-100-colombian-classic-coffe",
+  "full_name": "Fresh Roasted Coffee 100% Colombian - Classic Coffee Pods",
+  "title": "100% Colombian - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1599,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 3,
+   "origin": "Colombia",
+   "acidity": 4,
+   "flavors": [
+    "stonefruit",
+    "caramel"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Almond croissant",
+    "reason": "marzipan meets the stone-fruit sweetness",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Our fresh roasted 100% Colombian coffee is a rich, perfectly roasted coffee house staple. With alluring notes of honey and cherry, a balanced body, bold flavor and bright finish, this medium roast coffee is an excellent choice for any coffee lover! Being the s\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-100-colombian-espresso-caps",
+  "full_name": "Fresh Roasted Coffee 100% Colombian - Espresso Capsules",
+  "title": "100% Colombian - Espresso Capsules",
+  "producer": "Fresh Roasted Coffee",
+  "category": "espresso",
+  "price_cents": 799,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "espresso"
+   ],
+   "roast": 3,
+   "origin": "Colombia",
+   "acidity": 4,
+   "flavors": [
+    "stonefruit",
+    "chocolate",
+    "caramel"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Almond croissant",
+    "reason": "marzipan meets the stone-fruit sweetness",
+    "category": "food"
+   },
+   {
+    "item": "Espresso, 1:2 in ~28s",
+    "reason": "concentrates the sweetness and body",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "New improved capsules! Latte, Americano, Red Eye, Black Eye, Cappuccino, Breve, Macchiato, Mocha, Cortada, Affogato, Flat White... They all have one thing in common. They start with a shot of espresso. These selections let you experience the taste of origin an\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-100-colombian-roasted-coffe",
+  "full_name": "Fresh Roasted Coffee 100% Colombian - Roasted Coffee",
+  "title": "100% Colombian - Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 3,
+   "origin": "Colombia",
+   "acidity": 4,
+   "flavors": [
+    "stonefruit",
+    "caramel"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Almond croissant",
+    "reason": "marzipan meets the stone-fruit sweetness",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "The Perfect Daily Brew: 100% Colombian Roasted Coffee Looking for a reliable, delicious coffee? Our 100% Colombian Coffee is the perfect choice. This medium roast coffee is a true classic, delivering a rich and balanced flavor thats both familiar and exception\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-100-colombian-175-oz-coffee",
+  "full_name": "Fresh Roasted Coffee 100% Colombian, 1.75 oz - Coffee Portion Packs",
+  "title": "100% Colombian, 1.75 oz - Coffee Portion Packs",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 5499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 3,
+   "origin": "Colombia",
+   "acidity": 4,
+   "flavors": [
+    "stonefruit",
+    "caramel"
+   ],
+   "formats": [
+    "ground"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Almond croissant",
+    "reason": "marzipan meets the stone-fruit sweetness",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "100% Colombian Frac Packs - 42 or 126 count Our fresh roasted Colombian coffee is a rich, perfectly roasted coffee house staple. With alluring notes of honey and cherry, a balanced body, bold flavor and bright finish, this medium roast coffee is an excellent c\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-100-colombian-225-oz-coffee",
+  "full_name": "Fresh Roasted Coffee 100% Colombian, 2.25 oz - Coffee Portion Packs",
+  "title": "100% Colombian, 2.25 oz - Coffee Portion Packs",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 5799,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 3,
+   "origin": "Colombia",
+   "acidity": 4,
+   "flavors": [
+    "stonefruit",
+    "caramel"
+   ],
+   "formats": [
+    "ground"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Almond croissant",
+    "reason": "marzipan meets the stone-fruit sweetness",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "100% Colombian Frac Packs - 36 or 96 count Our fresh roasted Colombian coffee is a rich, perfectly roasted coffee house staple. With alluring notes of honey and cherry, a balanced body, bold flavor and bright finish, this medium roast coffee is an excellent ch\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-100-dark-colombian-classic-",
+  "full_name": "Fresh Roasted Coffee 100% Dark Colombian - Classic Coffee Pods",
+  "title": "100% Dark Colombian - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "dark",
+  "price_cents": 1599,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 5,
+   "origin": "Colombia",
+   "acidity": 4,
+   "flavors": [
+    "stonefruit",
+    "caramel"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Almond croissant",
+    "reason": "marzipan meets the stone-fruit sweetness",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Looking for a bolder, stronger coffee with that classic Colombian flavor you love? Our Dark Roast Colombian Coffee takes the smooth, well-balanced body and acidity of 100% Colombian beans and elevates it. We amplify the naturally sweet honey and cherry flavor \u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-100-dark-colombian-roasted-",
+  "full_name": "Fresh Roasted Coffee 100% Dark Colombian - Roasted Coffee",
+  "title": "100% Dark Colombian - Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Colombia",
+   "acidity": 4,
+   "flavors": [
+    "stonefruit",
+    "caramel"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Almond croissant",
+    "reason": "marzipan meets the stone-fruit sweetness",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Looking for a bolder, stronger coffee with a classic Colombian flavor? Our Dark Colombian coffee combines the well-balanced body and acidity levels of our 100% Colombian offering and amplifies the honey and cherry flavor notes with a dark, smoky roast level. T\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-100-hawaiian-kona-classic-c",
+  "full_name": "Fresh Roasted Coffee 100% Hawaiian Kona - Classic Coffee Pods",
+  "title": "100% Hawaiian Kona - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 4899,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 3,
+   "acidity": 2,
+   "flavors": [
+    "citrus",
+    "nutty",
+    "molasses",
+    "winey"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Lemon-glazed shortbread",
+    "reason": "plays straight into the citrus brightness",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Discover the world's most sought-after single-origin coffee: 100% Hawaiian Kona Coffee Pods . Grown on the breathtaking slopes of the South Kona District in Captain Cook, Hawaii, this medium roast delivers a perfectly balanced, mild, and rich cup that's a true\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-100-hawaiian-kona-roasted-c",
+  "full_name": "Fresh Roasted Coffee 100% Hawaiian Kona - Roasted Coffee",
+  "title": "100% Hawaiian Kona - Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 4999,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 3,
+   "acidity": 2,
+   "flavors": [
+    "citrus",
+    "nutty",
+    "molasses",
+    "winey"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Lemon-glazed shortbread",
+    "reason": "plays straight into the citrus brightness",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over, 1:16",
+    "reason": "an even, clean extraction for a balanced cup",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Discover the world's most sought-after single-origin coffee: 100% Hawaiian Kona Coffee . Grown on the breathtaking slopes of the South Kona District in Captain Cook, Hawaii, this medium roast delivers a perfectly balanced, mild, and rich cup that's a true coff\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-250-strong-roasted-coffee",
+  "full_name": "Fresh Roasted Coffee 250 Strong - Roasted Coffee",
+  "title": "250 Strong - Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1776,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "acidity": 4,
+   "flavors": [
+    "nutty",
+    "spice"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Hazelnut biscotti",
+    "reason": "amplifies the nutty backbone",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Two and a half centuries of mornings Two and a half centuries in, this country still runs on coffee. 250 Strong is our Roastmaster's answer to what that cup should taste like right now - not a throwback, not a novelty, but a genuinely great coffee that earns a\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-anguissola-italian-craft-co",
+  "full_name": "Fresh Roasted Coffee Anguissola Italian Craft Coffee - Classic Coffee Pods",
+  "title": "Anguissola Italian Craft Coffee - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "espresso",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 4,
+   "origin": "Blend",
+   "acidity": 3,
+   "flavors": [
+    "stonefruit",
+    "chocolate",
+    "nutty"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Almond croissant",
+    "reason": "marzipan meets the stone-fruit sweetness",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Italy is the home of espresso and the muse for our collection of authentic Italian Craft Coffee blends! From Venice to Palermo and all points in between, these flavors will take you back to the old country. Sofonisba Anguissola of Cremona was a noted female ar\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-anniversary-blend-classic-c",
+  "full_name": "Fresh Roasted Coffee Anniversary Blend - Classic Coffee Pods",
+  "title": "Anniversary Blend - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "espresso",
+  "price_cents": 1599,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 3,
+   "origin": "Blend",
+   "acidity": 4,
+   "flavors": [
+    "berry",
+    "citrus"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "A square of 70% dark chocolate",
+    "reason": "echoes the berry and rounds off the acidity",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Developed to commemorate our third incredible year of business, Fresh Roasted Coffee's Anniversary Blend has become one of our most beloved and sought-after offerings. This artisan-crafted, medium roast coffee is a testament to our dedication to quality and fl\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-anniversary-blend-roasted-c",
+  "full_name": "Fresh Roasted Coffee Anniversary Blend - Roasted Coffee",
+  "title": "Anniversary Blend - Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "espresso",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "espresso",
+    "drip"
+   ],
+   "roast": 3,
+   "origin": "Blend",
+   "acidity": 4,
+   "flavors": [
+    "berry",
+    "citrus"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "A square of 70% dark chocolate",
+    "reason": "echoes the berry and rounds off the acidity",
+    "category": "food"
+   },
+   {
+    "item": "Espresso, 1:2 in ~28s",
+    "reason": "concentrates the sweetness and body",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Developed to commemorate our third incredible year of business, Fresh Roasted Coffee's Anniversary Blend has become one of our most beloved and sought-after offerings. This artisan-crafted, medium roast coffee is a testament to our dedication to quality and fl\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-apple-crumb-cake-flavored-c",
+  "full_name": "Fresh Roasted Coffee Apple Crumb Cake - Flavored Classic Pods",
+  "title": "Apple Crumb Cake - Flavored Classic Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "acidity": 3,
+   "flavors": [
+    "caramel",
+    "nutty",
+    "spice",
+    "winey"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Salted-caramel blondie",
+    "reason": "mirrors the caramel and the salt keeps it honest",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Apple Crumb Cake Flavored Coffee - Classic Pods Take the sweet flavor of autumn's finest fruit, add some cinnamon spice, brown sugar, and buttery richness and what do you get? Our Apple Crumb Cake Flavored Coffee, that's what! This new fall flavor is sure to b\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-apple-crumb-cake-flavored-r",
+  "full_name": "Fresh Roasted Coffee Apple Crumb Cake - Flavored Roasted Coffee",
+  "title": "Apple Crumb Cake - Flavored Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1299,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "acidity": 3,
+   "flavors": [
+    "caramel",
+    "spice",
+    "winey"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Salted-caramel blondie",
+    "reason": "mirrors the caramel and the salt keeps it honest",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Limited Edition Take the sweet flavor of autumn's finest fruit, add some cinnamon spice, brown sugar, and buttery richness and what do you get? Our limited edition Apple Crumb Cake Flavored Coffee, that's what! This new fall flavor is sure to become a favorite\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-banana-cream-flavored-class",
+  "full_name": "Fresh Roasted Coffee Banana Cream - Flavored Classic Pods",
+  "title": "Banana Cream - Flavored Classic Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "blend",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "drip"
+   ],
+   "roast": 3,
+   "origin": "Blend",
+   "acidity": 4,
+   "flavors": [
+    "tropical",
+    "nutty"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Toasted coconut macaroon",
+    "reason": "leans all the way into the tropical fruit",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Banana Cream - Flavored Coffee Pods New for Spring: Gourmet Banana Cream Coffee Pods! Experience the nostalgic comfort of a homemade dessert with our Banana Cream Flavored Coffee Pods . This medium-roast blend captures the soul of the classic treat, layering t\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-banana-cream-flavored-roast",
+  "full_name": "Fresh Roasted Coffee Banana Cream - Flavored Roasted Coffee",
+  "title": "Banana Cream - Flavored Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "blend",
+  "price_cents": 1299,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 3,
+   "origin": "Blend",
+   "acidity": 4,
+   "flavors": [
+    "tropical",
+    "nutty"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Toasted coconut macaroon",
+    "reason": "leans all the way into the tropical fruit",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "New for Spring: Gourmet Banana Cream Coffee! Experience the nostalgic comfort of a homemade dessert with our Banana Cream Flavored Coffee . This medium-roast blend captures the soul of the classic treat, layering the taste of creamy vanilla custard , ripe sun-\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-blackbeards-revenge-classic",
+  "full_name": "Fresh Roasted Coffee Blackbeard's Revenge - Classic Coffee Pods",
+  "title": "Blackbeard's Revenge - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "blend",
+  "price_cents": 1599,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "drip"
+   ],
+   "roast": 3,
+   "origin": "Blend",
+   "acidity": 2,
+   "flavors": [
+    "chocolate",
+    "nutty"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 3
+  },
+  "pairings": [
+   {
+    "item": "Flourless chocolate cake",
+    "reason": "doubles down on the cocoa depth",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Blackbeard's Revenge Artisan Blend - Classic Coffee Pods Blackbeard's Revenge is a bold and flavorful medium roast coffee with nutty flavor notes of roasted almonds and tangy bites of dark chocolate. The cup, and finish are intense and aromatic. Blackbeard's R\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-blackbeards-revenge-roasted",
+  "full_name": "Fresh Roasted Coffee Blackbeard's Revenge - Roasted Coffee",
+  "title": "Blackbeard's Revenge - Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "blend",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 3,
+   "origin": "Blend",
+   "acidity": 2,
+   "flavors": [
+    "chocolate",
+    "nutty"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "sweetness": 3
+  },
+  "pairings": [
+   {
+    "item": "Flourless chocolate cake",
+    "reason": "doubles down on the cocoa depth",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over, 1:16",
+    "reason": "an even, clean extraction for a balanced cup",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Ye be warned. Blackbeard's Revenge is a medium roast with the kind of intensity that earns its name. Bold and aromatic from the first pour, with nutty notes of roasted almonds and a tangy, lingering bite of dark chocolate. This is not a background coffee. It c\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-blueberry-crisp-flavored-cl",
+  "full_name": "Fresh Roasted Coffee Blueberry Crisp - Flavored Classic Pods",
+  "title": "Blueberry Crisp - Flavored Classic Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "acidity": 4,
+   "flavors": [
+    "berry",
+    "spice"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "A square of 70% dark chocolate",
+    "reason": "echoes the berry and rounds off the acidity",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Blueberry Crisp Flavored Coffee Pods Craving a delicious dessert but not the calories? Our new Blueberry Crisp Flavored Coffee Pods give you all the fruity, warm, cinnamon goodness along with your favorite Fresh Roasted Coffee in a convenient, delectable, guil\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-blueberry-crisp-flavored-ro",
+  "full_name": "Fresh Roasted Coffee Blueberry Crisp - Flavored Roasted Coffee",
+  "title": "Blueberry Crisp - Flavored Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "blend",
+  "price_cents": 1299,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 3,
+   "origin": "Blend",
+   "acidity": 4,
+   "flavors": [
+    "berry",
+    "nutty",
+    "spice",
+    "winey"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "A square of 70% dark chocolate",
+    "reason": "echoes the berry and rounds off the acidity",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "OU Kosher. Zero Sugar. Natural Artificial Flavors. All the dessert. None of the calories. Blueberry Crisp Flavored Coffee brings the warmth and comfort of a freshly baked fruit crisp straight to your morning cup. A medium roast blend of premium 100% Arabica be\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-brazil-minas-gerais-roasted",
+  "full_name": "Fresh Roasted Coffee Brazil Minas Gerais - Roasted Coffee",
+  "title": "Brazil Minas Gerais - Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Brazil",
+   "acidity": 3,
+   "flavors": [
+    "berry",
+    "citrus",
+    "caramel"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "A square of 70% dark chocolate",
+    "reason": "echoes the berry and rounds off the acidity",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Our Brazil Minas Gerais is a luscious offering with notes of orange zest and brown sugar. Though mild-bodied and gently acidic, this coffee is deeply fragrant and produces a fruity, berry-heavy mid-palate flavor and striking finish. Minas Gerais is a light roa\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-breakfast-blend-classic-cof",
+  "full_name": "Fresh Roasted Coffee Breakfast Blend - Classic Coffee Pods",
+  "title": "Breakfast Blend - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "blend",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "origin": "Blend",
+   "acidity": 3,
+   "flavors": [
+    "nutty"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 3
+  },
+  "pairings": [
+   {
+    "item": "Hazelnut biscotti",
+    "reason": "amplifies the nutty backbone",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Ready for your new favorite morning coffee? Our Breakfast Blend is a light roast that's both flavorful and rich, but won't overwhelm your taste buds. It's the perfect pick-me-up to start your day, with lovely nutty notes and a super clean finish. Cupping Notes\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-breakfast-blend-roasted-cof",
+  "full_name": "Fresh Roasted Coffee Breakfast Blend - Roasted Coffee",
+  "title": "Breakfast Blend - Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "blend",
+  "price_cents": 1399,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Blend",
+   "acidity": 4,
+   "flavors": [
+    "nutty"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "sweetness": 3
+  },
+  "pairings": [
+   {
+    "item": "Hazelnut biscotti",
+    "reason": "amplifies the nutty backbone",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Jumpstart your morning with FRC's Breakfast Blend, a coffee designed to delight, not overwhelm. This isn't just any light roast; it's an artisan blend meticulously crafted to offer a flavorful and rich experience that still feels wonderfully balanced on your p\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-breakfast-blend-175-oz-coff",
+  "full_name": "Fresh Roasted Coffee Breakfast Blend, 1.75 oz - Coffee Portion Packs",
+  "title": "Breakfast Blend, 1.75 oz - Coffee Portion Packs",
+  "producer": "Fresh Roasted Coffee",
+  "category": "blend",
+  "price_cents": 5299,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Blend",
+   "acidity": 2,
+   "flavors": [
+    "nutty"
+   ],
+   "formats": [
+    "ground"
+   ],
+   "sweetness": 3
+  },
+  "pairings": [
+   {
+    "item": "Hazelnut biscotti",
+    "reason": "amplifies the nutty backbone",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Breakfast Blend Frac Packs - 42 or 126 count Our Breakfast Blend coffee is a flavorful and rich light roast coffee that does not overwhelm the palate. This artisan blend is the perfect morning pick me up with nutty flavor notes and a clean, never-bitter finish\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-breakfast-blend-225-oz-coff",
+  "full_name": "Fresh Roasted Coffee Breakfast Blend, 2.25 oz - Coffee Portion Packs",
+  "title": "Breakfast Blend, 2.25 oz - Coffee Portion Packs",
+  "producer": "Fresh Roasted Coffee",
+  "category": "blend",
+  "price_cents": 5499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Blend",
+   "acidity": 2,
+   "flavors": [
+    "nutty"
+   ],
+   "formats": [
+    "ground"
+   ],
+   "sweetness": 3
+  },
+  "pairings": [
+   {
+    "item": "Hazelnut biscotti",
+    "reason": "amplifies the nutty backbone",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Breakfast Blend Frac Packs - 36 or 96 count Our Breakfast Blend coffee is a flavorful and rich light roast coffee that does not overwhelm the palate. This artisan blend is the perfect morning pick me up with nutty flavor notes and a clean, never-bitter finish.\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-butter-rum-flavored-classic",
+  "full_name": "Fresh Roasted Coffee Butter Rum - Flavored Classic Pods",
+  "title": "Butter Rum - Flavored Classic Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "acidity": 3,
+   "flavors": [
+    "winey"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Dark cherries and aged cheddar",
+    "reason": "meets the wine-like ferment head-on",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Butter Rum Flavored Coffee Pods What does Butter Rum* taste like? It's rich and spicy and sweet and quite simply, a delicious addition to our seasonal lineup! Perfect on a frosty winter morning, our Butter Rum Coffee Pods will warm you to the tips of your toes\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-butter-rum-flavored-roasted",
+  "full_name": "Fresh Roasted Coffee Butter Rum - Flavored Roasted Coffee",
+  "title": "Butter Rum - Flavored Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1299,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "acidity": 3,
+   "flavors": [
+    "nutty",
+    "winey"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Hazelnut biscotti",
+    "reason": "amplifies the nutty backbone",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "We've taken Fresh Roasted to the next level of flavor - introducing Fresh Roasted Flavored Coffee! Each pack is filled with Fresh Roasted Coffee and our own Butter Rum flavor - nothing else. Every variety is sugar free and full of flavor. And just like our reg\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-caramel-flavored-classic-po",
+  "full_name": "Fresh Roasted Coffee Caramel - Flavored Classic Pods",
+  "title": "Caramel - Flavored Classic Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "acidity": 3,
+   "flavors": [
+    "caramel",
+    "nutty"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Salted-caramel blondie",
+    "reason": "mirrors the caramel and the salt keeps it honest",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Caramel Flavored Coffee Pods Looking for a sweet treat to start your day? These Fresh Roasted Caramel Flavored Coffee Pods have the essence of sticky caramel in every pod. Sugar-free and flavored using natural artificial flavors, these pods let you enjoy desse\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-caramel-flavored-roasted-co",
+  "full_name": "Fresh Roasted Coffee Caramel - Flavored Roasted Coffee",
+  "title": "Caramel - Flavored Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1299,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "acidity": 3,
+   "flavors": [
+    "caramel",
+    "nutty"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Salted-caramel blondie",
+    "reason": "mirrors the caramel and the salt keeps it honest",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "We\u2019ve taken Fresh Roasted to the next level of flavor - introducing Fresh Roasted Flavored Coffee! Each bag is filled with Fresh Roasted Coffee and caramel flavors - nothing else. Every variety is sugar free and full of flavor. And just like our regular coffee\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-coconut-flavored-classic-po",
+  "full_name": "Fresh Roasted Coffee Coconut - Flavored Classic Pods",
+  "title": "Coconut - Flavored Classic Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "acidity": 3,
+   "flavors": [
+    "nutty"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Hazelnut biscotti",
+    "reason": "amplifies the nutty backbone",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Coconut Flavored Coffee Pods You don't have to visit the tropics to enjoy the taste of coconut in your morning cup. Each of our new naturally artificially flavored Coconut Flavored Coffee Pods is packed with luscious coconut flavor - and Fresh Roasted Coffee, \u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-coconut-flavored-roasted-co",
+  "full_name": "Fresh Roasted Coffee Coconut - Flavored Roasted Coffee",
+  "title": "Coconut - Flavored Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1299,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "acidity": 3,
+   "flavors": [
+    "nutty"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Hazelnut biscotti",
+    "reason": "amplifies the nutty backbone",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "We\u2019ve taken Fresh Roasted to the next level of flavor - introducing Fresh Roasted Flavored Coffee! Each coffee is made with Fresh Roasted Coffee and coconut flavors - nothing else. Every variety is sugar free and full of flavor. And just like our regular coffe\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-coffiend-classic-coffee-pod",
+  "full_name": "Fresh Roasted Coffee Coffiend - Classic Coffee Pods",
+  "title": "Coffiend - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "dark",
+  "price_cents": 1599,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 5,
+   "origin": "Blend",
+   "acidity": 2,
+   "flavors": [
+    "caramel",
+    "nutty"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Salted-caramel blondie",
+    "reason": "mirrors the caramel and the salt keeps it honest",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Coffiend Artisan Blend - Classic Coffee Pods Cupping Notes: Clean, Caramel, Walnut Beware, Coffiend is a ferocious medium-dark roast coffee that will sink its teeth into your taste buds. This artisan blend coffee has a beastly bold body with wicked notes of wa\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-coffiend-roasted-coffee",
+  "full_name": "Fresh Roasted Coffee Coffiend - Roasted Coffee",
+  "title": "Coffiend - Roasted Coffee",
+  "producer": "Fresh Roasted Coffee",
+  "category": "dark",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 5,
+   "origin": "Blend",
+   "acidity": 2,
+   "flavors": [
+    "caramel",
+    "nutty"
+   ],
+   "formats": [
+    "ground",
+    "beans"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Salted-caramel blondie",
+    "reason": "mirrors the caramel and the salt keeps it honest",
+    "category": "food"
+   },
+   {
+    "item": "French press, 1:15, 4-min steep",
+    "reason": "full immersion carries the heavy body",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Coffiend Artisan Blend - Roasted Coffee Cupping Notes: Clean, Caramel, Walnut Beware, Coffiend is a ferocious medium-dark roast coffee that will sink its teeth into your taste buds. This artisan blend coffee has a beastly bold body with wicked notes of walnut,\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-colombian-decaf-classic-cof",
+  "full_name": "Fresh Roasted Coffee Colombian Decaf - Classic Coffee Pods",
+  "title": "Colombian Decaf - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "decaf",
+  "price_cents": 1599,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "drip"
+   ],
+   "roast": 3,
+   "origin": "Colombia",
+   "acidity": 4,
+   "flavors": [
+    "chocolate",
+    "nutty",
+    "winey"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "natural",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Flourless chocolate cake",
+    "reason": "doubles down on the cocoa depth",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "This decaffeinated Colombian coffee is bold and flavorful at a medium roast. You may be missing caffeine in this offering, but certainly not body or flavor. The overall cup is smooth with balanced acidity and flavor notes of creamy dark chocolate and walnut. C\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-colombian-water-process-dec",
+  "full_name": "Fresh Roasted Coffee Colombian Water-Process Decaf, 2.25 oz - Coffee Portion Packs",
+  "title": "Colombian Water-Process Decaf, 2.25 oz - Coffee Portion Packs",
+  "producer": "Fresh Roasted Coffee",
+  "category": "decaf",
+  "price_cents": 5499,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "pourover",
+    "drip",
+    "frenchpress"
+   ],
+   "roast": 2,
+   "origin": "Colombia",
+   "acidity": 2,
+   "flavors": [
+    "nutty"
+   ],
+   "formats": [
+    "ground"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Hazelnut biscotti",
+    "reason": "amplifies the nutty backbone",
+    "category": "food"
+   },
+   {
+    "item": "Pour-over (V60), 1:16, 205\u00b0F",
+    "reason": "clarity that lets the delicate, high-acid notes open up",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Colombian Water-Process Decaffeinated Frac Packs - 36 or 96 count Our intensely rich Colombian Water-Process Decaf coffee is the perfect choice for decaf drinkers who want a full-bodied, flavorful cup of coffee without the caffeine. This nutty and sweet decaf \u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-colombian-water-processed-d",
+  "full_name": "Fresh Roasted Coffee Colombian Water-Processed Decaf - Classic Coffee Pods",
+  "title": "Colombian Water-Processed Decaf - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "decaf",
+  "price_cents": 1799,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "drip"
+   ],
+   "roast": 2,
+   "origin": "Colombia",
+   "acidity": 2,
+   "flavors": [
+    "nutty"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Hazelnut biscotti",
+    "reason": "amplifies the nutty backbone",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Colombian Water-Process Decaf - Classic Coffee Pods Rich and Flavorful Colombian Decaf Our intensely rich Colombian decaf is perfect for coffee lovers who want a full-bodied, flavorful cup without the caffeine. This decaf coffee is 99% caffeine-free , and its \u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-colombian-water-processed-h",
+  "full_name": "Fresh Roasted Coffee Colombian Water-Processed Half Caf - Classic Coffee Pods",
+  "title": "Colombian Water-Processed Half Caf - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "decaf",
+  "price_cents": 1799,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "drip"
+   ],
+   "roast": 3,
+   "origin": "Colombia",
+   "acidity": 2,
+   "flavors": [
+    "caramel",
+    "nutty"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Salted-caramel blondie",
+    "reason": "mirrors the caramel and the salt keeps it honest",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Colombian Water-Process Half Caf - Classic Coffee Pods The Best of Both Worlds Our Colombian Half Caf is the perfect blend for coffee lovers seeking a rich, flavorful experience with less caffeine. This delicious medium roast combines the bold, traditional cof\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-correggio-italian-craft-cof",
+  "full_name": "Fresh Roasted Coffee Correggio Italian Craft Coffee - Classic Coffee Pods",
+  "title": "Correggio Italian Craft Coffee - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "espresso",
+  "price_cents": 1499,
+  "attributes": {
+   "body": 4,
+   "brews": [
+    "drip"
+   ],
+   "roast": 5,
+   "origin": "Blend",
+   "acidity": 3,
+   "flavors": [
+    "berry",
+    "chocolate",
+    "nutty",
+    "molasses"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "A square of 70% dark chocolate",
+    "reason": "echoes the berry and rounds off the acidity",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Italy is the home of espresso and the muse for our collection of authentic Italian Craft Coffee blends! From Venice to Palermo and all points in between, these flavors will take you back to the old country. Inspired by the works of the artist Correggio, this r\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-costa-rican-tarrazu-classic",
+  "full_name": "Fresh Roasted Coffee Costa Rican Tarrazu - Classic Coffee Pods",
+  "title": "Costa Rican Tarrazu - Classic Coffee Pods",
+  "producer": "Fresh Roasted Coffee",
+  "category": "single_origin",
+  "price_cents": 1599,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "drip"
+   ],
+   "roast": 3,
+   "origin": "Costa Rica",
+   "acidity": 4,
+   "flavors": [
+    "chocolate",
+    "caramel"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Flourless chocolate cake",
+    "reason": "doubles down on the cocoa depth",
+    "category": "food"
+   },
+   {
+    "item": "Drip, 1:16, medium grind",
+    "reason": "an easy, even brew that suits the balanced profile",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "Cupping Notes: Honey, Bright, Baker's Chocolate Our Costa Rican Tarrazu coffee possesses an inherently intense flavor with peaks of bright acidity and depths of sweet honey and chocolate. The body of Costa Rican Tarrazu is considered medium, but this famous co\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ },
+ {
+  "id": "fr-fresh-roasted-coffee-costa-rican-tarrazu-espress",
+  "full_name": "Fresh Roasted Coffee Costa Rican Tarrazu - Espresso Capsules",
+  "title": "Costa Rican Tarrazu - Espresso Capsules",
+  "producer": "Fresh Roasted Coffee",
+  "category": "espresso",
+  "price_cents": 799,
+  "attributes": {
+   "body": 3,
+   "brews": [
+    "espresso"
+   ],
+   "roast": 4,
+   "origin": "Costa Rica",
+   "acidity": 4,
+   "flavors": [
+    "chocolate",
+    "caramel"
+   ],
+   "formats": [
+    "pods"
+   ],
+   "process": "honey",
+   "sweetness": 4
+  },
+  "pairings": [
+   {
+    "item": "Flourless chocolate cake",
+    "reason": "doubles down on the cocoa depth",
+    "category": "food"
+   },
+   {
+    "item": "Espresso, 1:2 in ~28s",
+    "reason": "concentrates the sweetness and body",
+    "deepCut": true,
+    "category": "brew"
+   }
+  ],
+  "description": "New improved capsules! Latte, Americano, Red Eye, Black Eye, Cappuccino, Breve, Macchiato, Mocha, Cortada, Affogato, Flat White... They all have one thing in common. They start with a shot of espresso. These selections let you experience the taste of origin an\u2026",
+  "popularity_tier": 4,
+  "score": 0
+ }
+]

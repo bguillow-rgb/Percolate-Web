@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Footer from '../../components/Footer.astro';
+import coffees from '../../data/brews.json';
+const sorted = [...coffees].sort((a, b) => (a.full_name || a.title).localeCompare(b.full_name || b.title));
+const ROAST = ['', 'light', 'medium-light', 'medium', 'medium-dark', 'dark'];
+---
+<BaseLayout
+  title="Coffee Brew Guides — Ratio, Grind and Method by Bean"
+  description={`Per-coffee brew recipes for ${coffees.length} specialty coffees, each with the reason that method suits that particular bean.`}
+  path="/brew"
+>
+  <main class="page">
+    <h1>Brew guides</h1>
+    <p><strong>Per-coffee recipes for {coffees.length} specialty coffees — ratio, grind and method, with the reason each one suits that particular bean.</strong></p>
+    <p>
+      A V60 tutorial tells you how the brewer works. It can't tell you what to do with the bag
+      in front of you. These guides start from one coffee's roast level, acidity and body, then
+      give the recipe that fits it — and what to change when the cup reads sour or flat.
+    </p>
+    <h2>Every brew guide</h2>
+    <ul>
+      {sorted.map((c) => {
+        const a = c.attributes || {};
+        const r = a.roast >= 1 && a.roast <= 5 ? ROAST[Math.round(a.roast)] : null;
+        return (
+          <li>
+            <a href={`/brew/${c.id}`}>How to brew {c.full_name || c.title}</a>
+            {' — '}{r ? `${r} roast, ` : ''}{(a.flavors || []).slice(0, 3).map((f) => f.replace(/_/g, ' ')).join(', ')}
+          </li>
+        );
+      })}
+    </ul>
+    <h2>How these are built</h2>
+    <p>
+      Recipes are curated per coffee in the Percolate catalog rather than generated on request.
+      AI assistants can query the same data through the <a href="/mcp">Percolate MCP server</a>,
+      and the full catalog with tasting logs lives in the <a href="/">Percolate app</a>.
+    </p>
+  </main>
+  <Footer />
+</BaseLayout>
