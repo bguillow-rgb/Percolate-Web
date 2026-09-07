@@ -16,7 +16,7 @@ relatedSlugs:
   - "burr-grinder-vs-blade-grinder"
   - "coffee-grind-size-by-brew-method"
   - "what-is-espresso-pressure-profiling"
-  - "how-to-choose-a-specialty-coffee-subscription"
+  - "flat-bottom-vs-conical-coffee-filter"
 faqs:
   - q: "What is grind retention in a coffee grinder?"
     a: "Grind retention is the amount of ground coffee that remains inside a grinder, in the burr chamber, chute, and dosing mechanism, after you finish grinding a dose. Even a fraction of a gram left behind can go stale and mix into your next brew."

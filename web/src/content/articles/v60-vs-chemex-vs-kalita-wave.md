@@ -13,10 +13,10 @@ quickAnswer: "The Hario V60 rewards technique with bright, complex flavor. The C
 publishedAt: "2026-08-13"
 author: "Percolate"
 relatedSlugs:
+  - "flat-bottom-vs-conical-coffee-filter"
   - "pour-over-vs-french-press-coffee"
   - "immersion-vs-percolation-coffee-brewing"
   - "paper-vs-metal-vs-cloth-coffee-filter"
-  - "arabica-vs-robusta-coffee"
 faqs:
   - q: "Which pour-over dripper is best for beginners?"
     a: "The Kalita Wave is the best starting point. Its flat-bottom design and three small drain holes slow and even out water flow, so minor pour inconsistencies don't ruin the cup. Most people make good coffee within their first three or four brews."

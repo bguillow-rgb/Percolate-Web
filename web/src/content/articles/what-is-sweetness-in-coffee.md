@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-is-coffee-brix"
   - "coffee-acidity-vs-bitterness"
   - "coffee-growing-altitude-flavor-guide"
-  - "light-roast-vs-dark-roast-caffeine"
+  - "flat-bottom-vs-conical-coffee-filter"
 faqs:
   - q: "Does coffee actually contain sugar?"
     a: "Yes. Green coffee beans contain carbohydrates, including sucrose, glucose, and fructose, that make up roughly 30, 40% of the bean's dry weight. Most of these sugars are transformed during roasting into aromatic compounds that your brain perceives as sweet, rather than remaining as simple sugars in the cup."
