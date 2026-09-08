@@ -16,7 +16,7 @@ relatedSlugs:
   - "espresso-brew-ratio-explained"
   - "how-to-dial-in-espresso"
   - "what-is-astringency-in-coffee"
-  - "aeropress-vs-moka-pot"
+  - "what-is-wet-hulled-coffee"
 faqs:
   - q: "Is a ristretto stronger than espresso?"
     a: "In concentration, yes, ristretto uses half the water for the same dose, making it denser and more intense per gram. In total caffeine, it's actually slightly lower because caffeine-bearing compounds extract later in the pull, and ristretto stops early."
