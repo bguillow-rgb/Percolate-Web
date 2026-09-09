@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-to-water-ratio-guide"
   - "espresso-brew-ratio-explained"
   - "how-to-dial-in-espresso"
-  - "what-is-a-coffee-cupping-score"
+  - "what-are-coffee-fines"
 faqs:
   - q: "What is a coffee dose?"
     a: "A coffee dose is the weight of dry ground coffee measured before brewing. It is usually expressed in grams and forms one side of the brew ratio (coffee : water). An accurate dose is the foundation of a repeatable, balanced cup."
