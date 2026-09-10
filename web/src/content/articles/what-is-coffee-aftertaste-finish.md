@@ -13,10 +13,10 @@ quickAnswer: "Coffee aftertaste, also called the finish, is the flavor and sensa
 publishedAt: "2026-08-19"
 author: "Percolate"
 relatedSlugs:
+  - "how-long-does-an-open-bag-of-coffee-last"
   - "how-long-to-rest-coffee-after-roasting"
   - "how-to-dial-in-espresso"
   - "what-is-a-coffee-cupping-score"
-  - "what-is-espresso-pre-infusion"
 faqs:
   - q: "What is the difference between aftertaste and finish in coffee?"
     a: "They mean the same thing. Coffee professionals use both terms interchangeably. 'Finish' is more common in tasting-note contexts, while 'aftertaste' appears on SCA cupping forms. Both refer to what remains on your palate after you swallow."

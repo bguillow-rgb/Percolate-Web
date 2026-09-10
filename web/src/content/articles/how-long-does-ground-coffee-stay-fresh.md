@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-roast-date-freshness-window"
   - "how-to-store-coffee-beans-fresh"
   - "can-you-freeze-coffee-beans"
-  - "how-long-to-rest-coffee-after-roasting"
+  - "how-long-does-an-open-bag-of-coffee-last"
 faqs:
   - q: "How long does ground coffee last after opening?"
     a: "For the best flavor, use opened ground coffee within 1, 2 weeks. It remains safe to drink for longer but loses aroma, brightness, and complexity noticeably after the first two weeks."
