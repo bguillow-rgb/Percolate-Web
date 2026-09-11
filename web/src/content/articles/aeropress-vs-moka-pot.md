@@ -13,10 +13,10 @@ quickAnswer: "The AeroPress suits home brewers who want a fast, forgiving, trave
 publishedAt: "2026-08-04"
 author: "Percolate"
 relatedSlugs:
+  - "flat-burr-vs-conical-burr-grinder"
   - "flat-bottom-vs-conical-coffee-filter"
   - "immersion-vs-percolation-coffee-brewing"
   - "pour-over-vs-french-press-coffee"
-  - "single-origin-vs-coffee-blend"
 faqs:
   - q: "Does the AeroPress make real espresso?"
     a: "No. Real espresso requires around 9 bars of pressure. The AeroPress generates roughly 0.35, 0.75 bars of manual pressure, producing a strong, concentrated coffee, but not true espresso by definition."

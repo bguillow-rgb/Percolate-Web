@@ -16,7 +16,7 @@ relatedSlugs:
   - "v60-vs-chemex-vs-kalita-wave"
   - "arabica-vs-robusta-coffee"
   - "burr-grinder-vs-blade-grinder"
-  - "paper-vs-metal-vs-cloth-coffee-filter"
+  - "flat-burr-vs-conical-burr-grinder"
 faqs:
   - q: "Does filter basket shape actually change the taste of my coffee?"
     a: "Yes, measurably so. A controlled UC Davis Coffee Center study, using the same coffee, grind size, and water temperature with only basket shape changed, found that even inexperienced tasters could consistently detect a difference between conical and flat bottom brews."
