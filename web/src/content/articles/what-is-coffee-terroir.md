@@ -14,9 +14,9 @@ publishedAt: "2026-07-16"
 author: "Percolate"
 relatedSlugs:
   - "single-origin-coffee-flavor-by-country"
+  - "why-does-coffee-taste-different-every-time"
   - "arabica-vs-robusta-coffee"
   - "coffee-growing-altitude-flavor-guide"
-  - "coffee-varieties-explained"
 faqs:
   - q: "What does 'terroir' mean in coffee?"
     a: "Terroir (pronounced 'tare-WAHR') is a French term meaning 'earth' or 'soil.' In coffee, it refers to the complete set of environmental conditions, altitude, soil type, rainfall, temperature, and local farming practices, that influence how a coffee bean develops and tastes."
