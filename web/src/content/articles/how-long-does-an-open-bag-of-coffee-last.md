@@ -13,9 +13,9 @@ publishedAt: "2026-09-10"
 author: "Percolate"
 relatedSlugs:
   - "how-long-does-ground-coffee-stay-fresh"
+  - "what-is-coffee-staling"
   - "coffee-roast-date-freshness-window"
   - "what-is-coffee-aftertaste-finish"
-  - "what-is-coffee-degassing"
 faqs:
   - q: "How long do whole coffee beans last after opening the bag?"
     a: "Whole beans at peak specialty quality last approximately 2, 3 weeks after you first open the bag, assuming you store them in a cool, dark, airtight container. Flavor noticeably flattens after 4 weeks."
