@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-is-espresso-pre-infusion"
   - "why-is-my-coffee-not-blooming"
   - "flat-burr-vs-conical-burr-grinder"
-  - "immersion-vs-percolation-coffee-brewing"
+  - "how-to-bloom-coffee"
 faqs:
   - q: "How long should I let my coffee bloom?"
     a: "Most brews benefit from a 30, 45 second bloom. Fresh, lightly roasted beans may need up to 60 seconds because they retain more CO₂. Extending the bloom beyond 60 seconds yields diminishing returns and can cool the coffee bed too much, which hurts extraction."

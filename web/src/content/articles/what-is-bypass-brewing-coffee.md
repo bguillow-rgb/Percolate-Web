@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "immersion-vs-percolation-coffee-brewing"
   - "coffee-grind-size-by-brew-method"
+  - "how-to-bloom-coffee"
   - "pour-over-vs-french-press-coffee"
-  - "what-is-batch-brew-coffee"
 faqs:
   - q: "Does bypass brewing dilute the flavor of my coffee?"
     a: "Not if done correctly. Because you brew a more concentrated extract first, adding bypass water brings the cup to your target strength without stripping out flavor. Think of it like adding a splash of water to whisky, it opens the cup rather than flattening it."
