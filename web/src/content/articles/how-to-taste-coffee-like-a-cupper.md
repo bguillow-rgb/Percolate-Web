@@ -13,8 +13,8 @@ author: "Percolate"
 relatedSlugs:
   - "how-to-build-a-coffee-palate"
   - "what-is-minerality-in-coffee"
+  - "how-to-compare-two-coffees-at-home"
   - "how-to-keep-a-coffee-journal"
-  - "how-to-set-up-a-home-coffee-cupping"
 faqs:
   - q: "What is coffee cupping?"
     a: "Cupping is a standardized tasting method roasters and buyers use to evaluate coffee. Ground coffee is steeped in hot water in identical cups, the crust is broken and smelled, and the liquid is slurped and scored on fixed attributes so different coffees can be compared fairly."

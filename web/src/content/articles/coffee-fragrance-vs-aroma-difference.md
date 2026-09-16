@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "arabica-vs-robusta-coffee"
   - "coffee-acidity-vs-bitterness"
+  - "how-to-compare-two-coffees-at-home"
   - "how-to-taste-coffee-like-a-cupper"
-  - "single-origin-vs-coffee-blend"
 faqs:
   - q: "What is coffee fragrance?"
     a: "Coffee fragrance refers specifically to the smell of dry, ground coffee before water is added. The word 'fragrance' is used, rather than 'aroma', because it applies to something you smell but don't yet consume, similar to how we talk about perfume."

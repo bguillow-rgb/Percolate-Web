@@ -14,9 +14,9 @@ publishedAt: "2026-09-12"
 author: "Percolate"
 relatedSlugs:
   - "immersion-vs-percolation-coffee-brewing"
+  - "how-to-compare-two-coffees-at-home"
   - "what-is-coffee-terroir"
   - "coffee-grind-size-by-brew-method"
-  - "coffee-to-water-ratio-guide"
 faqs:
   - q: "Why does my coffee taste different even though I'm using the same beans?"
     a: "Same beans doesn't mean same result. Grind size drift, dose eyeballing, water temperature variation, and how stale the beans are in the bag all change cup to cup. Weighing your dose and checking grind consistency first solves most swings."

@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "espresso-puck-prep-guide"
   - "how-to-choose-coffee-beans"
+  - "how-to-compare-two-coffees-at-home"
   - "how-to-set-up-a-home-coffee-cupping"
-  - "water-hardness-coffee-flavor-guide"
 faqs:
   - q: "Can I just use a regular kitchen scale for coffee?"
     a: "A standard kitchen scale works for filter coffee (where doses are 15, 30 g and precision of ±1 g is acceptable), but it's too coarse for espresso, where a 0.5 g difference in dose can shift extraction noticeably. For espresso, you need a scale that reads to 0.1 g."

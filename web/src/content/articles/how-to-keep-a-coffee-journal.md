@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "how-to-build-a-coffee-palate"
   - "how-to-choose-coffee-beans"
+  - "how-to-compare-two-coffees-at-home"
   - "how-to-taste-coffee-like-a-cupper"
-  - "arabica-vs-robusta-coffee"
 faqs:
   - q: "How many fields should a coffee journal entry have?"
     a: "Aim for 6-8 core fields: bean name and roaster, roast date, brew method, grind setting, dose-to-water ratio, brew time, a flavor rating (1-10), and a one-sentence tasting note. More fields than that reduces how consistently you'll fill it in."

@@ -13,10 +13,10 @@ quickAnswer: "A coffee flight is a set of 3-6 small cups of different coffees se
 publishedAt: "2026-08-22"
 author: "Percolate"
 relatedSlugs:
+  - "how-to-compare-two-coffees-at-home"
   - "how-to-set-up-a-home-coffee-cupping"
   - "what-is-coffee-triangulation"
   - "how-to-taste-coffee-like-a-cupper"
-  - "how-to-build-a-coffee-palate"
 faqs:
   - q: "How many coffees should be in a flight?"
     a: "Three is the ideal starting point for most home tasters -- manageable without overwhelming your palate. Four to six works well once you have some experience. Much beyond six and the cups start to blur together."
