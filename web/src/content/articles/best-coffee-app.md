@@ -14,10 +14,10 @@ quickAnswer: "There is no single best coffee app, because they do four different
 publishedAt: "2026-09-16"
 author: "Percolate"
 relatedSlugs:
-  - "how-to-keep-a-coffee-journal"
-  - "how-to-dial-in-espresso"
-  - "how-to-build-a-coffee-palate"
-  - "how-to-choose-coffee-beans"
+  - "brew-water-temperature-guide"
+  - "coffee-grind-size-by-brew-method"
+  - "immersion-vs-percolation-coffee-brewing"
+  - "pour-over-vs-french-press-coffee"
 faqs:
   - q: "What is the best coffee app overall?"
     a: "Depends what you want it to do. If you need a recipe walked through step by step, Filtru is the most-rated specialty brewing app on the US App Store (4.77 stars across 3,780 ratings in September 2026) and Timer.Coffee is the free alternative. Beanconqueror logs more brew variables than anything else here. Percolate does one thing: find a bag that matches what you already like."
