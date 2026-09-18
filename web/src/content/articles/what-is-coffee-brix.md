@@ -13,10 +13,10 @@ quickAnswer: "Coffee Brix is a measure of dissolved sugar content in coffee cher
 publishedAt: "2026-08-29"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-new-crop-coffee"
   - "coffee-growing-altitude-flavor-guide"
   - "coffee-roast-levels-explained"
   - "coffee-varieties-explained"
-  - "washed-vs-natural-vs-honey-process"
 faqs:
   - q: "What is a good Brix level for specialty coffee cherries?"
     a: "Most specialty producers target 18, 24 degrees Brix, which indicates ripe cherries with high sugar content and strong flavor potential. Below 16 °Bx often signals underripe fruit; above 24 °Bx can indicate past-peak or overripe cherries depending on the variety."
