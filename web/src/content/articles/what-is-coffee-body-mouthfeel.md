@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "coffee-roast-levels-explained"
   - "what-is-a-coffee-cupping-score"
+  - "what-is-a-coffee-microlot"
   - "what-is-specialty-grade-coffee"
-  - "coffee-varieties-explained"
 faqs:
   - q: "Is coffee body the same as coffee strength?"
     a: "No. Strength refers to how concentrated the brew is (the ratio of dissolved solids to water), while body is the tactile sensation of weight and texture in the mouth. A strong coffee can feel thin if brewed through a paper filter; a lower-concentration French press can still feel full-bodied."

@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "what-is-a-coffee-cupping-score"
   - "coffee-varieties-explained"
+  - "what-is-a-coffee-microlot"
   - "espresso-brew-ratio-explained"
-  - "how-to-read-a-coffee-bag-label"
 faqs:
   - q: "What score does coffee need to be called specialty grade?"
     a: "A coffee must score at least 80 out of 100 on the SCA's evaluation scale and contain no primary defects in its green sample to qualify as specialty grade. Scores from 80-84.99 are rated Very Good; 85-89.99 is Excellent; 90 and above is Outstanding."

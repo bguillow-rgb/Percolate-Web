@@ -14,9 +14,9 @@ publishedAt: "2026-09-18"
 author: "Percolate"
 relatedSlugs:
   - "coffee-growing-altitude-flavor-guide"
+  - "what-is-a-coffee-microlot"
   - "what-is-coffee-brix"
   - "what-is-coffee-degassing"
-  - "coffee-varieties-explained"
 faqs:
   - q: "What does 'new crop' mean on a coffee bag?"
     a: "It means the green beans used were sourced from the most recent harvest of that origin country, usually within the past 6, 12 months. It signals freshness at the green-coffee stage, before roasting even begins."

@@ -16,7 +16,7 @@ relatedSlugs:
   - "how-to-read-a-coffee-bag-label"
   - "what-do-coffee-tasting-notes-mean"
   - "what-is-a-coffee-cupping-score"
-  - "what-is-carbonic-maceration-coffee"
+  - "what-is-a-coffee-microlot"
 faqs:
   - q: "What does 'variety' mean on a specialty coffee bag?"
     a: "Variety (or varietal) refers to the specific genetic strain of Coffea arabica used. It works like grape varieties in wine -- Bourbon, Gesha, Typica, SL28, and Caturra all have distinct flavor profiles driven by their genetics, independent of processing or roast level."
