@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-to-water-ratio-guide"
   - "brew-water-temperature-guide"
   - "coffee-grind-size-by-brew-method"
-  - "immersion-vs-percolation-coffee-brewing"
+  - "how-to-make-coffee-less-bitter"
 faqs:
   - q: "Is muddy or cloudy coffee safe to drink?"
     a: "Yes, sediment in coffee is just undissolved coffee particles. It won't harm you, though it may taste gritty, bitter, or astringent. If the cloudiness comes from mold or rancid oils in a dirty brewer, clean your equipment before brewing again."

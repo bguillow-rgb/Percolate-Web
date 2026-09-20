@@ -14,9 +14,9 @@ publishedAt: "2026-09-05"
 author: "Percolate"
 relatedSlugs:
   - "coffee-extraction-yield-explained"
+  - "how-to-make-coffee-less-bitter"
   - "what-is-astringency-in-coffee"
   - "what-is-espresso-channeling"
-  - "why-is-my-coffee-muddy-cloudy"
 faqs:
   - q: "Why does my pour-over taste salty even though I followed the recipe?"
     a: "A too-coarse grind is the most likely reason. Coarser particles have less surface area, so water rushes through without extracting enough sugars to balance the early-dissolving acids, leaving a sharp, salty cup. Try grinding one step finer and see if the taste shifts toward sweetness."
