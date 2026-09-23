@@ -13,10 +13,10 @@ quickAnswer: "Coffee grown at higher altitudes ripens more slowly in cooler temp
 publishedAt: "2026-06-23"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-coffee-bean-density"
   - "what-is-a-coffee-roast-profile"
   - "single-origin-coffee-flavor-by-country"
   - "what-is-anaerobic-coffee-processing"
-  - "what-is-carbonic-maceration-coffee"
 faqs:
   - q: "What does MASL mean on a coffee bag?"
     a: "MASL stands for 'meters above sea level.' It tells you the elevation at which the coffee was grown. Specialty roasters print it as a transparency signal, the higher the number, the slower the bean developed and, generally, the more complex the flavor."

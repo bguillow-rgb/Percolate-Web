@@ -13,10 +13,10 @@ quickAnswer: "A coffee roast profile is the time-and-temperature roadmap a roast
 publishedAt: "2026-09-17"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-coffee-bean-density"
   - "coffee-growing-altitude-flavor-guide"
   - "paper-vs-metal-vs-cloth-coffee-filter"
   - "arabica-vs-robusta-coffee"
-  - "flat-bottom-vs-conical-coffee-filter"
 faqs:
   - q: "What is a coffee roast profile in simple terms?"
     a: "It's the precise sequence of temperatures and times a roaster follows during a roast. Think of it as a recipe, small changes to timing or heat at any stage change what ends up in your cup."
