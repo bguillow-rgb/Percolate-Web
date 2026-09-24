@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "how-long-to-rest-coffee-after-roasting"
   - "what-is-coffee-degassing"
+  - "how-to-manage-multiple-coffee-bags-at-home"
   - "what-is-new-crop-coffee"
-  - "can-you-freeze-coffee-beans"
 faqs:
   - q: "Can I squeeze a coffee bag to smell through the valve?"
     a: "Yes. Gently squeezing forces CO₂ and aroma through the valve so you can smell the beans without opening the bag. It's a useful freshness check, rich, complex aroma means the beans are still lively."
