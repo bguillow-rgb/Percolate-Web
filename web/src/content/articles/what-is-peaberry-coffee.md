@@ -14,9 +14,9 @@ publishedAt: "2026-07-22"
 author: "Percolate"
 relatedSlugs:
   - "arabica-vs-robusta-coffee"
+  - "what-is-pink-bourbon-coffee"
   - "burr-grinder-vs-blade-grinder"
   - "coffee-growing-altitude-flavor-guide"
-  - "coffee-varieties-explained"
 faqs:
   - q: "What does peaberry coffee taste like?"
     a: "Most drinkers describe peaberry as a cleaner, slightly brighter version of whatever origin it comes from, with more concentrated sweetness and a livelier finish. That said, origin, processing, and roast still drive the majority of the flavor. Peaberry is an amplifier, not a transformer."
