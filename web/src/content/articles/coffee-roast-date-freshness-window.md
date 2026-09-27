@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "how-long-does-ground-coffee-stay-fresh"
   - "how-to-store-coffee-beans-fresh"
+  - "what-is-past-crop-coffee"
   - "how-long-to-rest-coffee-after-roasting"
-  - "how-long-does-an-open-bag-of-coffee-last"
 faqs:
   - q: "What is the difference between a roast date and a best-by date on a coffee bag?"
     a: "A roast date tells you the exact day the beans were roasted, the true starting point for freshness. A best-by date is a food-safety and shelf-stability marker, typically set 6, 12 months after roasting by the manufacturer. It tells you nothing about peak flavor, which fades long before the best-by date arrives."
