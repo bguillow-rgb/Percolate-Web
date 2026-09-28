@@ -16,7 +16,7 @@ relatedSlugs:
   - "burr-grinder-vs-blade-grinder"
   - "aeropress-vs-moka-pot"
   - "coffee-grind-size-by-brew-method"
-  - "flat-bottom-vs-conical-coffee-filter"
+  - "ethiopian-vs-colombian-coffee"
 faqs:
   - q: "Does burr shape actually change how my coffee tastes?"
     a: "Yes, measurably. Flat burrs produce tighter particle uniformity, so individual flavor notes -- floral, fruity, bright -- are easier to distinguish in the cup. Conical burrs create a bimodal mix of particle sizes that blends flavors into a rounder, fuller profile with more perceived sweetness and body. The difference is most noticeable in espresso and pour-over."

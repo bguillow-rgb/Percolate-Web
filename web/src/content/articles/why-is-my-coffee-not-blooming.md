@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-is-coffee-bloom-and-why-it-matters"
   - "why-does-my-coffee-taste-sour"
   - "why-is-my-coffee-muddy-cloudy"
-  - "flat-burr-vs-conical-burr-grinder"
+  - "ethiopian-vs-colombian-coffee"
 faqs:
   - q: "Is it bad if my coffee doesn't bloom?"
     a: "A weak or absent bloom usually means your beans have lost most of their CO₂ and flavor compounds to oxidation. The coffee is still drinkable, but it will taste flatter and less vibrant than fresh beans brewed with a proper bloom."
