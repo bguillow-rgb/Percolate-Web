@@ -13,10 +13,10 @@ quickAnswer: "Coffee fragrance is the scent of dry, freshly ground coffee before
 publishedAt: "2026-08-27"
 author: "Percolate"
 relatedSlugs:
+  - "why-do-coffee-cuppers-slurp"
   - "arabica-vs-robusta-coffee"
   - "coffee-acidity-vs-bitterness"
   - "how-to-compare-two-coffees-at-home"
-  - "how-to-taste-coffee-like-a-cupper"
 faqs:
   - q: "What is coffee fragrance?"
     a: "Coffee fragrance refers specifically to the smell of dry, ground coffee before water is added. The word 'fragrance' is used, rather than 'aroma', because it applies to something you smell but don't yet consume, similar to how we talk about perfume."
