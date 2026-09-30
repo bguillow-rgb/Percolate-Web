@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "how-long-does-an-open-bag-of-coffee-last"
   - "how-long-does-ground-coffee-stay-fresh"
+  - "coffee-grinder-static-electricity"
   - "coffee-roast-date-freshness-window"
-  - "how-long-to-rest-coffee-after-roasting"
 faqs:
   - q: "What is the difference between coffee staling and coffee degassing?"
     a: "Degassing is CO₂ escaping from freshly roasted beans, it's normal and necessary before brewing. Staling is the separate, destructive process of oxidation and aromatic decay. Both happen simultaneously after roasting, but staling is what makes coffee taste flat or rancid, while degassing is mostly harmless once the initial bloom window passes."
