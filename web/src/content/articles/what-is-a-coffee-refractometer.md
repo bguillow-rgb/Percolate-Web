@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-extraction-yield-explained"
   - "espresso-brew-ratio-explained"
   - "espresso-puck-prep-guide"
-  - "burr-grinder-vs-blade-grinder"
+  - "what-is-a-bottomless-portafilter"
 faqs:
   - q: "What does a coffee refractometer actually measure?"
     a: "It measures Total Dissolved Solids (TDS), the percentage of your finished brew that consists of dissolved coffee compounds rather than water. For filter coffee, the SCA Golden Cup ideal is 1.15, 1.35% TDS; espresso runs much higher at roughly 8, 12%."
