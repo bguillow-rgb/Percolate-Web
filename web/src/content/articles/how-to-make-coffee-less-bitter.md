@@ -16,7 +16,7 @@ relatedSlugs:
   - "why-does-my-coffee-taste-sour"
   - "coffee-acidity-vs-bitterness"
   - "what-is-astringency-in-coffee"
-  - "why-does-coffee-taste-salty"
+  - "what-is-pour-over-channeling"
 faqs:
   - q: "Why does my coffee taste bitter even with good beans?"
     a: "Good beans can still brew bitter if the grind is too fine, water is too hot, or brew time runs too long. Any one of those variables causes over-extraction, where water strips harsh, astringent compounds from the grounds. Start by coarsening your grind one step and see if that fixes it."

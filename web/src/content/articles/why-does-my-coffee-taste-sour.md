@@ -13,10 +13,10 @@ quickAnswer: "Sour coffee is almost always under-extraction: water moved through
 publishedAt: "2026-09-22"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-pour-over-channeling"
   - "why-does-coffee-taste-salty"
   - "coffee-extraction-yield-explained"
   - "how-to-make-coffee-less-bitter"
-  - "why-is-my-coffee-muddy-cloudy"
 faqs:
   - q: "Is sour coffee the same as acidic coffee?"
     a: "No. Acidity is a positive tasting quality, the bright, juicy, or citrusy liveliness in a well-brewed cup. Sourness is a defect caused by under-extraction, where sharp, unpleasant organic acids dominate because not enough sweeter compounds were dissolved."
