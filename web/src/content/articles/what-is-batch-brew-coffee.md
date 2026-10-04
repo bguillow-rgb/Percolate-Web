@@ -13,10 +13,10 @@ quickAnswer: "Batch brew is an automated drip method that runs hot water through
 publishedAt: "2026-09-03"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-japanese-iced-coffee"
   - "coffee-grind-size-by-brew-method"
   - "coffee-to-water-ratio-guide"
   - "immersion-vs-percolation-coffee-brewing"
-  - "pour-over-vs-french-press-coffee"
 faqs:
   - q: "What is the difference between batch brew and drip coffee?"
     a: "Batch brew and drip coffee are the same extraction method. 'Batch brew' is simply the specialty-coffee term for high-quality, calibrated drip brewing, emphasizing that a machine replicates precise variables, water temperature, flow rate, and contact time, across every cycle. Cheap diner-style drip machines use the same mechanism but rarely hit the 92, 96 °C water temperature and even distribution that specialty batch brewers achieve."
