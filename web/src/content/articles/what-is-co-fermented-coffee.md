@@ -13,10 +13,10 @@ quickAnswer: "Co-fermented coffee is coffee that ferments alongside added ingred
 publishedAt: "2026-08-10"
 author: "Percolate"
 relatedSlugs:
+  - "how-does-coffee-fermentation-affect-flavor"
   - "burr-grinder-vs-blade-grinder"
   - "paper-vs-metal-vs-cloth-coffee-filter"
   - "washed-vs-natural-vs-honey-process"
-  - "what-is-anaerobic-coffee-processing"
 faqs:
   - q: "Is co-fermented coffee the same as flavored coffee?"
     a: "No. Flavored coffee has aromatics sprayed or applied after roasting. Co-fermented coffee develops its flavor during active fermentation at the farm, before the bean is even dried or roasted. The flavor is structurally integrated into the bean, not coated on top."
