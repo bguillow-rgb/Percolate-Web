@@ -13,10 +13,10 @@ quickAnswer: "Minerality in coffee is a tasting term for a clean, stone-like, or
 publishedAt: "2026-08-30"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-guatemalan-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
   - "how-to-build-a-coffee-palate"
   - "how-to-taste-coffee-like-a-cupper"
-  - "what-do-coffee-tasting-notes-mean"
 faqs:
   - q: "Is minerality in coffee the same as the minerals in brew water?"
     a: "No, they're related but distinct. Brew-water minerals (calcium, magnesium, bicarbonate) affect extraction chemistry. Minerality as a tasting note refers to a perceived flavor quality in the bean itself, shaped by origin soil, altitude, and processing, not by what's dissolved in your kettle."

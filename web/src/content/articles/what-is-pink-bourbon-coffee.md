@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-varieties-explained"
   - "ethiopian-vs-colombian-coffee"
   - "single-origin-coffee-flavor-by-country"
-  - "what-is-a-coffee-microlot"
+  - "what-does-guatemalan-coffee-taste-like"
 faqs:
   - q: "Is Pink Bourbon actually related to Bourbon coffee?"
     a: "Despite the name, genetic testing by RD2 Vision and DNA Analytica places Pink Bourbon's lineage with Ethiopian landrace populations, the same family as Chiroso and Wush Wush, not the Bourbon cultivar lineage the name implies. The name stuck because of the cherry color and its Colombian context, not confirmed genetics."

@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-do-coffee-tasting-notes-mean"
   - "why-do-coffee-cuppers-slurp"
   - "how-to-build-a-coffee-palate"
-  - "what-is-minerality-in-coffee"
+  - "what-does-guatemalan-coffee-taste-like"
 faqs:
   - q: "Who made the SCA Coffee Flavor Wheel?"
     a: "The SCA Coffee Taster's Flavor Wheel was developed jointly by the Specialty Coffee Association (SCA) and World Coffee Research (WCR). It was first published in 2016, replacing a 1995 version, and draws on a scientifically verified sensory lexicon built with over 100 sensory scientists."

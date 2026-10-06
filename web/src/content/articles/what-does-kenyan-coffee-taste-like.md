@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "ethiopian-vs-colombian-coffee"
   - "single-origin-coffee-flavor-by-country"
+  - "what-does-guatemalan-coffee-taste-like"
   - "arabica-vs-robusta-coffee"
-  - "coffee-growing-altitude-flavor-guide"
 faqs:
   - q: "Is Kenyan coffee very acidic?"
     a: "Yes, Kenyan coffee is among the most acidic origins in specialty coffee, but the acidity is structured and juicy rather than sharp or sour. It's driven by phosphoric and malic acids, which produce a vivid, fruit-like brightness rather than a harsh bite. Brewing with slightly coarser grind or hotter water can round it out if you find it too intense."
