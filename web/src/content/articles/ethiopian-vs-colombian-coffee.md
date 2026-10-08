@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "flat-burr-vs-conical-burr-grinder"
   - "pour-over-vs-french-press-coffee"
+  - "what-does-brazilian-coffee-taste-like"
   - "what-does-guatemalan-coffee-taste-like"
-  - "what-does-yemeni-coffee-taste-like"
 faqs:
   - q: "Is Ethiopian or Colombian coffee stronger?"
     a: "Strength depends on your brew ratio, not the origin. Both are 100% Arabica. Ethiopian coffees often feel brighter and more intense due to high acidity; Colombian coffees feel fuller and richer due to body. Neither is inherently higher in caffeine."
