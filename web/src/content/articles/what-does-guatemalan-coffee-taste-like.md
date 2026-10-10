@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "ethiopian-vs-colombian-coffee"
   - "single-origin-coffee-flavor-by-country"
+  - "what-does-rwandan-coffee-taste-like"
   - "what-is-minerality-in-coffee"
-  - "how-to-taste-coffee-like-a-cupper"
 faqs:
   - q: "What does Guatemalan coffee taste like?"
     a: "Most Guatemalan coffees share a core of dark chocolate sweetness, caramel, and balanced acidity with a medium-to-full body. Exact flavor depends on region, Antigua leans chocolatey and spiced, Huehuetenango is bright and fruity, and Atitlán falls somewhere between the two."

@@ -16,7 +16,7 @@ relatedSlugs:
   - "coffee-varieties-explained"
   - "single-origin-vs-coffee-blend"
   - "what-do-coffee-tasting-notes-mean"
-  - "what-is-a-coffee-cupping-score"
+  - "what-does-rwandan-coffee-taste-like"
 faqs:
   - q: "What is the difference between a microlot and a single-origin coffee?"
     a: "Single-origin coffee can come from an entire country, region, or cooperative, sometimes thousands of bags blended together from many farms. A microlot is far more specific: it traces back to one small plot, one processing day, or one select varietal on a single farm, giving it a tighter, more defined flavor identity."
