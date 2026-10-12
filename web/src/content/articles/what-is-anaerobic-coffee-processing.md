@@ -16,7 +16,7 @@ relatedSlugs:
   - "washed-vs-natural-vs-honey-process"
   - "what-is-carbonic-maceration-coffee"
   - "coffee-growing-altitude-flavor-guide"
-  - "coffee-varieties-explained"
+  - "what-does-ethiopian-coffee-taste-like"
 faqs:
   - q: "What does anaerobic coffee taste like?"
     a: "Anaerobic coffees typically taste bold, fruit-forward, and complex, think tropical fruit, berry, red wine, or floral jasmine notes. The sealed fermentation environment produces distinctive organic acids that amplify sweetness and aroma well beyond what washed or traditional natural processing delivers."

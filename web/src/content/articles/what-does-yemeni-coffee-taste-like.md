@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "ethiopian-vs-colombian-coffee"
   - "what-does-colombian-coffee-taste-like"
+  - "what-does-ethiopian-coffee-taste-like"
   - "what-does-brazilian-coffee-taste-like"
-  - "what-does-kenyan-coffee-taste-like"
 faqs:
   - q: "What makes Yemeni coffee different from other origins?"
     a: "Yemen grows uncatalogued heirloom varieties at extreme altitudes (1,500, 2,500 m) and processes almost all of its coffee as a natural dry process. The combination of ancient genetics, thin mountain air, and centuries-old tradition produces a cup that is far more aromatically intense and spiced than any other natural-process origin."

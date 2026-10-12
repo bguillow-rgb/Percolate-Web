@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "washed-vs-natural-vs-honey-process"
   - "ristretto-vs-lungo-vs-espresso"
+  - "what-does-ethiopian-coffee-taste-like"
   - "what-is-anaerobic-coffee-processing"
-  - "arabica-vs-robusta-coffee"
 faqs:
   - q: "Is wet hulled the same as wet processed or washed coffee?"
     a: "No, and this is the most common source of confusion. 'Wet processed' is another name for washed coffee, which highlights acidity and clarity. Wet hulled (Giling Basah) is a separate and very different method: it removes the parchment while the bean is still extremely moist, producing low acidity and heavy body, nearly the opposite flavor profile."

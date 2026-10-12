@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "ethiopian-vs-colombian-coffee"
   - "what-does-brazilian-coffee-taste-like"
+  - "what-does-ethiopian-coffee-taste-like"
   - "what-does-guatemalan-coffee-taste-like"
-  - "what-does-sumatran-coffee-taste-like"
 faqs:
   - q: "Is Colombian coffee strong?"
     a: "Colombian coffee sits in the middle of the strength spectrum. It's not a punishing, heavy cup like a Sumatra, nor is it as delicate as a light-roasted Ethiopian. Strength depends more on your brew ratio and roast level than on origin alone."
