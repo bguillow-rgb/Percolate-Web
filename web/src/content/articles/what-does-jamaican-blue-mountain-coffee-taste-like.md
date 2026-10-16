@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-does-rwandan-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
   - "what-does-brazilian-coffee-taste-like"
-  - "what-does-colombian-coffee-taste-like"
+  - "what-does-burundian-coffee-taste-like"
 faqs:
   - q: "Why is Jamaican Blue Mountain coffee so expensive?"
     a: "Three factors drive the price: a legally protected, tiny growing zone in four Jamaican parishes; strict hand-sorting and certification requirements that cap the defect rate under 2%; and massive export demand, over 80% of the crop goes to Japan, leaving very little for the rest of the world."

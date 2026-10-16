@@ -12,9 +12,9 @@ publishedAt: "2026-06-14"
 author: "Percolate"
 relatedSlugs:
   - "how-to-build-a-coffee-palate"
+  - "what-does-burundian-coffee-taste-like"
   - "what-does-colombian-coffee-taste-like"
   - "what-does-guatemalan-coffee-taste-like"
-  - "what-does-sumatran-coffee-taste-like"
 faqs:
   - q: "What is coffee cupping?"
     a: "Cupping is a standardized tasting method roasters and buyers use to evaluate coffee. Ground coffee is steeped in hot water in identical cups, the crust is broken and smelled, and the liquid is slurped and scored on fixed attributes so different coffees can be compared fairly."
