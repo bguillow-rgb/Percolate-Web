@@ -45,4 +45,31 @@ Questions? <a href="mailto:support@percolateapp.com" style="color:inherit;border
           else tag();
         } catch (e) {}
       })();
+    </script> <script>
+      // App Store outbound click -> GA4 `app_store_click`. Without this the
+      // site's only web conversion (going to the App Store) was unmeasurable.
+      //
+      // Delegated at the document level and matched on the href, not a
+      // data-attribute, so every current and future App Store link on every
+      // page is covered without touching each CTA. Params mirror the
+      // affiliate_outbound_clicked listener in ArticleLayout (page, platform).
+      // transport_type 'beacon' lets the hit survive the navigation away.
+      document.addEventListener('click', function (e) {
+        var a = e.target && e.target.closest && e.target.closest('a[href*="apps.apple.com"]');
+        if (!a || typeof window.gtag !== 'function') return;
+        var loc = a.closest('[data-cta], section, header, footer, nav, aside');
+        var src = '';
+        try { src = sessionStorage.getItem('tv_ai_src') || ''; } catch (err) {}
+        window.gtag('event', 'app_store_click', {
+          link_url: a.href || '',
+          link_text: (a.textContent || '').trim().slice(0, 100),
+          link_location: loc
+            ? (loc.getAttribute('data-cta') || loc.id || (loc.className && String(loc.className).split(' ')[0]) || loc.tagName.toLowerCase())
+            : 'body',
+          page: window.location.pathname,
+          ai_source: src,
+          platform: 'web',
+          transport_type: 'beacon',
+        });
+      }, true);
     </script> </body> </html>

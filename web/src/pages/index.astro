@@ -78,7 +78,7 @@ const faqs = [
       <p class="hero-tagline">Build a shelf of the bags you own, log a structured cupping note on every cup, and get matched to roasts and origins you&rsquo;ll actually like, from the beans you really brew.</p>
 
       {SITE.appStoreUrl ? (
-        <p class="hero-cta"><a class="btn" href={SITE.appStoreUrl}>Download on the App Store</a></p>
+        <p class="hero-cta"><a class="btn" data-cta="home-hero" href={SITE.appStoreUrl}>Download on the App Store</a></p>
       ) : (
         <p class="badge">Coming soon to the App Store</p>
       )}
@@ -155,7 +155,7 @@ const faqs = [
 
   <div class="cta-row">
     {SITE.appStoreUrl ? (
-      <a class="btn" href={SITE.appStoreUrl}>Download on iOS</a>
+      <a class="btn" data-cta="home-bottom" href={SITE.appStoreUrl}>Download on iOS</a>
     ) : (
       <span class="btn btn--disabled">App Store (Coming Soon)</span>
     )}
