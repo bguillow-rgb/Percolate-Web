@@ -79,6 +79,13 @@ const formattedDate = (updatedAt ?? publishedAt).toLocaleDateString('en-US', {
 
   <slot />
 
+  {SITE.appStoreUrl && (
+    <aside class="article-app-cta">
+      <p class="article-app-lead">Percolate keeps track of the bags on your shelf and the cups you brew, then points you to roasts you&rsquo;ll actually like. Free on iPhone.</p>
+      <a class="btn" data-cta="article-bottom" href={SITE.appStoreUrl}>Download on the App Store</a>
+    </aside>
+  )}
+
   <FAQ faqs={faqs} />
 
   <Footer />
@@ -103,6 +110,15 @@ const formattedDate = (updatedAt ?? publishedAt).toLocaleDateString('en-US', {
 </BaseLayout>
 
 <style is:global>
+  .article-app-cta {
+    margin: 38px 0 6px;
+    padding-top: 28px;
+    border-top: 1px solid var(--line);
+  }
+  .article-app-lead {
+    margin: 0 0 18px;
+    max-width: 42em;
+  }
   .aff-disclosure {
     font-size: 13.5px;
     line-height: 1.55;
