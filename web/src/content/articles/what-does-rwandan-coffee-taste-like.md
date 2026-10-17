@@ -13,10 +13,10 @@ quickAnswer: "Rwandan coffee is typically bright, clean, and fruit-forward, with
 publishedAt: "2026-10-10"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-tanzanian-coffee-taste-like"
   - "pour-over-vs-french-press-coffee"
   - "single-origin-coffee-flavor-by-country"
   - "what-does-burundian-coffee-taste-like"
-  - "what-does-guatemalan-coffee-taste-like"
 faqs:
   - q: "Is Rwandan coffee similar to Ethiopian or Kenyan coffee?"
     a: "It sits between the two. Rwandan coffee shares the floral and fruit character of Ethiopian coffees and the bright, wine-like acidity of Kenyan coffees, but typically has a more balanced, tea-like body and a cleaner finish than either."
