@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-does-colombian-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
   - "what-does-brazilian-coffee-taste-like"
-  - "how-to-taste-coffee-like-a-cupper"
+  - "what-does-costa-rican-coffee-taste-like"
 faqs:
   - q: "Is Sumatran coffee high in acidity?"
     a: "No. Sumatran coffee is consistently one of the lowest-acidity origins in specialty coffee. The wet-hulling process removes the parchment layer while beans are still moist, which significantly reduces perceived brightness and sharpness in the cup."
