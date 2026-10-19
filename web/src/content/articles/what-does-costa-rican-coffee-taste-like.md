@@ -16,7 +16,7 @@ relatedSlugs:
   - "ethiopian-vs-colombian-coffee"
   - "what-does-brazilian-coffee-taste-like"
   - "what-does-colombian-coffee-taste-like"
-  - "what-does-ethiopian-coffee-taste-like"
+  - "what-does-peruvian-coffee-taste-like"
 faqs:
   - q: "Is Costa Rican coffee strong or mild?"
     a: "Costa Rican coffee is medium-bodied and relatively smooth rather than aggressively strong. It's lively and bright from high-altitude acidity, but rarely heavy or harsh, making it accessible to newer specialty drinkers and satisfying for experienced palates alike."
