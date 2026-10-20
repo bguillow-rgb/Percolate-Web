@@ -13,10 +13,10 @@ quickAnswer: "Jamaican Blue Mountain coffee tastes smooth, mild, and clean, with
 publishedAt: "2026-10-15"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-nicaraguan-coffee-taste-like"
   - "what-does-rwandan-coffee-taste-like"
   - "what-does-tanzanian-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
-  - "what-does-brazilian-coffee-taste-like"
 faqs:
   - q: "Why is Jamaican Blue Mountain coffee so expensive?"
     a: "Three factors drive the price: a legally protected, tiny growing zone in four Jamaican parishes; strict hand-sorting and certification requirements that cap the defect rate under 2%; and massive export demand, over 80% of the crop goes to Japan, leaving very little for the rest of the world."
