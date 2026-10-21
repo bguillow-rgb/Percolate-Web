@@ -16,7 +16,7 @@ relatedSlugs:
   - "ethiopian-vs-colombian-coffee"
   - "what-does-colombian-coffee-taste-like"
   - "what-does-costa-rican-coffee-taste-like"
-  - "what-does-peruvian-coffee-taste-like"
+  - "what-does-honduran-coffee-taste-like"
 faqs:
   - q: "Is Brazilian coffee strong?"
     a: "Brazilian coffee is not inherently strong in the sharp or bitter sense. It is full-bodied and naturally sweet with low acidity, flavor-forward rather than intensely bitter. Brew it at a higher dose-to-water ratio if you want more concentration."
