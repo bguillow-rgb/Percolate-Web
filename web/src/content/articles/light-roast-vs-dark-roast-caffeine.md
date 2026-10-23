@@ -16,7 +16,7 @@ relatedSlugs:
   - "arabica-vs-robusta-coffee"
   - "coffee-roast-levels-explained"
   - "how-is-decaf-coffee-made"
-  - "brew-water-temperature-guide"
+  - "what-is-low-acid-coffee"
 faqs:
   - q: "Does light roast really have more caffeine than dark roast?"
     a: "By weight, no, the difference is negligible. By volume (tablespoon scoops), light roast comes out slightly ahead because denser light-roast beans weigh more per scoop, delivering marginally more caffeine. If you brew by weight on a scale, roast level barely changes your caffeine intake."
