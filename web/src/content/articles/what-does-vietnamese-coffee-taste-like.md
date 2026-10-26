@@ -14,9 +14,9 @@ publishedAt: "2026-10-24"
 author: "Percolate"
 relatedSlugs:
   - "arabica-vs-robusta-coffee"
+  - "what-does-ugandan-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
   - "what-does-brazilian-coffee-taste-like"
-  - "what-does-burundian-coffee-taste-like"
 faqs:
   - q: "Is Vietnamese coffee stronger than regular coffee?"
     a: "Yes, in two ways. Robusta beans (which dominate Vietnamese coffee) contain roughly twice the caffeine of arabica, and the phin filter produces a concentrated, slow-drip brew. The result is a cup that is both more caffeinated and more intense in flavor than a typical drip or pour-over."

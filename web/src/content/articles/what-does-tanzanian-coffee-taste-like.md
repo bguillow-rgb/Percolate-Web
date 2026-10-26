@@ -14,9 +14,9 @@ publishedAt: "2026-10-17"
 author: "Percolate"
 relatedSlugs:
   - "what-does-rwandan-coffee-taste-like"
+  - "what-does-ugandan-coffee-taste-like"
   - "what-does-burundian-coffee-taste-like"
   - "what-does-kenyan-coffee-taste-like"
-  - "what-does-peruvian-coffee-taste-like"
 faqs:
   - q: "Is Tanzanian coffee similar to Kenyan coffee?"
     a: "They share East African brightness and fruit notes, but Tanzanian coffee typically has a softer, more rounded acidity than Kenyan AA. Kenya tends toward sharp black-currant intensity; Tanzania delivers a wine-like complexity that is slightly fuller and less aggressive."
