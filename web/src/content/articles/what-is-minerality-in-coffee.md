@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-does-burundian-coffee-taste-like"
   - "what-does-colombian-coffee-taste-like"
   - "what-does-guatemalan-coffee-taste-like"
-  - "ethiopian-vs-colombian-coffee"
+  - "what-does-yirgacheffe-coffee-taste-like"
 faqs:
   - q: "Is minerality in coffee the same as the minerals in brew water?"
     a: "No, they're related but distinct. Brew-water minerals (calcium, magnesium, bicarbonate) affect extraction chemistry. Minerality as a tasting note refers to a perceived flavor quality in the bean itself, shaped by origin soil, altitude, and processing, not by what's dissolved in your kettle."

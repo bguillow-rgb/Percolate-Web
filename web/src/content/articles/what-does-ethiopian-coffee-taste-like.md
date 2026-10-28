@@ -13,10 +13,10 @@ quickAnswer: "Ethiopian coffee tastes bright, floral, and intensely fruity, the 
 publishedAt: "2026-10-12"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-yirgacheffe-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
   - "what-does-colombian-coffee-taste-like"
   - "what-does-yemeni-coffee-taste-like"
-  - "what-does-brazilian-coffee-taste-like"
 faqs:
   - q: "Is Ethiopian coffee strong?"
     a: "Not in the bitter, heavy sense. Ethiopian coffee is bold in complexity and aroma but typically light-to-medium in body. Brew it too dark and you'll lose the florals that make it special, a light or medium roast is almost always the right call."
