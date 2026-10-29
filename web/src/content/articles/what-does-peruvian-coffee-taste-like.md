@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "what-does-colombian-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
+  - "what-does-bolivian-coffee-taste-like"
   - "what-does-brazilian-coffee-taste-like"
-  - "what-does-costa-rican-coffee-taste-like"
 faqs:
   - q: "Is Peruvian coffee strong?"
     a: "Not in the bitter or heavy sense. Peru coffee is mildly acidic, medium-bodied, and flavorful without being aggressive. It's well-balanced rather than bold, approachable for everyday drinking."
