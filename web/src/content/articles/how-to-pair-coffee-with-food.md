@@ -13,10 +13,10 @@ quickAnswer: "Pair coffee with food using three rules: match intensity (bold roa
 publishedAt: "2026-08-21"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-malawian-coffee-taste-like"
   - "aeropress-vs-moka-pot"
   - "brew-water-temperature-guide"
   - "burr-grinder-vs-blade-grinder"
-  - "coffee-grind-size-by-brew-method"
 faqs:
   - q: "What foods pair well with light roast coffee?"
     a: "Light roasts pair well with fresh fruit, citrus pastries, yogurt, soft cheeses like Brie, and lemon tarts. Their bright acidity and floral or berry notes echo the delicacy of those foods without overpowering them."

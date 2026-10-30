@@ -13,10 +13,10 @@ quickAnswer: "Ugandan coffee tastes bold and structured, with dark chocolate, dr
 publishedAt: "2026-10-26"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-malawian-coffee-taste-like"
   - "what-does-rwandan-coffee-taste-like"
   - "what-does-tanzanian-coffee-taste-like"
   - "what-does-burundian-coffee-taste-like"
-  - "what-does-kenyan-coffee-taste-like"
 faqs:
   - q: "What does Ugandan coffee taste like?"
     a: "Ugandan Arabica is typically bold and structured with dark chocolate, dried fruit (plum, cherry), caramel, and wine-like acidity. The country's Robusta is earthier and more intensely bitter with nutty, herbal notes. Region and processing method shift the profile meaningfully."
