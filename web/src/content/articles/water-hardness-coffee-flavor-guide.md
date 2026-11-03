@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "what-is-coffee-bean-density"
   - "brew-water-temperature-guide"
+  - "what-does-indian-coffee-taste-like"
   - "burr-grinder-vs-blade-grinder"
-  - "coffee-growing-altitude-flavor-guide"
 faqs:
   - q: "What TDS should my coffee brewing water be?"
     a: "The Specialty Coffee Association recommends a total dissolved solids (TDS) level of 75, 250 ppm, with 150 ppm as the ideal target. Below 75 ppm, coffee tastes thin and under-extracted; above 250 ppm, it can turn muddy and bitter."
