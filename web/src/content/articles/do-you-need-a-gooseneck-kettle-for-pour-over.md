@@ -13,10 +13,10 @@ quickAnswer: "A gooseneck kettle isn't strictly required for pour over, but for 
 publishedAt: "2026-10-22"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-a-siphon-coffee-maker"
   - "what-is-batch-brew-coffee"
   - "what-is-coffee-bloom-and-why-it-matters"
   - "what-is-japanese-iced-coffee"
-  - "best-coffee-app"
 faqs:
   - q: "Can you make pour over coffee without a gooseneck kettle?"
     a: "Yes, but repeatability suffers. A standard kettle dumps water too fast and too broadly, making it hard to bloom evenly or control pour rate. You can get a decent cup with careful pouring, but dialing in a consistent recipe is much harder without the narrow spout."

@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-is-coffee-concentrate"
   - "coffee-grind-size-by-brew-method"
   - "what-is-japanese-iced-coffee"
-  - "what-is-a-turbo-shot-espresso"
+  - "what-is-a-siphon-coffee-maker"
 faqs:
   - q: "What ratio should I use for cold brew coffee?"
     a: "Use a 1:5 coffee-to-water ratio by weight for a concentrate (e.g., 200 g coffee to 1,000 g water), then dilute 1:1 with water or milk before drinking. For ready-to-drink cold brew, use 1:8 and serve straight."
