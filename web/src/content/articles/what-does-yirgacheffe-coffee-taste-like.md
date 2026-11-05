@@ -13,10 +13,10 @@ quickAnswer: "Yirgacheffe coffee tastes intensely floral and citrus-bright, thin
 publishedAt: "2026-10-28"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-sidamo-coffee-taste-like"
   - "what-does-ethiopian-coffee-taste-like"
   - "what-does-colombian-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
-  - "what-does-burundian-coffee-taste-like"
 faqs:
   - q: "What does Yirgacheffe coffee taste like?"
     a: "Washed Yirgacheffe tastes like jasmine, bergamot, lemon, and black tea with a light, clean body. Natural-process Yirgacheffe shifts toward blueberry, strawberry, and tropical fruit with a heavier, more syrupy mouthfeel."
