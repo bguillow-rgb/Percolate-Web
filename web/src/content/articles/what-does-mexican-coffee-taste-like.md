@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-does-guatemalan-coffee-taste-like"
   - "what-does-nicaraguan-coffee-taste-like"
   - "what-does-rwandan-coffee-taste-like"
-  - "ethiopian-vs-colombian-coffee"
+  - "what-does-zambian-coffee-taste-like"
 faqs:
   - q: "What does Mexican coffee taste like?"
     a: "Mexican coffee is typically mild and smooth, with chocolate, nut, and caramel notes, a light-to-medium body, and gentle acidity. Specialty lots from Chiapas and Oaxaca are more complex, with citrus, brown sugar, and subtle floral character."
