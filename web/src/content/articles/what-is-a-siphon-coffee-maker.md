@@ -13,10 +13,10 @@ quickAnswer: "A siphon coffee maker (also called a vacuum brewer or vac pot) use
 publishedAt: "2026-11-04"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-a-coffee-percolator"
   - "coffee-grind-size-by-brew-method"
   - "coffee-to-water-ratio-guide"
   - "do-you-need-a-gooseneck-kettle-for-pour-over"
-  - "flat-bottom-vs-conical-coffee-filter"
 faqs:
   - q: "What is a siphon coffee maker?"
     a: "A siphon coffee maker is a two-chamber brewing device that uses vapor pressure to push water up into the grounds, then vacuum suction to filter the brewed coffee back down. It's also known as a vacuum brewer or vac pot."
