@@ -16,7 +16,7 @@ relatedSlugs:
   - "how-to-choose-coffee-beans"
   - "aeropress-vs-moka-pot"
   - "coffee-roast-date-freshness-window"
-  - "how-to-read-a-coffee-bag-label"
+  - "how-to-buy-coffee-as-a-gift"
 faqs:
   - q: "How do I know if a coffee subscription will match my taste?"
     a: "Look for subscriptions that ask about roast level preference, flavor descriptors (fruity vs. chocolatey), and brew method before shipping. Services that send a taste quiz or let you preview tasting notes before each delivery give you far more control than generic 'roaster's choice' plans."
