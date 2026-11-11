@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-does-malawian-coffee-taste-like"
   - "what-does-tanzanian-coffee-taste-like"
   - "what-does-nicaraguan-coffee-taste-like"
-  - "what-does-ugandan-coffee-taste-like"
+  - "what-does-papua-new-guinea-coffee-taste-like"
 faqs:
   - q: "Is Rwandan coffee similar to Ethiopian or Kenyan coffee?"
     a: "It sits between the two. Rwandan coffee shares the floral and fruit character of Ethiopian coffees and the bright, wine-like acidity of Kenyan coffees, but typically has a more balanced, tea-like body and a cleaner finish than either."

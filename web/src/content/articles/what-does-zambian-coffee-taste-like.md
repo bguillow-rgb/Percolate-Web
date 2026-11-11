@@ -13,10 +13,10 @@ quickAnswer: "Zambian coffee is typically sweet and full-bodied with dark fruit 
 publishedAt: "2026-11-06"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-papua-new-guinea-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
   - "what-does-brazilian-coffee-taste-like"
   - "what-does-guatemalan-coffee-taste-like"
-  - "what-does-malawian-coffee-taste-like"
 faqs:
   - q: "Is Zambian coffee similar to Kenyan coffee?"
     a: "They share African brightness and the SL-28 variety, but Zambian coffee is softer and less intensely acidic than Kenyan. Expect darker fruit (plum, dried cherry) where Kenyan leans toward sharp currant and tomato-like acidity."
