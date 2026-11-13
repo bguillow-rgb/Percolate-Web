@@ -16,7 +16,7 @@ relatedSlugs:
   - "ethiopian-vs-colombian-coffee"
   - "what-does-burundian-coffee-taste-like"
   - "what-does-colombian-coffee-taste-like"
-  - "what-does-guatemalan-coffee-taste-like"
+  - "what-does-dark-roast-coffee-taste-like"
 faqs:
   - q: "Is Gesha the same as Geisha coffee?"
     a: "Yes, they are the same variety. 'Gesha' is the correct spelling, taken from the Gesha forest in Ethiopia where the variety originated. 'Geisha' became widespread after Panama's coffee industry popularized the bean internationally, and both spellings appear on specialty bags today."

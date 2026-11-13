@@ -13,10 +13,10 @@ quickAnswer: "Guatemalan coffee typically tastes like dark chocolate and caramel
 publishedAt: "2026-10-06"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-dark-roast-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
   - "single-origin-coffee-flavor-by-country"
   - "what-does-burundian-coffee-taste-like"
-  - "what-does-colombian-coffee-taste-like"
 faqs:
   - q: "What does Guatemalan coffee taste like?"
     a: "Most Guatemalan coffees share a core of dark chocolate sweetness, caramel, and balanced acidity with a medium-to-full body. Exact flavor depends on region, Antigua leans chocolatey and spiced, Huehuetenango is bright and fruity, and Atitlán falls somewhere between the two."

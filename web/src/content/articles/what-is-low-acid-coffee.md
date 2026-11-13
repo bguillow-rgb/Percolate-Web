@@ -16,7 +16,7 @@ relatedSlugs:
   - "light-roast-vs-dark-roast-caffeine"
   - "how-to-make-coffee-less-bitter"
   - "how-to-make-cold-brew-coffee-at-home"
-  - "what-does-indian-coffee-taste-like"
+  - "what-does-dark-roast-coffee-taste-like"
 faqs:
   - q: "What pH is considered low acid coffee?"
     a: "Most definitions set the threshold at pH 5.5 or above. Standard brewed coffee typically measures pH 4.85, 5.1. A 2024 university study recommended pH 5.5 as the minimum standard for a certified low acid label."

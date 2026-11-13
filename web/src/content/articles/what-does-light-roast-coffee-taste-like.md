@@ -13,10 +13,10 @@ quickAnswer: "Light roast coffee tastes bright, fruity, and often floral, expect
 publishedAt: "2026-11-12"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-dark-roast-coffee-taste-like"
   - "what-does-burundian-coffee-taste-like"
   - "what-does-kenyan-coffee-taste-like"
   - "what-does-malawian-coffee-taste-like"
-  - "what-does-medium-roast-coffee-taste-like"
 faqs:
   - q: "Is light roast coffee bitter?"
     a: "Light roast is the least bitter of all roast levels. Bitterness in coffee comes largely from roast-generated compounds that form at higher temperatures, light roast stops short of those ranges, so acidity and fruit sweetness dominate instead."

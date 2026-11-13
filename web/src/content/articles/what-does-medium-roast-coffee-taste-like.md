@@ -13,10 +13,10 @@ quickAnswer: "Medium roast coffee tastes smooth and balanced, expect chocolate, 
 publishedAt: "2026-11-08"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-dark-roast-coffee-taste-like"
   - "what-does-light-roast-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
   - "what-does-bolivian-coffee-taste-like"
-  - "what-does-brazilian-coffee-taste-like"
 faqs:
   - q: "Is medium roast coffee stronger than dark roast?"
     a: "Not in terms of caffeine, roast level changes caffeine only by a few percent. Medium roast can taste 'stronger' to some drinkers because it balances intensity and sweetness without the harsh bitterness that can mask complexity in dark roasts."

@@ -14,9 +14,9 @@ publishedAt: "2026-10-16"
 author: "Percolate"
 relatedSlugs:
   - "what-does-colombian-coffee-taste-like"
+  - "what-does-dark-roast-coffee-taste-like"
   - "what-does-guatemalan-coffee-taste-like"
   - "what-does-kenyan-coffee-taste-like"
-  - "what-does-malawian-coffee-taste-like"
 faqs:
   - q: "Is Burundian coffee similar to Ethiopian or Kenyan coffee?"
     a: "Burundian coffee sits between the two. It shares Ethiopia's citrusy sweetness and tea-like clarity, but carries a more pronounced, currant-driven acidity closer to Kenya. Think of it as a structured middle ground, less wild than Ethiopian naturals, less intensely acidic than top Kenyan lots."
