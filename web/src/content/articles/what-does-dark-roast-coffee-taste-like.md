@@ -13,10 +13,10 @@ quickAnswer: "Dark roast coffee tastes bold, bittersweet, and roast-driven, with
 publishedAt: "2026-11-13"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-congolese-coffee-taste-like"
   - "what-does-guatemalan-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
   - "what-does-burundian-coffee-taste-like"
-  - "what-does-colombian-coffee-taste-like"
 faqs:
   - q: "Is dark roast coffee always bitter?"
     a: "Not if it's roasted well. A quality specialty dark roast has bittersweet character, think dark chocolate, not harsh, acrid bitterness. Burnt or papery bitterness is a sign of over-roasting or stale beans, not an inherent feature of the roast level."

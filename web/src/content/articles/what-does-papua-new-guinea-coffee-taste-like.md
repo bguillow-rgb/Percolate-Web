@@ -13,10 +13,10 @@ quickAnswer: "Papua New Guinea coffee is clean and balanced, with a medium-to-fu
 publishedAt: "2026-11-11"
 author: "Percolate"
 relatedSlugs:
+  - "what-does-congolese-coffee-taste-like"
   - "what-does-rwandan-coffee-taste-like"
   - "what-does-zambian-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
-  - "what-does-guatemalan-coffee-taste-like"
 faqs:
   - q: "Is Papua New Guinea coffee similar to Indonesian coffee like Sumatra?"
     a: "No, this is a common mix-up. Most Indonesian coffee is wet-hulled, producing an earthy, heavy, low-acidity profile. PNG coffee is predominantly washed, giving it a cleaner, brighter, fruitier cup that feels nothing like a classic Sumatra."

@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "what-does-rwandan-coffee-taste-like"
   - "ethiopian-vs-colombian-coffee"
+  - "what-does-congolese-coffee-taste-like"
   - "what-does-guatemalan-coffee-taste-like"
-  - "what-does-mexican-coffee-taste-like"
 faqs:
   - q: "Is Nicaraguan coffee strong or mild?"
     a: "Nicaraguan coffee is mild to moderate in both acidity and caffeine impact. It has a smooth, balanced profile rather than an aggressive or polarizing one, which makes it well-suited to everyday brewing and approachable for a wide range of palates."
