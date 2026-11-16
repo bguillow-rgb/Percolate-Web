@@ -13,10 +13,10 @@ quickAnswer: "Carbonic maceration is a coffee processing method where whole, int
 publishedAt: "2026-07-14"
 author: "Percolate"
 relatedSlugs:
+  - "what-is-lactic-fermentation-coffee"
   - "what-is-anaerobic-coffee-processing"
   - "coffee-growing-altitude-flavor-guide"
   - "coffee-varieties-explained"
-  - "washed-vs-natural-vs-honey-process"
 faqs:
   - q: "What does carbonic maceration coffee taste like?"
     a: "Expect intense stone fruit (peach, plum), red berry, and sometimes a wine-like or candy quality. Acidity tends to be bright and lactic rather than sharp. The mouthfeel is often described as juicy or creamy. Poorly executed batches can turn astringent or funky, so source matters."

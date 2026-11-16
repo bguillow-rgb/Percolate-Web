@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "what-is-coffee-bean-density"
   - "what-is-a-coffee-roast-profile"
+  - "what-is-lactic-fermentation-coffee"
   - "single-origin-coffee-flavor-by-country"
-  - "what-does-honduran-coffee-taste-like"
 faqs:
   - q: "What does MASL mean on a coffee bag?"
     a: "MASL stands for 'meters above sea level.' It tells you the elevation at which the coffee was grown. Specialty roasters print it as a transparency signal, the higher the number, the slower the bean developed and, generally, the more complex the flavor."
