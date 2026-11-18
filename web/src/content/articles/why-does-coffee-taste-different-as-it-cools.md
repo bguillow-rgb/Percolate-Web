@@ -14,9 +14,9 @@ publishedAt: "2026-10-13"
 author: "Percolate"
 relatedSlugs:
   - "arabica-vs-robusta-coffee"
+  - "coffee-flavor-timeline-after-roasting"
   - "immersion-vs-percolation-coffee-brewing"
   - "paper-vs-metal-vs-cloth-coffee-filter"
-  - "aeropress-vs-moka-pot"
 faqs:
   - q: "Why does my coffee taste more sour when it cools down?"
     a: "Acidity becomes more perceptible as temperature drops. Organic acids like citric and malic acid don't change in concentration, but the heat that previously masked their sharpness is gone. Light roasts -- already higher in acid -- will taste noticeably more sour at cooler temperatures than they did when hot."

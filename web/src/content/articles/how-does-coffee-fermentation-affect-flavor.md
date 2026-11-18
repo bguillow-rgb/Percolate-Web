@@ -13,10 +13,10 @@ quickAnswer: "Coffee fermentation shapes flavor by allowing yeasts and bacteria 
 publishedAt: "2026-10-05"
 author: "Percolate"
 relatedSlugs:
+  - "coffee-flavor-timeline-after-roasting"
   - "ethiopian-vs-colombian-coffee"
   - "paper-vs-metal-vs-cloth-coffee-filter"
   - "what-is-a-coffee-roast-profile"
-  - "what-is-co-fermented-coffee"
 faqs:
   - q: "Does every coffee go through fermentation?"
     a: "Yes. All coffee ferments to some degree immediately after harvest, because the sugary mucilage surrounding the seed is a perfect environment for microbial activity. The difference between processing methods is how long fermentation is allowed to run, under what conditions, and how it is controlled."

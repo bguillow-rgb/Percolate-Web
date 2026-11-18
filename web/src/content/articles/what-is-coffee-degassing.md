@@ -13,10 +13,10 @@ quickAnswer: "Coffee degassing is the natural process by which freshly roasted b
 publishedAt: "2026-07-03"
 author: "Percolate"
 relatedSlugs:
+  - "coffee-flavor-timeline-after-roasting"
   - "how-long-to-rest-coffee-after-roasting"
   - "brew-water-temperature-guide"
   - "coffee-grind-size-by-brew-method"
-  - "flat-burr-vs-conical-burr-grinder"
 faqs:
   - q: "What is coffee degassing?"
     a: "Coffee degassing is the release of carbon dioxide (CO₂) that formed inside the bean during roasting. The gas escapes slowly over several days to two weeks after the roast date. Brewing before enough gas has escaped leads to uneven extraction and sour, muted flavors."

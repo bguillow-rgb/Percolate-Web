@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-is-new-crop-coffee"
   - "coffee-roast-date-freshness-window"
   - "how-long-does-ground-coffee-stay-fresh"
-  - "how-to-store-coffee-beans-fresh"
+  - "coffee-flavor-timeline-after-roasting"
 faqs:
   - q: "What does past crop coffee taste like?"
     a: "Past crop coffee typically tastes flatter and less vibrant than fresh-crop coffee. Brightness and acidity fade first, followed by sweetness. Poorly stored past-crop beans can develop papery, woody, or cardboard-like notes."
