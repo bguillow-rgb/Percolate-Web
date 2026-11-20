@@ -15,8 +15,8 @@ author: "Percolate"
 relatedSlugs:
   - "espresso-puck-prep-guide"
   - "what-is-espresso-channeling"
+  - "what-is-an-espresso-puck-screen"
   - "what-is-pour-over-channeling"
-  - "what-are-coffee-fines"
 faqs:
   - q: "What does WDT stand for in espresso?"
     a: "WDT stands for Weiss Distribution Technique, named after John Weiss, the retired computer scientist and biochemist who developed the method in the early 2000s as a practical solution to clumping in home espresso grinders."
